@@ -10,7 +10,73 @@ const TABS = [
   { id: "reviews", label: "Student Reviews" },
 ];
 
+const STATS = [
+  { value: "15", label: "Engineering Majors" },
+  { value: "1,300+", label: "Job Postings Analyzed" },
+  { value: "1,500+", label: "News Articles Scraped" },
+  { value: "900+", label: "Student Reviews Mined" },
+];
+
+function LandingPage({ onEnter }) {
+  const [visible, setVisible] = useState(false);
+  useEffect(() => { setTimeout(() => setVisible(true), 100); }, []);
+
+  return (
+    <div className={`landing ${visible ? "landing-visible" : ""}`}>
+      <div className="landing-bg">
+        <div className="landing-orb landing-orb-1" />
+        <div className="landing-orb landing-orb-2" />
+        <div className="landing-orb landing-orb-3" />
+      </div>
+
+      <div className="landing-content">
+        <div className="landing-badge">University of Michigan College of Engineering</div>
+
+        <h1 className="landing-title">
+          <span className="landing-title-sync">Sync</span>
+          <span className="landing-title-ed">Ed</span>
+        </h1>
+
+        <p className="landing-subtitle">Decision Intelligence Platform</p>
+
+        <p className="landing-desc">
+          Real-time analysis of how U-M engineering curriculum aligns with
+          job market demands. Powered by live web scraping, NLP analysis,
+          and Oracle Autonomous Database 26ai.
+        </p>
+
+        <div className="landing-stats">
+          {STATS.map((s) => (
+            <div key={s.label} className="landing-stat">
+              <span className="landing-stat-value">{s.value}</span>
+              <span className="landing-stat-label">{s.label}</span>
+            </div>
+          ))}
+        </div>
+
+        <button className="landing-cta" onClick={onEnter}>
+          <span>Explore the Dashboard</span>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+
+        <div className="landing-tech">
+          <span className="landing-tech-item">FastAPI</span>
+          <span className="landing-tech-dot" />
+          <span className="landing-tech-item">React</span>
+          <span className="landing-tech-dot" />
+          <span className="landing-tech-item">Oracle DB 26ai</span>
+          <span className="landing-tech-dot" />
+          <span className="landing-tech-item">scikit-learn</span>
+          <span className="landing-tech-dot" />
+          <span className="landing-tech-item">Cohere Command R+</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function App() {
+  const [entered, setEntered] = useState(false);
   const [activeTab, setActiveTab] = useState("curriculum");
   const [majors, setMajors] = useState([]);
   const [selectedMajor, setSelectedMajor] = useState("cs");
@@ -132,6 +198,10 @@ export default function App() {
   const majorObj = majors.find((m) => m.id === selectedMajor);
   const majorName = majorObj?.name || selectedMajor.toUpperCase();
 
+  if (!entered) {
+    return <LandingPage onEnter={() => setEntered(true)} />;
+  }
+
   if (loading) {
     return (
       <div className="loading">
@@ -186,11 +256,6 @@ export default function App() {
           {scrapeStatus?.phase === "scraping" && (
             <div className="sidebar-status scraping">
               Scraping {scrapeStatus.current_major?.toUpperCase()}...
-            </div>
-          )}
-          {scrapeStatus?.phase === "done" && (
-            <div className="sidebar-status done">
-              {scrapeStatus.completed_majors?.length} majors ready
             </div>
           )}
         </div>
