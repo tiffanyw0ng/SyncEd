@@ -755,17 +755,168 @@ async def refresh_reviews_all():
 
 @app.post("/api/refresh")
 async def refresh_data(major: str = "cs"):
-    """Re-scrape and re-analyze a major (including its news)."""
-    await _refresh_major(major)
+    """Re-analyze a major using cached data. Fast — no re-scraping."""
+    _load_cached_major(major)
+    courses = _state["courses"].get(major, [])
+    postings = _state["postings"].get(major, [])
+
+    if courses and postings:
+        analyzer = CurriculumAnalyzer()
+        analysis = analyzer.analyze(courses, postings, major_prefix=get_major(major).prefix if get_major(major) else "")
+        trends = get_market_skill_trends(postings, major_id=major)
+        _state["analyses"][major] = analysis
+        _state["trends"][major] = trends
+
+        cache_key = f"_curriculum_weakness_{major}"
+        if cache_key in _state:
+            del _state[cache_key]
+        cached_path = DATA_DIR / f"{major}_curriculum_weakness.json"
+        if cached_path.exists():
+            cached_path.unlink()
 
     return {
         "status": "refreshed",
         "major": major,
-        "courses": len(_state["courses"].get(major, [])),
-        "postings": len(_state["postings"].get(major, [])),
+        "courses": len(courses),
+        "postings": len(postings),
         "news_articles": len(_state["news"].get(major, [])),
-        "oracle_db": "saved" if oracle_db.is_configured() else "not configured",
     }
+
+
+# ---- Chatbot ----
+
+from fastapi import Body
+
+@app.post("/api/chat")
+async def chat_endpoint(payload: dict = Body(...)):
+    """Answer questions using insights from the analyzed data."""
+    question = payload.get("question", "").strip().lower()
+    major_id = payload.get("major", "cs")
+
+    if not question:
+        return {"answer": "Please ask a question about the curriculum or job market."}
+
+    _load_cached_major(major_id)
+    major_obj = get_major(major_id)
+    major_name = major_obj.name if major_obj else major_id.upper()
+
+    courses = _state["courses"].get(major_id, [])
+    analysis = _state["analyses"].get(major_id, {})
+    trends = _state["trends"].get(major_id, {})
+    reviews = _state["reviews"].get(major_id, [])
+    news = _state["news"].get(major_id, [])
+    news_trends_data = _state["news_trends"].get(major_id, {})
+
+    cache_key = f"_curriculum_weakness_{major_id}"
+    weakness = _state.get(cache_key)
+    if not weakness:
+        cached_path = DATA_DIR / f"{major_id}_curriculum_weakness.json"
+        if cached_path.exists():
+            with open(cached_path) as f:
+                weakness = json.load(f)
+
+    return {"answer": _build_chat_answer(
+        question, major_id, major_name, courses, analysis,
+        trends, reviews, news, news_trends_data, weakness
+    )}
+
+
+def _build_chat_answer(
+    question, major_id, major_name, courses, analysis,
+    trends, reviews, news, news_trends_data, weakness
+):
+    q = question.lower()
+
+    top_skills = trends.get("top_skills", [])
+    top_skill_names = [s[0] for s in top_skills[:10]] if top_skills else []
+
+    strengths = weakness.get("strengths", []) if weakness else []
+    weaknesses_list = weakness.get("weaknesses", []) if weakness else []
+    grade = weakness.get("overall_grade", "N/A") if weakness else "N/A"
+    coverage = weakness.get("coverage_score", "N/A") if weakness else "N/A"
+    summary_text = weakness.get("summary", "") if weakness else ""
+    emerging = weakness.get("emerging_gaps", []) if weakness else []
+
+    review_summary = {}
+    if reviews:
+        pos = sum(1 for r in reviews if getattr(r, "sentiment", "") == "positive" or (isinstance(r, dict) and r.get("sentiment") == "positive"))
+        neg = sum(1 for r in reviews if getattr(r, "sentiment", "") == "negative" or (isinstance(r, dict) and r.get("sentiment") == "negative"))
+        review_summary = {"total": len(reviews), "positive": pos, "negative": neg}
+
+    trending_topics = news_trends_data.get("trending_topics", []) if news_trends_data else []
+
+    if any(w in q for w in ["grade", "score", "rating", "how good", "how well", "overall"]):
+        answer = f"The {major_name} curriculum received a grade of **{grade}** with {coverage}% coverage of industry-demanded skills."
+        if summary_text:
+            answer += f"\n\n{summary_text}"
+        return answer
+
+    if any(w in q for w in ["strength", "good at", "well covered", "best", "strong"]):
+        if strengths:
+            top = strengths[:5]
+            items = ", ".join(f"**{s['skill']}** ({s['market_demand']}% demand)" for s in top)
+            return f"Key strengths in {major_name}: {items}. These skills appear in course topics and are highly demanded by employers."
+        return f"No strength data available for {major_name} yet."
+
+    if any(w in q for w in ["weakness", "gap", "missing", "lack", "improve", "need"]):
+        if weaknesses_list:
+            top = weaknesses_list[:5]
+            items = "\n".join(f"- **{w['skill']}** ({w['market_demand']}% demand) — {w.get('recommendation', '')}" for w in top)
+            return f"Top skill gaps in {major_name}:\n{items}"
+        return f"No weakness data available for {major_name} yet."
+
+    if any(w in q for w in ["skill", "top skill", "demand", "hire", "job", "market"]):
+        if top_skill_names:
+            items = ", ".join(f"**{s}**" for s in top_skill_names)
+            return f"The top in-demand skills for {major_name} are: {items}. These are ranked by frequency across {trends.get('total_postings', 0):,} job postings."
+        return f"No skill data available for {major_name} yet."
+
+    if any(w in q for w in ["course", "class", "teach", "curriculum", "what course"]):
+        if courses:
+            course_list = "\n".join(f"- **{c.code}**: {c.title}" for c in courses[:10]) if hasattr(courses[0], "code") else "\n".join(f"- **{c['code']}**: {c['title']}" for c in courses[:10])
+            return f"{major_name} has {len(courses)} courses. Here are some key ones:\n{course_list}"
+        return f"No course data loaded for {major_name}."
+
+    if any(w in q for w in ["review", "student", "sentiment", "feedback", "opinion"]):
+        if review_summary:
+            total = review_summary["total"]
+            pos = review_summary["positive"]
+            neg = review_summary["negative"]
+            pct_pos = round(pos / max(total, 1) * 100)
+            return f"Student reviews for {major_name}: **{total}** total reviews — **{pct_pos}%** positive, **{round(neg/max(total,1)*100)}%** negative. {'Overall positive sentiment.' if pct_pos > 50 else 'Mixed or negative sentiment — some courses may need attention.'}"
+        return f"No student review data for {major_name} yet."
+
+    if any(w in q for w in ["news", "trend", "trending", "article", "headline"]):
+        if trending_topics:
+            items = ", ".join(f"**{t[0]}** ({t[1]} articles)" for t in trending_topics[:7])
+            return f"Trending topics in {major_name} news: {items}. Based on {len(news)} articles from Google News and Hacker News."
+        return f"No news trends for {major_name} yet."
+
+    if any(w in q for w in ["emerging", "2026", "future", "new tech", "cutting edge"]):
+        if emerging:
+            items = "\n".join(f"- **{e['skill']}** ({e['status']}, {e['market_demand']}% demand)" for e in emerging[:7])
+            return f"Emerging 2026 technologies not yet fully addressed in {major_name}:\n{items}"
+        return f"No emerging tech data for {major_name}."
+
+    if any(w in q for w in ["recommend", "suggest", "should", "add", "what to"]):
+        if weaknesses_list:
+            top = weaknesses_list[:3]
+            items = "\n".join(f"- {w.get('recommendation', 'Add ' + w['skill'] + ' to relevant courses')}" for w in top)
+            return f"Top recommendations for {major_name}:\n{items}"
+        return f"No recommendations available for {major_name} yet."
+
+    if any(w in q for w in ["compare", "vs", "versus", "better", "which major"]):
+        return "I can analyze one major at a time. Switch to a different major in the sidebar and ask me the same question to compare!"
+
+    return (
+        f"Here's a quick overview of **{major_name}** (Grade: **{grade}**, {coverage}% coverage):\n\n"
+        f"**Top Skills:** {', '.join(top_skill_names[:5]) if top_skill_names else 'N/A'}\n"
+        f"**Strengths:** {', '.join(s['skill'] for s in strengths[:3]) if strengths else 'N/A'}\n"
+        f"**Gaps:** {', '.join(w['skill'] for w in weaknesses_list[:3]) if weaknesses_list else 'N/A'}\n"
+        f"**Reviews:** {review_summary.get('total', 0)} reviews\n"
+        f"**News:** {len(news)} articles\n\n"
+        f"Try asking about: skills, strengths, weaknesses, courses, reviews, news trends, emerging tech, or recommendations."
+    )
 
 
 # ---- Serve built frontend (production) ----

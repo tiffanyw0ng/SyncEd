@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 import CurriculumAnalysis from "./pages/CurriculumAnalysis";
 import StudentReviews from "./pages/StudentReviews";
 import MarketNewsTrends from "./pages/MarketNewsTrends";
+import Chatbot from "./components/Chatbot";
 
 const TABS = [
   { id: "curriculum", label: "Curriculum Analysis" },
@@ -24,38 +25,59 @@ export default function App() {
   const [analyzing, setAnalyzing] = useState(false);
   const [refreshing, setRefreshing] = useState(false);
 
+  const BASE = import.meta.env.MODE === "production" ? `${import.meta.env.BASE_URL}data` : "";
+  const isStatic = import.meta.env.MODE === "production";
+
   const fetchMajorData = useCallback(async (major) => {
-    const qs = `?major=${major}`;
-    const [dash, trends, recs, curriculum, reviews] = await Promise.all([
-      fetch(`/api/dashboard${qs}`).then((r) => r.json()),
-      fetch(`/api/market-trends${qs}`).then((r) => r.json()),
-      fetch(`/api/recommendations${qs}`).then((r) => r.json()),
-      fetch(`/api/curriculum-analysis${qs}`).then((r) => r.json()),
-      fetch(`/api/reviews${qs}`).then((r) => r.json()),
-    ]);
-    setDashboardData(dash);
-    setTrendsData(trends);
-    setRecsData(recs);
-    setCurriculumData(curriculum);
-    setReviewsData(reviews);
-  }, []);
+    if (isStatic) {
+      const [dash, trends, recs, curriculum, reviews] = await Promise.all([
+        fetch(`${BASE}/${major}/dashboard.json`).then((r) => r.json()),
+        fetch(`${BASE}/${major}/market_trends.json`).then((r) => r.json()),
+        fetch(`${BASE}/${major}/recommendations.json`).then((r) => r.json()),
+        fetch(`${BASE}/${major}/curriculum_analysis.json`).then((r) => r.json()),
+        fetch(`${BASE}/${major}/reviews.json`).then((r) => r.json()),
+      ]);
+      setDashboardData(dash);
+      setTrendsData(trends);
+      setRecsData(recs);
+      setCurriculumData(curriculum);
+      setReviewsData(reviews);
+    } else {
+      const qs = `?major=${major}`;
+      const [dash, trends, recs, curriculum, reviews] = await Promise.all([
+        fetch(`/api/dashboard${qs}`).then((r) => r.json()),
+        fetch(`/api/market-trends${qs}`).then((r) => r.json()),
+        fetch(`/api/recommendations${qs}`).then((r) => r.json()),
+        fetch(`/api/curriculum-analysis${qs}`).then((r) => r.json()),
+        fetch(`/api/reviews${qs}`).then((r) => r.json()),
+      ]);
+      setDashboardData(dash);
+      setTrendsData(trends);
+      setRecsData(recs);
+      setCurriculumData(curriculum);
+      setReviewsData(reviews);
+    }
+  }, [isStatic, BASE]);
 
   const fetchNews = useCallback(async (major) => {
-    const data = await fetch(`/api/news?major=${major}`).then((r) => r.json());
+    const url = isStatic ? `${BASE}/${major}/news.json` : `/api/news?major=${major}`;
+    const data = await fetch(url).then((r) => r.json());
     setNewsData(data);
-  }, []);
+  }, [isStatic, BASE]);
 
   const fetchStatus = useCallback(async () => {
+    if (isStatic) return;
     try {
       const data = await fetch("/api/scrape-status").then((r) => r.json());
       setScrapeStatus(data);
     } catch {}
-  }, []);
+  }, [isStatic]);
 
   useEffect(() => {
     (async () => {
       try {
-        const majorsResp = await fetch("/api/majors").then((r) => r.json());
+        const majorsUrl = isStatic ? `${BASE}/majors.json` : "/api/majors";
+        const majorsResp = await fetch(majorsUrl).then((r) => r.json());
         setMajors(majorsResp.majors || []);
         await Promise.all([fetchMajorData("cs"), fetchNews("cs"), fetchStatus()]);
       } catch (err) {
@@ -79,9 +101,11 @@ export default function App() {
     setSelectedMajor(majorId);
     setAnalyzing(true);
     try {
-      const dash = await fetch(`/api/dashboard?major=${majorId}`).then((r) => r.json());
-      if (dash.error) {
-        await fetch(`/api/majors/${majorId}/analyze`, { method: "POST" });
+      if (!isStatic) {
+        const dash = await fetch(`/api/dashboard?major=${majorId}`).then((r) => r.json());
+        if (dash.error) {
+          await fetch(`/api/majors/${majorId}/analyze`, { method: "POST" });
+        }
       }
       await Promise.all([fetchMajorData(majorId), fetchNews(majorId)]);
     } catch (err) {
@@ -94,8 +118,12 @@ export default function App() {
   const handleRefresh = async () => {
     setRefreshing(true);
     try {
-      await fetch(`/api/refresh?major=${selectedMajor}`, { method: "POST" });
+      if (!isStatic) {
+        await fetch(`/api/refresh?major=${selectedMajor}`, { method: "POST" });
+      }
       await Promise.all([fetchMajorData(selectedMajor), fetchNews(selectedMajor)]);
+    } catch (err) {
+      console.error("Refresh failed:", err);
     } finally {
       setRefreshing(false);
     }
@@ -239,6 +267,8 @@ export default function App() {
           )}
         </div>
       </main>
+
+      <Chatbot selectedMajor={selectedMajor} majorName={majorName} isStatic={isStatic} />
     </div>
   );
 }
