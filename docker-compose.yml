@@ -1,0 +1,21 @@
+services:
+  backend:
+    build: .
+    container_name: marketsync-backend
+    env_file: backend/.env
+    volumes:
+      - ./backend/data:/app/backend/data
+      - wallet:/app/wallet
+    restart: unless-stopped
+
+  frontend:
+    build: frontend/
+    container_name: marketsync-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  wallet:
