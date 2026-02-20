@@ -1,1 +1,339 @@
-{"major_id":"ioe","major_name":"Industrial & Operations Engineering","overall_alignment_score":32.0,"total_courses_analyzed":9,"total_job_postings":1327,"scraping_sources":{"hackernews":1412,"remoteok":34,"arbeitnow":145,"google_jobs":30},"top_gaps":[{"course_code":"IOE 310","course_title":"Introduction to Optimization Methods","alignment_score":23.1,"covered_skills":["optimization"],"missing_skills":["blockchain","deep learning","graphql","java","kotlin","lean","machine learning","quality control","react","redis","statistical analysis","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","Multiple roles","for the following: 1","for the following roles","Software Engineer"]},{"course_code":"IOE 201","course_title":"Economic Decision Making","alignment_score":27.7,"covered_skills":["optimization"],"missing_skills":["deep learning","fda","guidance","machine learning","power bi","project management","python","quality control","r","scala","sql","statistical analysis","supply chain"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["remote work opportunities","REMOTE","Software Engineer","skilled and experienced Project Manager to lead the development and commercializ","mid-career or senior engineer who will assume co-ownership of our data infrastru"]},{"course_code":"IOE 474","course_title":"Simulation","alignment_score":28.3,"covered_skills":["optimization","python","simulation"],"missing_skills":["fastapi","machine learning","polymer","r","rust","scala","supply chain","sustainability","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["full time","- Software Engineering folks (mainly full stackers in Typescript & Python) - Dat","lead front end engineer to join us on our mission to squash industrial emissions","- Software Engineering folks (mainly full stackers in Typescript & Python) - Dat","founding backend / systems engineer to own big pieces of our backend and help us"]},{"course_code":"IOE 316","course_title":"Introduction to Markov Processes","alignment_score":29.5,"covered_skills":["optimization","simulation"],"missing_skills":["ci/cd","data engineering","digital twin","fastapi","fpga","kubernetes","machine learning","manufacturing","optics","python","r","scala","semiconductor","supply chain"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["full time","2026 tech job market statistics and outlook","ambitious","founding backend / systems engineer to own big pieces of our backend and help us","in pretty much every IT field as we modernize systems"]},{"course_code":"IOE 425","course_title":"Lean Manufacturing","alignment_score":29.6,"covered_skills":["manufacturing","supply chain"],"missing_skills":[],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["2026 Manufacturing Industry Outlook","IT Infrastructure Lead","Fachexperte  SAP S/4HANA Datenmigration (m/w/d) (Ref.Nr.: 46173)","in GMT-3 to GMT-8","people with platform API experience and ideally have spent time at an early stag"]}],"top_aligned":[{"course_code":"IOE 373","course_title":"Data and Decision Analytics","alignment_score":41.6,"covered_skills":["machine learning","nlp","optimization","python"],"missing_skills":["aws","azure","data engineering","deep learning","etl","fastapi","lean","manufacturing","postgresql","power bi","quality control","r","react","scala","snowflake","sql","statistical analysis","tableau","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","remote work opportunities","Graduate Machine Learning Researchers for our quantitative modelling team","Data Engineer","passionate Software Engineers comfortable working across our stack (Python"]},{"course_code":"IOE 265","course_title":"Probability and Statistics for Engineers","alignment_score":40.0,"covered_skills":[],"missing_skills":["data engineering","data pipeline","ergonomics","forecasting","go","kubernetes","lean","machine learning","optimization","power bi","python","r","simulation","sql"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["2026 tech job market statistics and outlook","Fastest Inference API","for a Senior Software Engineer to work on our AutoScaling recommendation pipelin","for Engineers in our Compiler team","remote work opportunities"]},{"course_code":"IOE 366","course_title":"Linear Statistical Models","alignment_score":34.4,"covered_skills":["optimization","python"],"missing_skills":["ci/cd","data engineering","data pipeline","deep learning","etl","forecasting","go","graphql","kubernetes","lean","machine learning","quality control","react","redis","simulation","statistical analysis","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","Multiple roles","2026 tech job market statistics and outlook","Software Engineer Data Scientist","for a Senior Software Engineer to work on our AutoScaling recommendation pipelin"]},{"course_code":"IOE 491","course_title":"Operations Research in Practice","alignment_score":34.1,"covered_skills":["machine learning","optimization","python"],"missing_skills":["aws","deep learning","fastapi","manufacturing","postgresql","power bi","quality control","r","react","scala","sql","statistical analysis","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["remote work opportunities","Software Engineer","passionate Software Engineers comfortable working across our stack (Python","folks who: - can speak the languages of both research and engineering - are crea","folks who: - can speak the languages of both research and engineering - are crea"]},{"course_code":"IOE 425","course_title":"Lean Manufacturing","alignment_score":29.6,"covered_skills":["manufacturing","supply chain"],"missing_skills":[],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["2026 Manufacturing Industry Outlook","IT Infrastructure Lead","Fachexperte  SAP S/4HANA Datenmigration (m/w/d) (Ref.Nr.: 46173)","in GMT-3 to GMT-8","people with platform API experience and ideally have spent time at an early stag"]}],"new_course_recommendations":[{"suggested_code":"IOE 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":11.8,"related_existing_courses":[]}],"analysis_timestamp":"2026-02-20T09:52:14.118216","data_source":"oracle_db"}
+{
+  "major_id": "ioe",
+  "major_name": "Industrial & Operations Engineering",
+  "overall_alignment_score": 32.0,
+  "total_courses_analyzed": 23,
+  "total_job_postings": 1488,
+  "scraping_sources": {
+    "hackernews": 2200,
+    "remoteok": 57,
+    "arbeitnow": 171,
+    "google_jobs": 54
+  },
+  "top_gaps": [
+    {
+      "course_code": "IOE 310",
+      "course_title": "Introduction to Optimization Methods",
+      "alignment_score": 23.1,
+      "covered_skills": [
+        "optimization"
+      ],
+      "missing_skills": [
+        "blockchain",
+        "deep learning",
+        "graphql",
+        "java",
+        "kotlin",
+        "lean",
+        "machine learning",
+        "quality control",
+        "react",
+        "redis",
+        "statistical analysis",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "Multiple roles",
+        "for the following: 1",
+        "for the following roles",
+        "Software Engineer"
+      ]
+    },
+    {
+      "course_code": "IOE 201",
+      "course_title": "Economic Decision Making",
+      "alignment_score": 27.7,
+      "covered_skills": [
+        "optimization"
+      ],
+      "missing_skills": [
+        "deep learning",
+        "fda",
+        "guidance",
+        "machine learning",
+        "power bi",
+        "project management",
+        "python",
+        "quality control",
+        "r",
+        "scala",
+        "sql",
+        "statistical analysis",
+        "supply chain"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "remote work opportunities",
+        "REMOTE",
+        "Software Engineer",
+        "skilled and experienced Project Manager to lead the development and commercializ",
+        "mid-career or senior engineer who will assume co-ownership of our data infrastru"
+      ]
+    },
+    {
+      "course_code": "IOE 474",
+      "course_title": "Simulation",
+      "alignment_score": 28.3,
+      "covered_skills": [
+        "optimization",
+        "python",
+        "simulation"
+      ],
+      "missing_skills": [
+        "fastapi",
+        "machine learning",
+        "polymer",
+        "r",
+        "rust",
+        "scala",
+        "supply chain",
+        "sustainability",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "full time",
+        "- Software Engineering folks (mainly full stackers in Typescript & Python) - Dat",
+        "lead front end engineer to join us on our mission to squash industrial emissions",
+        "- Software Engineering folks (mainly full stackers in Typescript & Python) - Dat",
+        "founding backend / systems engineer to own big pieces of our backend and help us"
+      ]
+    },
+    {
+      "course_code": "IOE 316",
+      "course_title": "Introduction to Markov Processes",
+      "alignment_score": 29.5,
+      "covered_skills": [
+        "optimization",
+        "simulation"
+      ],
+      "missing_skills": [
+        "ci/cd",
+        "data engineering",
+        "digital twin",
+        "fastapi",
+        "fpga",
+        "kubernetes",
+        "machine learning",
+        "manufacturing",
+        "optics",
+        "python",
+        "r",
+        "scala",
+        "semiconductor",
+        "supply chain"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "full time",
+        "2026 tech job market statistics and outlook",
+        "ambitious",
+        "founding backend / systems engineer to own big pieces of our backend and help us",
+        "in pretty much every IT field as we modernize systems"
+      ]
+    },
+    {
+      "course_code": "IOE 425",
+      "course_title": "Lean Manufacturing",
+      "alignment_score": 29.6,
+      "covered_skills": [
+        "manufacturing",
+        "supply chain"
+      ],
+      "missing_skills": [],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "2026 Manufacturing Industry Outlook",
+        "IT Infrastructure Lead",
+        "Fachexperte  SAP S/4HANA Datenmigration (m/w/d) (Ref.Nr.: 46173)",
+        "in GMT-3 to GMT-8",
+        "people with platform API experience and ideally have spent time at an early stag"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "IOE 373",
+      "course_title": "Data and Decision Analytics",
+      "alignment_score": 41.6,
+      "covered_skills": [
+        "machine learning",
+        "nlp",
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "azure",
+        "data engineering",
+        "deep learning",
+        "etl",
+        "fastapi",
+        "lean",
+        "manufacturing",
+        "postgresql",
+        "power bi",
+        "quality control",
+        "r",
+        "react",
+        "scala",
+        "snowflake",
+        "sql",
+        "statistical analysis",
+        "tableau",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "remote work opportunities",
+        "Graduate Machine Learning Researchers for our quantitative modelling team",
+        "Data Engineer",
+        "passionate Software Engineers comfortable working across our stack (Python"
+      ]
+    },
+    {
+      "course_code": "IOE 265",
+      "course_title": "Probability and Statistics for Engineers",
+      "alignment_score": 40.0,
+      "covered_skills": [],
+      "missing_skills": [
+        "data engineering",
+        "data pipeline",
+        "ergonomics",
+        "forecasting",
+        "go",
+        "kubernetes",
+        "lean",
+        "machine learning",
+        "optimization",
+        "power bi",
+        "python",
+        "r",
+        "simulation",
+        "sql"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "2026 tech job market statistics and outlook",
+        "Fastest Inference API",
+        "for a Senior Software Engineer to work on our AutoScaling recommendation pipelin",
+        "for Engineers in our Compiler team",
+        "remote work opportunities"
+      ]
+    },
+    {
+      "course_code": "IOE 366",
+      "course_title": "Linear Statistical Models",
+      "alignment_score": 34.4,
+      "covered_skills": [
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "ci/cd",
+        "data engineering",
+        "data pipeline",
+        "deep learning",
+        "etl",
+        "forecasting",
+        "go",
+        "graphql",
+        "kubernetes",
+        "lean",
+        "machine learning",
+        "quality control",
+        "react",
+        "redis",
+        "simulation",
+        "statistical analysis",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "Multiple roles",
+        "2026 tech job market statistics and outlook",
+        "Software Engineer Data Scientist",
+        "for a Senior Software Engineer to work on our AutoScaling recommendation pipelin"
+      ]
+    },
+    {
+      "course_code": "IOE 491",
+      "course_title": "Operations Research in Practice",
+      "alignment_score": 34.1,
+      "covered_skills": [
+        "machine learning",
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "deep learning",
+        "fastapi",
+        "manufacturing",
+        "postgresql",
+        "power bi",
+        "quality control",
+        "r",
+        "react",
+        "scala",
+        "sql",
+        "statistical analysis",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "remote work opportunities",
+        "Software Engineer",
+        "passionate Software Engineers comfortable working across our stack (Python",
+        "folks who: - can speak the languages of both research and engineering - are crea",
+        "folks who: - can speak the languages of both research and engineering - are crea"
+      ]
+    },
+    {
+      "course_code": "IOE 425",
+      "course_title": "Lean Manufacturing",
+      "alignment_score": 29.6,
+      "covered_skills": [
+        "manufacturing",
+        "supply chain"
+      ],
+      "missing_skills": [],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "2026 Manufacturing Industry Outlook",
+        "IT Infrastructure Lead",
+        "Fachexperte  SAP S/4HANA Datenmigration (m/w/d) (Ref.Nr.: 46173)",
+        "in GMT-3 to GMT-8",
+        "people with platform API experience and ideally have spent time at an early stag"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "IOE 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 11.8,
+      "related_existing_courses": []
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T09:52:14.118216",
+  "data_source": "oracle_db"
+}

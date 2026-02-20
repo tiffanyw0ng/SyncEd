@@ -1,1 +1,342 @@
-{"major_id":"rob","major_name":"Robotics","overall_alignment_score":34.0,"total_courses_analyzed":10,"total_job_postings":1327,"scraping_sources":{"hackernews":1390,"remoteok":38,"arbeitnow":158,"google_jobs":33},"top_gaps":[{"course_code":"ROB 501","course_title":"Mathematics for Robotics","alignment_score":21.2,"covered_skills":["optimization"],"missing_skills":["computer vision","drone","gcp","go","java","kotlin","operations research","optics","python","r","robotics","ros","rust","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Multiple Roles","an R&D engineer who is enthusiastic about working on a complex system","an engineer who is enthusiastic about working on a complex system","Software Engineer to lead development of a computer vision based advanced metrol","SF"]},{"course_code":"ROB 330","course_title":"Localization, Mapping, and Navigation","alignment_score":24.8,"covered_skills":["perception","python","slam"],"missing_skills":["aws","computer vision","deep learning","docker","embedded systems","gis","go","machine learning","motion planning","navigation","r","react","robotics","ros","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Robotics Software Engineers","DevOps, Robotics Engineers","an experienced onboard Robot Software Tech Lead to drive the development and enh","engineers and product builders who want to ship to a passionate user base","Greater Boston Area or REMOTE"]},{"course_code":"ROB 201","course_title":"Introduction to Robotics","alignment_score":28.6,"covered_skills":["control systems","python","robotics"],"missing_skills":["computer vision","go","perception","plc","process control","ros","siem","solar"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Process Controls Engineer","Process Controls Engineer","Senior Robotics Engineer to help architect and implement our core technology sta","controls engineer to join our engineering team","candidates with good programming skills who are interested in robotics and have "]},{"course_code":"ROB 101","course_title":"Computational Linear Algebra","alignment_score":32.0,"covered_skills":["python"],"missing_skills":["autonomous systems","computer vision","defense","go","machine learning","manufacturing","motion planning","perception","r","robotics"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["candidates with good programming skills who are interested in robotics and have ","few types: - product engineers and generalists who can design and build features","Robotics and Embedded Software Engineers! 3Laws is an early stage startup workin","talented robotics/mechatronics engineers to help us scale our robotic wetlabs! M","jack-of-all-trades who can: prototype computer vision algorithms"]},{"course_code":"ROB 320","course_title":"Robot Mechanics and Kinematics","alignment_score":32.0,"covered_skills":["control systems","robotics"],"missing_skills":["autonomous systems","computer vision","plc","process control","python","ros","siem","solar"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["an experienced onboard Robot Software Tech Lead to drive the development and enh","Process Controls Engineer","controls engineer to join our engineering team","Process Controls Engineer","https://roboat.tech/"]}],"top_aligned":[{"course_code":"ROB 530","course_title":"Mobile Robotics","alignment_score":50.2,"covered_skills":["computer vision","motion planning","perception","python","slam"],"missing_skills":["actuators","ci/cd","control systems","drone","dynamics","environmental","go","guidance","kinematics","lean","lidar","logistics","machine learning","mongodb","navigation","power systems","reinforcement learning","robotics","ros","sensor fusion","simulation","spi","uart"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Robotics Software Engineers","Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning","Senior Staff GNC Engineer","Staff Software Engineer for our Motion Planning team","Software & Controls Engineer for Humanoid Robotics"]},{"course_code":"ROB 450","course_title":"Introduction to Robot Learning","alignment_score":49.4,"covered_skills":["deep learning","python","reinforcement learning","robotics"],"missing_skills":["computer vision","data pipeline","embedded systems","kubernetes","motion planning"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning","junior and senior engineers to work on an autonomous bulldozer","Zurich, Switzerland","Founding Engineer, ML Systems (Robotics)","for applied researchers & various engineering roles– please reach out to ali@aol"]},{"course_code":"ROB 422","course_title":"Robot Ethics","alignment_score":35.8,"covered_skills":["autonomous systems"],"missing_skills":["lean","lidar","machine learning","robotics"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Artificial Intelligence and Machine Learning Job Trends in 2026","Top 10 Highest Paying Artificial Intelligence Jobs & Salaries 2026","NRF 2026 Signals Retail Shift Toward Autonomous Systems","Curriculum Fellow in Artificial Intelligence/Machine Learning","experienced SWEs that can work across the stack: - Create pipelines for building"]},{"course_code":"ROB 340","course_title":"Human-Robot Interaction","alignment_score":33.7,"covered_skills":["autonomous systems","robotics"],"missing_skills":["go","lean","lidar","perception","python","reinforcement learning","ros","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["experienced SWEs that can work across the stack: - Create pipelines for building","an experienced onboard Robot Software Tech Lead to drive the development and enh","software engineers and design technologists to build a software engine that powe","Robotics and Embedded Software Engineers! 3Laws is an early stage startup workin","software engineers and design technologists to build the software engine that po"]},{"course_code":"ROB 535","course_title":"Self-Driving Cars","alignment_score":32.4,"covered_skills":["autonomous systems","computer vision","control systems","deep learning","motion planning","perception"],"missing_skills":["drone","guidance","logistics","machine learning","navigation","reinforcement learning","robotics","slam"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Senior Staff GNC Engineer","Staff Applied Scientist in computer vision and deep learning","Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning","Software Engineer","healthcare, machine learning, computer vision"]}],"new_course_recommendations":[{"suggested_code":"ROB 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":11.7,"related_existing_courses":[]}],"analysis_timestamp":"2026-02-20T09:48:29.102048","data_source":"oracle_db"}
+{
+  "major_id": "rob",
+  "major_name": "Robotics",
+  "overall_alignment_score": 34.0,
+  "total_courses_analyzed": 24,
+  "total_job_postings": 1823,
+  "scraping_sources": {
+    "hackernews": 2298,
+    "remoteok": 52,
+    "arbeitnow": 179,
+    "google_jobs": 60
+  },
+  "top_gaps": [
+    {
+      "course_code": "ROB 501",
+      "course_title": "Mathematics for Robotics",
+      "alignment_score": 21.2,
+      "covered_skills": [
+        "optimization"
+      ],
+      "missing_skills": [
+        "computer vision",
+        "drone",
+        "gcp",
+        "go",
+        "java",
+        "kotlin",
+        "operations research",
+        "optics",
+        "python",
+        "r",
+        "robotics",
+        "ros",
+        "rust",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Multiple Roles",
+        "an R&D engineer who is enthusiastic about working on a complex system",
+        "an engineer who is enthusiastic about working on a complex system",
+        "Software Engineer to lead development of a computer vision based advanced metrol",
+        "SF"
+      ]
+    },
+    {
+      "course_code": "ROB 330",
+      "course_title": "Localization, Mapping, and Navigation",
+      "alignment_score": 24.8,
+      "covered_skills": [
+        "perception",
+        "python",
+        "slam"
+      ],
+      "missing_skills": [
+        "aws",
+        "computer vision",
+        "deep learning",
+        "docker",
+        "embedded systems",
+        "gis",
+        "go",
+        "machine learning",
+        "motion planning",
+        "navigation",
+        "r",
+        "react",
+        "robotics",
+        "ros",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Robotics Software Engineers",
+        "DevOps, Robotics Engineers",
+        "an experienced onboard Robot Software Tech Lead to drive the development and enh",
+        "engineers and product builders who want to ship to a passionate user base",
+        "Greater Boston Area or REMOTE"
+      ]
+    },
+    {
+      "course_code": "ROB 201",
+      "course_title": "Introduction to Robotics",
+      "alignment_score": 28.6,
+      "covered_skills": [
+        "control systems",
+        "python",
+        "robotics"
+      ],
+      "missing_skills": [
+        "computer vision",
+        "go",
+        "perception",
+        "plc",
+        "process control",
+        "ros",
+        "siem",
+        "solar"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Process Controls Engineer",
+        "Process Controls Engineer",
+        "Senior Robotics Engineer to help architect and implement our core technology sta",
+        "controls engineer to join our engineering team",
+        "candidates with good programming skills who are interested in robotics and have "
+      ]
+    },
+    {
+      "course_code": "ROB 101",
+      "course_title": "Computational Linear Algebra",
+      "alignment_score": 32.0,
+      "covered_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "autonomous systems",
+        "computer vision",
+        "defense",
+        "go",
+        "machine learning",
+        "manufacturing",
+        "motion planning",
+        "perception",
+        "r",
+        "robotics"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "candidates with good programming skills who are interested in robotics and have ",
+        "few types: - product engineers and generalists who can design and build features",
+        "Robotics and Embedded Software Engineers! 3Laws is an early stage startup workin",
+        "talented robotics/mechatronics engineers to help us scale our robotic wetlabs! M",
+        "jack-of-all-trades who can: prototype computer vision algorithms"
+      ]
+    },
+    {
+      "course_code": "ROB 320",
+      "course_title": "Robot Mechanics and Kinematics",
+      "alignment_score": 32.0,
+      "covered_skills": [
+        "control systems",
+        "robotics"
+      ],
+      "missing_skills": [
+        "autonomous systems",
+        "computer vision",
+        "plc",
+        "process control",
+        "python",
+        "ros",
+        "siem",
+        "solar"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "an experienced onboard Robot Software Tech Lead to drive the development and enh",
+        "Process Controls Engineer",
+        "controls engineer to join our engineering team",
+        "Process Controls Engineer",
+        "https://roboat.tech/"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "ROB 530",
+      "course_title": "Mobile Robotics",
+      "alignment_score": 50.2,
+      "covered_skills": [
+        "computer vision",
+        "motion planning",
+        "perception",
+        "python",
+        "slam"
+      ],
+      "missing_skills": [
+        "actuators",
+        "ci/cd",
+        "control systems",
+        "drone",
+        "dynamics",
+        "environmental",
+        "go",
+        "guidance",
+        "kinematics",
+        "lean",
+        "lidar",
+        "logistics",
+        "machine learning",
+        "mongodb",
+        "navigation",
+        "power systems",
+        "reinforcement learning",
+        "robotics",
+        "ros",
+        "sensor fusion",
+        "simulation",
+        "spi",
+        "uart"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Robotics Software Engineers",
+        "Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning",
+        "Senior Staff GNC Engineer",
+        "Staff Software Engineer for our Motion Planning team",
+        "Software & Controls Engineer for Humanoid Robotics"
+      ]
+    },
+    {
+      "course_code": "ROB 450",
+      "course_title": "Introduction to Robot Learning",
+      "alignment_score": 49.4,
+      "covered_skills": [
+        "deep learning",
+        "python",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "missing_skills": [
+        "computer vision",
+        "data pipeline",
+        "embedded systems",
+        "kubernetes",
+        "motion planning"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning",
+        "junior and senior engineers to work on an autonomous bulldozer",
+        "Zurich, Switzerland",
+        "Founding Engineer, ML Systems (Robotics)",
+        "for applied researchers & various engineering roles\u2013 please reach out to ali@aol"
+      ]
+    },
+    {
+      "course_code": "ROB 422",
+      "course_title": "Robot Ethics",
+      "alignment_score": 35.8,
+      "covered_skills": [
+        "autonomous systems"
+      ],
+      "missing_skills": [
+        "lean",
+        "lidar",
+        "machine learning",
+        "robotics"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Artificial Intelligence and Machine Learning Job Trends in 2026",
+        "Top 10 Highest Paying Artificial Intelligence Jobs & Salaries 2026",
+        "NRF 2026 Signals Retail Shift Toward Autonomous Systems",
+        "Curriculum Fellow in Artificial Intelligence/Machine Learning",
+        "experienced SWEs that can work across the stack: - Create pipelines for building"
+      ]
+    },
+    {
+      "course_code": "ROB 340",
+      "course_title": "Human-Robot Interaction",
+      "alignment_score": 33.7,
+      "covered_skills": [
+        "autonomous systems",
+        "robotics"
+      ],
+      "missing_skills": [
+        "go",
+        "lean",
+        "lidar",
+        "perception",
+        "python",
+        "reinforcement learning",
+        "ros",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "experienced SWEs that can work across the stack: - Create pipelines for building",
+        "an experienced onboard Robot Software Tech Lead to drive the development and enh",
+        "software engineers and design technologists to build a software engine that powe",
+        "Robotics and Embedded Software Engineers! 3Laws is an early stage startup workin",
+        "software engineers and design technologists to build the software engine that po"
+      ]
+    },
+    {
+      "course_code": "ROB 535",
+      "course_title": "Self-Driving Cars",
+      "alignment_score": 32.4,
+      "covered_skills": [
+        "autonomous systems",
+        "computer vision",
+        "control systems",
+        "deep learning",
+        "motion planning",
+        "perception"
+      ],
+      "missing_skills": [
+        "drone",
+        "guidance",
+        "logistics",
+        "machine learning",
+        "navigation",
+        "reinforcement learning",
+        "robotics",
+        "slam"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Senior Staff GNC Engineer",
+        "Staff Applied Scientist in computer vision and deep learning",
+        "Adaptive motion planning for legged robots in unstructured terrain using deep reinforcement learning",
+        "Software Engineer",
+        "healthcare, machine learning, computer vision"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "ROB 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 11.7,
+      "related_existing_courses": []
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T09:48:29.102048",
+  "data_source": "oracle_db"
+}

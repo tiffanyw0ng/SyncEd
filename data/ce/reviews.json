@@ -1,1 +1,708 @@
-{"total_reviews":56,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":11,"course_summaries":[{"course_code":"EECS 473","total_reviews":3,"positive":0,"negative":2,"neutral":1,"avg_sentiment":-0.67,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Mark Brehob • 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"},{"text":"s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"}],"sample_positive":[]},{"course_code":"EECS 492","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/492/"}],"sample_positive":[]},{"course_code":"EECS 270","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/270/"}],"sample_positive":[]},{"course_code":"EECS 370","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Trevor Mudge • 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob • 3y First-year ENGR He speaks extre","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/370/"}],"sample_positive":[]},{"course_code":"EECS 312","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 427","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 470","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 478","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 498","total_reviews":20,"positive":5,"negative":5,"neutral":10,"avg_sentiment":0.0,"satisfaction_pct":25.0,"top_complaints":[["boring",5]],"top_praises":[["valuable",5]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}]},{"course_code":"EECS 373","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Ronald Dreslinski • 3y Junior EECS Literally made me want to go into an embedded systems career Robert Dick • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/373/"}]},{"course_code":"EECS 398","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Nicole Hamilton • 3y Junior BSC Ran excellent and frequent office hours. Very useful advice on the group project. Really cares for the success of each student both in their work for her class and their careers. Was very flexible and reasonable as an instructor with regards to course policies","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/398/"}]}],"flagged_courses":[{"course_code":"EECS 473","total_reviews":3,"positive":0,"negative":2,"neutral":1,"avg_sentiment":-0.67,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Mark Brehob • 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"},{"text":"s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"}],"sample_positive":[]},{"course_code":"EECS 492","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/492/"}],"sample_positive":[]},{"course_code":"EECS 270","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/270/"}],"sample_positive":[]},{"course_code":"EECS 370","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Trevor Mudge • 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob • 3y First-year ENGR He speaks extre","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/370/"}],"sample_positive":[]}],"overall_themes":[{"theme":"boring","count":7,"type":"negative"},{"theme":"valuable","count":5,"type":"positive"},{"theme":"poor teaching","count":4,"type":"negative"},{"theme":"career relevant","count":2,"type":"positive"}],"courses_at_risk":[{"course_code":"EECS 473","total_reviews":3,"positive":0,"negative":2,"neutral":1,"avg_sentiment":-0.67,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Mark Brehob • 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"},{"text":"s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/473/"}],"sample_positive":[],"alignment_score":43.3,"risk_level":"critical","reason":"Students report poor teaching, boring AND this course has only 43.3% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 492","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[],"sample_negative":[{"text":"ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/492/"}],"sample_positive":[],"alignment_score":32.4,"risk_level":"critical","reason":"Students report poor teaching, boring AND this course has only 32.4% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 270","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/270/"}],"sample_positive":[],"alignment_score":20.6,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 20.6% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 370","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Trevor Mudge • 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob • 3y First-year ENGR He speaks extre","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/370/"}],"sample_positive":[],"alignment_score":19.5,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 19.5% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 312","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":21.9,"risk_level":"moderate","reason":"Only 21.9% aligned with current job market demands."},{"course_code":"EECS 427","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":24.0,"risk_level":"moderate","reason":"Only 24.0% aligned with current job market demands."},{"course_code":"EECS 470","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":25.3,"risk_level":"moderate","reason":"Only 25.3% aligned with current job market demands."},{"course_code":"EECS 478","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":31.0,"risk_level":"moderate","reason":"Only 31.0% aligned with current job market demands."},{"course_code":"EECS 498","total_reviews":20,"positive":5,"negative":5,"neutral":10,"avg_sentiment":0.0,"satisfaction_pct":25.0,"top_complaints":[["boring",5]],"top_praises":[["valuable",5]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"alignment_score":40.8,"risk_level":"moderate","reason":"Only 40.8% aligned with current job market demands."},{"course_code":"EECS 373","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Ronald Dreslinski • 3y Junior EECS Literally made me want to go into an embedded systems career Robert Dick • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/373/"}],"alignment_score":49.1,"risk_level":"moderate","reason":"Only 49.1% aligned with current job market demands."},{"course_code":"EECS 398","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Nicole Hamilton • 3y Junior BSC Ran excellent and frequent office hours. Very useful advice on the group project. Really cares for the success of each student both in their work for her class and their careers. Was very flexible and reasonable as an instructor with regards to course policies","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/398/"}],"alignment_score":26.3,"risk_level":"moderate","reason":"Only 26.3% aligned with current job market demands."}],"major":"ce"}
+{
+  "total_reviews": 152,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 19,
+  "course_summaries": [
+    {
+      "course_code": "EECS 473",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 2,
+      "avg_sentiment": -0.67,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Mark Brehob \u2022 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        },
+        {
+          "text": "s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 492",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/492/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 270",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/270/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Trevor Mudge \u2022 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob \u2022 3y First-year ENGR He speaks extre",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/370/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 312",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 427",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 470",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 478",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 56,
+      "positive": 14,
+      "negative": 13,
+      "neutral": 29,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          5
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          5
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 373",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Ronald Dreslinski \u2022 3y Junior EECS Literally made me want to go into an embedded systems career Robert Dick \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/373/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 398",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Nicole Hamilton \u2022 3y Junior BSC Ran excellent and frequent office hours. Very useful advice on the group project. Really cares for the success of each student both in their work for her class and their careers. Was very flexible and reasonable as an instructor with regards to course policies",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/398/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "EECS 473",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 0,
+      "avg_sentiment": -0.67,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Mark Brehob \u2022 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        },
+        {
+          "text": "s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 492",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/492/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 270",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 8,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/270/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 15,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 11,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Trevor Mudge \u2022 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob \u2022 3y First-year ENGR He speaks extre",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/370/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "boring",
+      "count": 7,
+      "type": "negative"
+    },
+    {
+      "theme": "valuable",
+      "count": 5,
+      "type": "positive"
+    },
+    {
+      "theme": "poor teaching",
+      "count": 4,
+      "type": "negative"
+    },
+    {
+      "theme": "career relevant",
+      "count": 2,
+      "type": "positive"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "EECS 473",
+      "total_reviews": 8,
+      "positive": 1,
+      "negative": 4,
+      "neutral": 3,
+      "avg_sentiment": -0.67,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Mark Brehob \u2022 3y Senior COMP In my own view, this lecturer simple does not know the material at all. He is not clear in his presentation of the material and is very unhelpful and negative with respect to students' academic objectives. Mark Brehob \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        },
+        {
+          "text": "s Andrew Zaloudek , Alan Tondryk , Matthew Smith , Mark Brehob , Srinidhi Krishnan , Michael Shkolnik , Luke Cohen , Benjamin Cyr , Owen Winship , Celine Schlueter , James Connolly , Sharankumar Huggi , Matthew Connolly",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/473/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 43.3,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching, boring AND this course has only 43.3% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 492",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "ROB Kuipers definitely knows the material. Also, he likes the movie Short Circuit. But this class has some problems: A) His project specs are incomplete 75% of the time. B) The homeworks are unhelpful as pertains to the tests. C) The lectures are incredibly boring, personally... and you gotta go if ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/492/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 32.4,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching, boring AND this course has only 32.4% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 270",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Prof. Sakallah was a nice guy but a mediocre lecturer. He clearly knows the content, but he often rambled and slides were unclear. He was condescending and frequently commented on how \"easy\" content was, even though it often wasn't. Exams tested material that was nowhere to be found in the clas",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/270/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 20.6,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 20.6% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Trevor Mudge \u2022 3y First-year EECS The course is co-teached by three professors. The other two are great but Mudge seems to be a sharp contrast. Lectures are unclear and Mudges sometimes just seems to be unprepared and gives wrong instructions. Mark Brehob \u2022 3y First-year ENGR He speaks extre",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/370/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 19.5,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 19.5% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 312",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 21.9,
+      "risk_level": "moderate",
+      "reason": "Only 21.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 427",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 24.0,
+      "risk_level": "moderate",
+      "reason": "Only 24.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 470",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 25.3,
+      "risk_level": "moderate",
+      "reason": "Only 25.3% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 478",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 31.0,
+      "risk_level": "moderate",
+      "reason": "Only 31.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 53,
+      "positive": 13,
+      "negative": 13,
+      "neutral": 27,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          5
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          5
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "alignment_score": 40.8,
+      "risk_level": "moderate",
+      "reason": "Only 40.8% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 373",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Ronald Dreslinski \u2022 3y Junior EECS Literally made me want to go into an embedded systems career Robert Dick \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/373/"
+        }
+      ],
+      "alignment_score": 49.1,
+      "risk_level": "moderate",
+      "reason": "Only 49.1% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 398",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Nicole Hamilton \u2022 3y Junior BSC Ran excellent and frequent office hours. Very useful advice on the group project. Really cares for the success of each student both in their work for her class and their careers. Was very flexible and reasonable as an instructor with regards to course policies",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/398/"
+        }
+      ],
+      "alignment_score": 26.3,
+      "risk_level": "moderate",
+      "reason": "Only 26.3% aligned with current job market demands."
+    }
+  ],
+  "major": "ce"
+}

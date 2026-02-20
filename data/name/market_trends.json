@@ -1,1 +1,174 @@
-{"top_skills":[["python",318],["rust",132],["ai agents",35],["manufacturing",27],["computer vision",27],["simulation",23],["robotics",19],["cad",18],["rag",17],["edge ai",17],["defense",16],["sustainability",14],["agentic ai",14],["guidance",13],["drone",12],["satellite",10],["langchain",9],["c++",8],["navigation",8],["rocket",8],["dynamics",7],["control systems",5],["solidworks",4],["blockchain",4],["plc",3],["quantum computing",3],["path planning",3],["perception",3],["multi-agent systems",3],["matlab",2]],"category_demand":{"languages":1379,"ai_ml":421,"data":376,"cloud_infra":691,"web":720,"security":31,"hardware_embedded":118,"electrical_power":23,"mechanical_manufacturing":58,"biomedical":55,"civil_environmental":59,"chemical_process":22,"aerospace_defense":71,"robotics_controls":76,"operations_analytics":188,"emerging_2026":258},"total_postings":1327,"sources":{"hackernews":1186,"remoteok":28,"arbeitnow":83,"google_jobs":30},"emerging_2026":{"agentic ai":14,"ai agents":35,"multi-agent systems":3,"vector database":1,"vector search":1,"rag":17,"rust":132,"memory-safe programming":0,"llm orchestration":2,"langchain":9,"llamaindex":1,"crewai":0,"edge ai":17,"on-device ml":0,"federated learning":0,"quantum computing":3,"post-quantum cryptography":0,"web3":1,"blockchain":4,"digital twin":2,"autonomous systems":2,"sustainability":14,"green engineering":0}}
+{
+  "top_skills": [
+    [
+      "CAD",
+      407
+    ],
+    [
+      "MATLAB",
+      360
+    ],
+    [
+      "CFD",
+      330
+    ],
+    [
+      "FEA",
+      307
+    ],
+    [
+      "structural analysis",
+      285
+    ],
+    [
+      "python",
+      256
+    ],
+    [
+      "marine systems",
+      239
+    ],
+    [
+      "hydrodynamics",
+      214
+    ],
+    [
+      "SolidWorks",
+      197
+    ],
+    [
+      "manufacturing",
+      189
+    ],
+    [
+      "naval architecture",
+      173
+    ],
+    [
+      "GD&T",
+      156
+    ],
+    [
+      "ANSYS",
+      154
+    ],
+    [
+      "ship design",
+      139
+    ],
+    [
+      "Rhino",
+      127
+    ],
+    [
+      "project management",
+      119
+    ],
+    [
+      "fluid mechanics",
+      113
+    ],
+    [
+      "composites",
+      98
+    ],
+    [
+      "stability analysis",
+      96
+    ],
+    [
+      "propulsion",
+      90
+    ],
+    [
+      "offshore engineering",
+      84
+    ],
+    [
+      "welding",
+      76
+    ],
+    [
+      "corrosion",
+      71
+    ],
+    [
+      "ocean engineering",
+      63
+    ],
+    [
+      "AutoCAD",
+      60
+    ],
+    [
+      "lean manufacturing",
+      56
+    ],
+    [
+      "R",
+      50
+    ],
+    [
+      "machine learning",
+      43
+    ],
+    [
+      "structural steel",
+      41
+    ],
+    [
+      "marine safety",
+      37
+    ]
+  ],
+  "category_demand": {
+    "languages": 3066,
+    "ai_ml": 833,
+    "data": 754,
+    "cloud_infra": 1415,
+    "web": 1404,
+    "security": 61,
+    "hardware_embedded": 224,
+    "electrical_power": 41,
+    "mechanical_manufacturing": 109,
+    "biomedical": 120,
+    "civil_environmental": 123,
+    "chemical_process": 39,
+    "aerospace_defense": 145,
+    "robotics_controls": 151,
+    "operations_analytics": 419,
+    "emerging_2026": 542
+  },
+  "total_postings": 1664,
+  "sources": {
+    "hackernews": 2346,
+    "remoteok": 54,
+    "arbeitnow": 164,
+    "google_jobs": 58
+  },
+  "emerging_2026": {
+    "agentic ai": 25,
+    "ai agents": 65,
+    "multi-agent systems": 5,
+    "vector database": 1,
+    "vector search": 1,
+    "rag": 37,
+    "rust": 247,
+    "memory-safe programming": 1,
+    "llm orchestration": 3,
+    "langchain": 17,
+    "llamaindex": 1,
+    "crewai": 2,
+    "edge ai": 32,
+    "on-device ml": 1,
+    "federated learning": 1,
+    "quantum computing": 6,
+    "post-quantum cryptography": 2,
+    "web3": 1,
+    "blockchain": 8,
+    "digital twin": 4,
+    "autonomous systems": 3,
+    "sustainability": 29,
+    "green engineering": 1
+  }
+}

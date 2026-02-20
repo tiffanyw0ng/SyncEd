@@ -1,1 +1,1381 @@
-{"total_reviews":586,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":13,"course_summaries":[{"course_code":"EECS 442","total_reviews":32,"positive":1,"negative":2,"neutral":29,"avg_sentiment":-0.03,"satisfaction_pct":3.1,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[["practical",1]],"sample_negative":[{"text":"EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now？","source":"reddit","url":"https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"},{"text":"Reviews Jason Corso • 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/442/"}],"sample_positive":[{"text":"There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don’t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"}]},{"course_code":"EECS 203","total_reviews":112,"positive":3,"negative":5,"neutral":104,"avg_sentiment":-0.02,"satisfaction_pct":2.7,"top_complaints":[["too difficult",3],["needs modernization",2],["poor teaching",1]],"top_praises":[["career relevant",3],["valuable",1]],"sample_negative":[{"text":"Why the fuck is eecs 203 so fucking hard and very little resources available I’m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.","source":"reddit","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"}],"sample_positive":[{"text":"Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"},{"text":"The two together is a pretty common combo, just start stuff early and don’t overwhelm yourself since you’ll be using the stuff from there for the rest of your college career","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"},{"text":"When do people take EECS 281? Hi everyone, I’m an incoming CS-Eng major and I’m a bit worried I’m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I’d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I’d take 281 in ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"}]},{"course_code":"EECS 280","total_reviews":114,"positive":4,"negative":5,"neutral":105,"avg_sentiment":-0.01,"satisfaction_pct":3.5,"top_complaints":[["too difficult",2],["needs modernization",2],["not practical",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"},{"text":"1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"}],"sample_positive":[{"text":"EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca","source":"reddit","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Well tests are extremely valuable in the real world because you don’t want to push broken code to production so it is important that they teach this early on, just food for thought.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"}]},{"course_code":"EECS 370","total_reviews":80,"positive":4,"negative":5,"neutral":71,"avg_sentiment":-0.01,"satisfaction_pct":5.0,"top_complaints":[["too difficult",4],["poor teaching",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on","source":"reddit","url":"https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"},{"text":"376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co","source":"reddit","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"}],"sample_positive":[{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"hey! i had a similar situation with my code in 280–it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions—they were all super nice and helpful to me to","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"},{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"}]},{"course_code":"EECS 485","total_reviews":13,"positive":0,"negative":0,"neutral":13,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 482","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 484","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 498","total_reviews":4,"positive":1,"negative":1,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":25.0,"top_complaints":[["boring",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}]},{"course_code":"EECS 376","total_reviews":73,"positive":2,"negative":1,"neutral":70,"avg_sentiment":0.01,"satisfaction_pct":2.7,"top_complaints":[["boring",1]],"top_praises":[["valuable",1],["practical",1]],"sample_negative":[{"text":"Reviews Grant Schoenebeck • 3y First-year EECS He is so boring and a poor teacher. Wastes time going over concepts not on the exams. Refuses to: allow students to use laptops, post lecture slides, record lectures, or generally improve classes for students. Mark Brehob • 3y Graduate EECS I cannot und","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/376/"}],"sample_positive":[{"text":"Definitely go to office hours. I would recommend doing your HW only in there, and with ChatGPT, not that many people went. Find an IA that you can easily understand for discussion. Go for someone who actually structures their discussion by going through the questions, not just a free-for-all. I woul","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"},{"text":"Camp out office hours. Find people to do homework with so you can compare answers. AI is your choice, but don’t use it to do your work for you. Use it to help explain concepts to you and teach you. The homework is actually helpful and applicable to the exams in my experience. I never went to lecture","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"}]},{"course_code":"EECS 281","total_reviews":97,"positive":5,"negative":3,"neutral":89,"avg_sentiment":0.02,"satisfaction_pct":5.2,"top_complaints":[["too difficult",2],["boring",1]],"top_praises":[["career relevant",3],["practical",2]],"sample_negative":[{"text":"Obviously take this with a grain of salt since I had to retake it, but it was a lot for me. I spent up to 7 hours coding for days and camp during office hours to help with debugging. Dont even get me started on the exam, it was pretty brutal.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1q9d894/eecs_281_workload_questions/"},{"text":"Imagine flexing about EECS 281 💀 I saw some poor soul bragging about finishing the Letterman project early, like it was the second coming of Knuth. Cute. Really cute. Meanwhile, I wrapped that project up DAYS ago without even darkening the doorway of office hours. Office hours? Please. I don’t need ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1nehlyd/imagine_flexing_about_eecs_281/"},{"text":"I felt the same way you did in college. I retook statics 3 times in college because I failed it twice–brutal. I was an executive in the pharma/med device world before I was 40. This is one moment in time, don’t sweat it. Doesn’t matter how many times you fall down…just get up and make it happen. Bes","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"}],"sample_positive":[{"text":"Watch the project videos. He practically tells you how to layout all your data. If you don’t watch em, you’re going to have a lot of trouble","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1qd9rud/eecs_281_advice_for_a_washed_fella/"},{"text":"Surely this guy used something like Stackoverflow. He will do well in career because many professionals use the internet to develop code","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1nebngl/another_day_another_easy_eecs_281_project/"},{"text":"I retook 281 got a C+ in it, and went onto have a great career in software after graduation. Don’t sweat it but focus on actually learning the concepts. Just set aside time to work and projects and study everyday for the class. You got it.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"}]},{"course_code":"EECS 388","total_reviews":31,"positive":2,"negative":1,"neutral":28,"avg_sentiment":0.03,"satisfaction_pct":6.5,"top_complaints":[["too difficult",2]],"top_praises":[["valuable",2],["career relevant",1]],"sample_negative":[{"text":"I took the class fall 2021. The exam is purposely made extremely hard. The average on my final was low 40s/50s. They will curve it A LOT. Don’t worry.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/11agnyp/eecs_388_exam/"}],"sample_positive":[{"text":"i dont know about 489 but i took 388 last semester and i loved it so much!! the projects were fun and the topics are super useful if you are interested in cybersecurity","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1f2xc6l/eecs_388_or_489/"},{"text":"I loved 388 so much - favorite class I’ve taken here. I was like a little kid in a candy store doing the rop chain and forensics projects","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/uc0wbn/some_eecs_388_comics_and_491/"}]},{"course_code":"EECS 445","total_reviews":18,"positive":2,"negative":0,"neutral":16,"avg_sentiment":0.11,"satisfaction_pct":11.1,"top_complaints":[],"top_praises":[["practical",2]],"sample_negative":[],"sample_positive":[{"text":"CS Minor – EECS 445 vs 492 vs 485 ? i am doing a cs minor, in 281 currently, and will be taking an upper level elective next semester. i've read a lot of threads on the \"best\" upper levels to take, but these three (445, 492, 485) are my only options because they're the only ones that will count for ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1i5ys4d/cs_minor_eecs_445_vs_492_vs_485/"},{"text":"Rating 66 Description Introduction to Machine Learning --- Theory and implementation of state of the art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernal methods, neural networks, and regularization) and unsup","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/445/"}]},{"course_code":"EECS 486","total_reviews":3,"positive":1,"negative":0,"neutral":2,"avg_sentiment":0.33,"satisfaction_pct":33.3,"top_complaints":[],"top_praises":[["well taught",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Rada Mihalcea • 3y Senior NERS Great professor and Info Retrieval is fun! Its a moderate workload and her exams are open book and notes and honestly that's how it should be for all EECS classes cause what is the point of memorizing? Rada Mihalcea • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/486/"}]}],"flagged_courses":[{"course_code":"EECS 442","total_reviews":32,"positive":1,"negative":2,"neutral":29,"avg_sentiment":-0.03,"satisfaction_pct":3.1,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[["practical",1]],"sample_negative":[{"text":"EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now？","source":"reddit","url":"https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"},{"text":"Reviews Jason Corso • 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/442/"}],"sample_positive":[{"text":"There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don’t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"}]},{"course_code":"EECS 203","total_reviews":112,"positive":3,"negative":5,"neutral":104,"avg_sentiment":-0.02,"satisfaction_pct":2.7,"top_complaints":[["too difficult",3],["needs modernization",2],["poor teaching",1]],"top_praises":[["career relevant",3],["valuable",1]],"sample_negative":[{"text":"Why the fuck is eecs 203 so fucking hard and very little resources available I’m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.","source":"reddit","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"}],"sample_positive":[{"text":"Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"},{"text":"The two together is a pretty common combo, just start stuff early and don’t overwhelm yourself since you’ll be using the stuff from there for the rest of your college career","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"},{"text":"When do people take EECS 281? Hi everyone, I’m an incoming CS-Eng major and I’m a bit worried I’m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I’d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I’d take 281 in ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"}]},{"course_code":"EECS 280","total_reviews":114,"positive":4,"negative":5,"neutral":105,"avg_sentiment":-0.01,"satisfaction_pct":3.5,"top_complaints":[["too difficult",2],["needs modernization",2],["not practical",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"},{"text":"1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"}],"sample_positive":[{"text":"EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca","source":"reddit","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Well tests are extremely valuable in the real world because you don’t want to push broken code to production so it is important that they teach this early on, just food for thought.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"}]},{"course_code":"EECS 370","total_reviews":80,"positive":4,"negative":5,"neutral":71,"avg_sentiment":-0.01,"satisfaction_pct":5.0,"top_complaints":[["too difficult",4],["poor teaching",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on","source":"reddit","url":"https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"},{"text":"376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co","source":"reddit","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"}],"sample_positive":[{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"hey! i had a similar situation with my code in 280–it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions—they were all super nice and helpful to me to","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"},{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"}]}],"overall_themes":[{"theme":"too difficult","count":13,"type":"negative"},{"theme":"valuable","count":11,"type":"positive"},{"theme":"career relevant","count":9,"type":"positive"},{"theme":"practical","count":6,"type":"positive"},{"theme":"needs modernization","count":4,"type":"negative"},{"theme":"boring","count":4,"type":"negative"},{"theme":"poor teaching","count":3,"type":"negative"},{"theme":"not practical","count":1,"type":"negative"},{"theme":"well taught","count":1,"type":"positive"}],"courses_at_risk":[{"course_code":"EECS 442","total_reviews":32,"positive":1,"negative":2,"neutral":29,"avg_sentiment":-0.03,"satisfaction_pct":3.1,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[["practical",1]],"sample_negative":[{"text":"EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now？","source":"reddit","url":"https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"},{"text":"Reviews Jason Corso • 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/442/"}],"sample_positive":[{"text":"There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don’t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"}],"alignment_score":42.3,"risk_level":"critical","reason":"Students report poor teaching, boring AND this course has only 42.3% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 203","total_reviews":112,"positive":3,"negative":5,"neutral":104,"avg_sentiment":-0.02,"satisfaction_pct":2.7,"top_complaints":[["too difficult",3],["needs modernization",2],["poor teaching",1]],"top_praises":[["career relevant",3],["valuable",1]],"sample_negative":[{"text":"Why the fuck is eecs 203 so fucking hard and very little resources available I’m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.","source":"reddit","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"},{"text":"Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"}],"sample_positive":[{"text":"Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"},{"text":"The two together is a pretty common combo, just start stuff early and don’t overwhelm yourself since you’ll be using the stuff from there for the rest of your college career","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"},{"text":"When do people take EECS 281? Hi everyone, I’m an incoming CS-Eng major and I’m a bit worried I’m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I’d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I’d take 281 in ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"}],"alignment_score":22.3,"risk_level":"critical","reason":"Students report too difficult, needs modernization AND this course has only 22.3% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 280","total_reviews":114,"positive":4,"negative":5,"neutral":105,"avg_sentiment":-0.01,"satisfaction_pct":3.5,"top_complaints":[["too difficult",2],["needs modernization",2],["not practical",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"},{"text":"1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"}],"sample_positive":[{"text":"EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca","source":"reddit","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"Well tests are extremely valuable in the real world because you don’t want to push broken code to production so it is important that they teach this early on, just food for thought.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"},{"text":"In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"}],"alignment_score":26.1,"risk_level":"critical","reason":"Students report too difficult, needs modernization AND this course has only 26.1% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 370","total_reviews":80,"positive":4,"negative":5,"neutral":71,"avg_sentiment":-0.01,"satisfaction_pct":5.0,"top_complaints":[["too difficult",4],["poor teaching",1]],"top_praises":[["valuable",3],["career relevant",1]],"sample_negative":[{"text":"EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on","source":"reddit","url":"https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"},{"text":"376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co","source":"reddit","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"}],"sample_positive":[{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"},{"text":"hey! i had a similar situation with my code in 280–it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions—they were all super nice and helpful to me to","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"},{"text":"So 370 is hard just because it’s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"}],"alignment_score":19.0,"risk_level":"critical","reason":"Students report too difficult, poor teaching AND this course has only 19.0% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 485","total_reviews":13,"positive":0,"negative":0,"neutral":13,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":22.0,"risk_level":"moderate","reason":"Only 22.0% aligned with current job market demands."},{"course_code":"EECS 482","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":24.8,"risk_level":"moderate","reason":"Only 24.8% aligned with current job market demands."},{"course_code":"EECS 484","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":26.6,"risk_level":"moderate","reason":"Only 26.6% aligned with current job market demands."},{"course_code":"EECS 498","total_reviews":4,"positive":1,"negative":1,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":25.0,"top_complaints":[["boring",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"alignment_score":45.9,"risk_level":"moderate","reason":"Only 45.9% aligned with current job market demands."},{"course_code":"EECS 376","total_reviews":73,"positive":2,"negative":1,"neutral":70,"avg_sentiment":0.01,"satisfaction_pct":2.7,"top_complaints":[["boring",1]],"top_praises":[["valuable",1],["practical",1]],"sample_negative":[{"text":"Reviews Grant Schoenebeck • 3y First-year EECS He is so boring and a poor teacher. Wastes time going over concepts not on the exams. Refuses to: allow students to use laptops, post lecture slides, record lectures, or generally improve classes for students. Mark Brehob • 3y Graduate EECS I cannot und","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/376/"}],"sample_positive":[{"text":"Definitely go to office hours. I would recommend doing your HW only in there, and with ChatGPT, not that many people went. Find an IA that you can easily understand for discussion. Go for someone who actually structures their discussion by going through the questions, not just a free-for-all. I woul","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"},{"text":"Camp out office hours. Find people to do homework with so you can compare answers. AI is your choice, but don’t use it to do your work for you. Use it to help explain concepts to you and teach you. The homework is actually helpful and applicable to the exams in my experience. I never went to lecture","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"}],"alignment_score":24.0,"risk_level":"moderate","reason":"Only 24.0% aligned with current job market demands."},{"course_code":"EECS 281","total_reviews":97,"positive":5,"negative":3,"neutral":89,"avg_sentiment":0.02,"satisfaction_pct":5.2,"top_complaints":[["too difficult",2],["boring",1]],"top_praises":[["career relevant",3],["practical",2]],"sample_negative":[{"text":"Obviously take this with a grain of salt since I had to retake it, but it was a lot for me. I spent up to 7 hours coding for days and camp during office hours to help with debugging. Dont even get me started on the exam, it was pretty brutal.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1q9d894/eecs_281_workload_questions/"},{"text":"Imagine flexing about EECS 281 💀 I saw some poor soul bragging about finishing the Letterman project early, like it was the second coming of Knuth. Cute. Really cute. Meanwhile, I wrapped that project up DAYS ago without even darkening the doorway of office hours. Office hours? Please. I don’t need ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1nehlyd/imagine_flexing_about_eecs_281/"},{"text":"I felt the same way you did in college. I retook statics 3 times in college because I failed it twice–brutal. I was an executive in the pharma/med device world before I was 40. This is one moment in time, don’t sweat it. Doesn’t matter how many times you fall down…just get up and make it happen. Bes","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"}],"sample_positive":[{"text":"Watch the project videos. He practically tells you how to layout all your data. If you don’t watch em, you’re going to have a lot of trouble","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1qd9rud/eecs_281_advice_for_a_washed_fella/"},{"text":"Surely this guy used something like Stackoverflow. He will do well in career because many professionals use the internet to develop code","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1nebngl/another_day_another_easy_eecs_281_project/"},{"text":"I retook 281 got a C+ in it, and went onto have a great career in software after graduation. Don’t sweat it but focus on actually learning the concepts. Just set aside time to work and projects and study everyday for the class. You got it.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"}],"alignment_score":31.3,"risk_level":"moderate","reason":"Only 31.3% aligned with current job market demands."},{"course_code":"EECS 388","total_reviews":31,"positive":2,"negative":1,"neutral":28,"avg_sentiment":0.03,"satisfaction_pct":6.5,"top_complaints":[["too difficult",2]],"top_praises":[["valuable",2],["career relevant",1]],"sample_negative":[{"text":"I took the class fall 2021. The exam is purposely made extremely hard. The average on my final was low 40s/50s. They will curve it A LOT. Don’t worry.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/11agnyp/eecs_388_exam/"}],"sample_positive":[{"text":"i dont know about 489 but i took 388 last semester and i loved it so much!! the projects were fun and the topics are super useful if you are interested in cybersecurity","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1f2xc6l/eecs_388_or_489/"},{"text":"I loved 388 so much - favorite class I’ve taken here. I was like a little kid in a candy store doing the rop chain and forensics projects","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/uc0wbn/some_eecs_388_comics_and_491/"}],"alignment_score":21.4,"risk_level":"moderate","reason":"Only 21.4% aligned with current job market demands."},{"course_code":"EECS 445","total_reviews":18,"positive":2,"negative":0,"neutral":16,"avg_sentiment":0.11,"satisfaction_pct":11.1,"top_complaints":[],"top_praises":[["practical",2]],"sample_negative":[],"sample_positive":[{"text":"CS Minor – EECS 445 vs 492 vs 485 ? i am doing a cs minor, in 281 currently, and will be taking an upper level elective next semester. i've read a lot of threads on the \"best\" upper levels to take, but these three (445, 492, 485) are my only options because they're the only ones that will count for ","source":"reddit","url":"https://reddit.com/r/uofm/comments/1i5ys4d/cs_minor_eecs_445_vs_492_vs_485/"},{"text":"Rating 66 Description Introduction to Machine Learning --- Theory and implementation of state of the art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernal methods, neural networks, and regularization) and unsup","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/445/"}],"alignment_score":31.9,"risk_level":"moderate","reason":"Only 31.9% aligned with current job market demands."},{"course_code":"EECS 486","total_reviews":3,"positive":1,"negative":0,"neutral":2,"avg_sentiment":0.33,"satisfaction_pct":33.3,"top_complaints":[],"top_praises":[["well taught",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Rada Mihalcea • 3y Senior NERS Great professor and Info Retrieval is fun! Its a moderate workload and her exams are open book and notes and honestly that's how it should be for all EECS classes cause what is the point of memorizing? Rada Mihalcea • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/486/"}],"alignment_score":30.6,"risk_level":"moderate","reason":"Only 30.6% aligned with current job market demands."}],"major":"cs"}
+{
+  "total_reviews": 1639,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 19,
+  "course_summaries": [
+    {
+      "course_code": "EECS 442",
+      "total_reviews": 86,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 80,
+      "avg_sentiment": -0.03,
+      "satisfaction_pct": 3.1,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now\uff1f",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"
+        },
+        {
+          "text": "Reviews Jason Corso \u2022 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/442/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don\u2019t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 203",
+      "total_reviews": 326,
+      "positive": 8,
+      "negative": 12,
+      "neutral": 306,
+      "avg_sentiment": -0.02,
+      "satisfaction_pct": 2.7,
+      "top_complaints": [
+        [
+          "too difficult",
+          3
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "career relevant",
+          3
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Why the fuck is eecs 203 so fucking hard and very little resources available I\u2019m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"
+        },
+        {
+          "text": "The two together is a pretty common combo, just start stuff early and don\u2019t overwhelm yourself since you\u2019ll be using the stuff from there for the rest of your college career",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"
+        },
+        {
+          "text": "When do people take EECS 281? Hi everyone, I\u2019m an incoming CS-Eng major and I\u2019m a bit worried I\u2019m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I\u2019d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I\u2019d take 281 in ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 280",
+      "total_reviews": 324,
+      "positive": 12,
+      "negative": 12,
+      "neutral": 300,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 3.5,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        },
+        {
+          "text": "1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Well tests are extremely valuable in the real world because you don\u2019t want to push broken code to production so it is important that they teach this early on, just food for thought.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 235,
+      "positive": 11,
+      "negative": 13,
+      "neutral": 211,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 5.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          4
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"
+        },
+        {
+          "text": "376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "hey! i had a similar situation with my code in 280\u2013it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions\u2014they were all super nice and helpful to me to",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        },
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 485",
+      "total_reviews": 33,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 29,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 482",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 484",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 9,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 5,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 376",
+      "total_reviews": 192,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 185,
+      "avg_sentiment": 0.01,
+      "satisfaction_pct": 2.7,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ],
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Grant Schoenebeck \u2022 3y First-year EECS He is so boring and a poor teacher. Wastes time going over concepts not on the exams. Refuses to: allow students to use laptops, post lecture slides, record lectures, or generally improve classes for students. Mark Brehob \u2022 3y Graduate EECS I cannot und",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/376/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Definitely go to office hours. I would recommend doing your HW only in there, and with ChatGPT, not that many people went. Find an IA that you can easily understand for discussion. Go for someone who actually structures their discussion by going through the questions, not just a free-for-all. I woul",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"
+        },
+        {
+          "text": "Camp out office hours. Find people to do homework with so you can compare answers. AI is your choice, but don\u2019t use it to do your work for you. Use it to help explain concepts to you and teach you. The homework is actually helpful and applicable to the exams in my experience. I never went to lecture",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 281",
+      "total_reviews": 265,
+      "positive": 15,
+      "negative": 8,
+      "neutral": 242,
+      "avg_sentiment": 0.02,
+      "satisfaction_pct": 5.2,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "career relevant",
+          3
+        ],
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Obviously take this with a grain of salt since I had to retake it, but it was a lot for me. I spent up to 7 hours coding for days and camp during office hours to help with debugging. Dont even get me started on the exam, it was pretty brutal.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1q9d894/eecs_281_workload_questions/"
+        },
+        {
+          "text": "Imagine flexing about EECS 281 \ud83d\udc80 I saw some poor soul bragging about finishing the Letterman project early, like it was the second coming of Knuth. Cute. Really cute. Meanwhile, I wrapped that project up DAYS ago without even darkening the doorway of office hours. Office hours? Please. I don\u2019t need ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1nehlyd/imagine_flexing_about_eecs_281/"
+        },
+        {
+          "text": "I felt the same way you did in college. I retook statics 3 times in college because I failed it twice\u2013brutal. I was an executive in the pharma/med device world before I was 40. This is one moment in time, don\u2019t sweat it. Doesn\u2019t matter how many times you fall down\u2026just get up and make it happen. Bes",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Watch the project videos. He practically tells you how to layout all your data. If you don\u2019t watch em, you\u2019re going to have a lot of trouble",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1qd9rud/eecs_281_advice_for_a_washed_fella/"
+        },
+        {
+          "text": "Surely this guy used something like Stackoverflow. He will do well in career because many professionals use the internet to develop code",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1nebngl/another_day_another_easy_eecs_281_project/"
+        },
+        {
+          "text": "I retook 281 got a C+ in it, and went onto have a great career in software after graduation. Don\u2019t sweat it but focus on actually learning the concepts. Just set aside time to work and projects and study everyday for the class. You got it.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 388",
+      "total_reviews": 85,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 78,
+      "avg_sentiment": 0.03,
+      "satisfaction_pct": 6.5,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          2
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "I took the class fall 2021. The exam is purposely made extremely hard. The average on my final was low 40s/50s. They will curve it A LOT. Don\u2019t worry.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/11agnyp/eecs_388_exam/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "i dont know about 489 but i took 388 last semester and i loved it so much!! the projects were fun and the topics are super useful if you are interested in cybersecurity",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1f2xc6l/eecs_388_or_489/"
+        },
+        {
+          "text": "I loved 388 so much - favorite class I\u2019ve taken here. I was like a little kid in a candy store doing the rop chain and forensics projects",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/uc0wbn/some_eecs_388_comics_and_491/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 445",
+      "total_reviews": 53,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 46,
+      "avg_sentiment": 0.11,
+      "satisfaction_pct": 11.1,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "CS Minor \u2013 EECS 445 vs 492 vs 485 ? i am doing a cs minor, in 281 currently, and will be taking an upper level elective next semester. i've read a lot of threads on the \"best\" upper levels to take, but these three (445, 492, 485) are my only options because they're the only ones that will count for ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1i5ys4d/cs_minor_eecs_445_vs_492_vs_485/"
+        },
+        {
+          "text": "Rating 66 Description Introduction to Machine Learning --- Theory and implementation of state of the art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernal methods, neural networks, and regularization) and unsup",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/445/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 486",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.33,
+      "satisfaction_pct": 33.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Rada Mihalcea \u2022 3y Senior NERS Great professor and Info Retrieval is fun! Its a moderate workload and her exams are open book and notes and honestly that's how it should be for all EECS classes cause what is the point of memorizing? Rada Mihalcea \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/486/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "EECS 442",
+      "total_reviews": 88,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 82,
+      "avg_sentiment": -0.03,
+      "satisfaction_pct": 3.1,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now\uff1f",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"
+        },
+        {
+          "text": "Reviews Jason Corso \u2022 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/442/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don\u2019t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 203",
+      "total_reviews": 308,
+      "positive": 7,
+      "negative": 12,
+      "neutral": 289,
+      "avg_sentiment": -0.02,
+      "satisfaction_pct": 2.7,
+      "top_complaints": [
+        [
+          "too difficult",
+          3
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "career relevant",
+          3
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Why the fuck is eecs 203 so fucking hard and very little resources available I\u2019m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"
+        },
+        {
+          "text": "The two together is a pretty common combo, just start stuff early and don\u2019t overwhelm yourself since you\u2019ll be using the stuff from there for the rest of your college career",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"
+        },
+        {
+          "text": "When do people take EECS 281? Hi everyone, I\u2019m an incoming CS-Eng major and I\u2019m a bit worried I\u2019m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I\u2019d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I\u2019d take 281 in ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 280",
+      "total_reviews": 327,
+      "positive": 11,
+      "negative": 13,
+      "neutral": 303,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 3.5,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        },
+        {
+          "text": "1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Well tests are extremely valuable in the real world because you don\u2019t want to push broken code to production so it is important that they teach this early on, just food for thought.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 203,
+      "positive": 12,
+      "negative": 13,
+      "neutral": 178,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 5.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          4
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"
+        },
+        {
+          "text": "376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "hey! i had a similar situation with my code in 280\u2013it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions\u2014they were all super nice and helpful to me to",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        },
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        }
+      ]
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "too difficult",
+      "count": 13,
+      "type": "negative"
+    },
+    {
+      "theme": "valuable",
+      "count": 11,
+      "type": "positive"
+    },
+    {
+      "theme": "career relevant",
+      "count": 9,
+      "type": "positive"
+    },
+    {
+      "theme": "practical",
+      "count": 6,
+      "type": "positive"
+    },
+    {
+      "theme": "needs modernization",
+      "count": 4,
+      "type": "negative"
+    },
+    {
+      "theme": "boring",
+      "count": 4,
+      "type": "negative"
+    },
+    {
+      "theme": "poor teaching",
+      "count": 3,
+      "type": "negative"
+    },
+    {
+      "theme": "not practical",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "well taught",
+      "count": 1,
+      "type": "positive"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "EECS 442",
+      "total_reviews": 89,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 83,
+      "avg_sentiment": -0.03,
+      "satisfaction_pct": 3.1,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 442 bad professor? I heard eecs 442 got a complete course revamp and now the new prof who teaches it (Stella Xu) made it a lot harder, made lectures mandatory with no recordings, and is also a really bad teacher. If anyone took 442 recently, is this class actually much worse now\uff1f",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1px45c9/eecs_442_bad_professor/"
+        },
+        {
+          "text": "Reviews Jason Corso \u2022 3y Sophomore EECS This man gives you his companies Library and the projects are us debugging his companies library. It is illegal free labor. Pretty bad and boring professor too! David Fouhey \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/442/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "There are 6 programming homeworks that are about the same difficulty programming wise (but the topics add onto each other so that can be difficult if you don\u2019t understand something at the start). You have two weeks to complete each project and there is a final project that you work in a group of 4. ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1bp65gu/eecs_442_difficulty/"
+        }
+      ],
+      "alignment_score": 42.3,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching, boring AND this course has only 42.3% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 203",
+      "total_reviews": 315,
+      "positive": 8,
+      "negative": 14,
+      "neutral": 293,
+      "avg_sentiment": -0.02,
+      "satisfaction_pct": 2.7,
+      "top_complaints": [
+        [
+          "too difficult",
+          3
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "career relevant",
+          3
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Why the fuck is eecs 203 so fucking hard and very little resources available I\u2019m convinced that this class is setup so that students have to suffer. Especially in this semester this class is brutal.",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "I feel this. When I took it back when I was a freshman, it was the only class I have ever nearly bombed, where I got two standard deviations below the median on the first exam; and that was back when everything was in person! I did end up getting that back to an A- by the end of the semester. This c",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/j1sx1p/why_the_fuck_is_eecs_203_so_fucking_hard_and_very/"
+        },
+        {
+          "text": "Definitely time complexity, recursion, and logical statement (as conditions for loops and if statements and stuff - &amp;&amp;, ||) are really important. Other than that, a lot of 203 is not used in 281 much from what I've seen so far. I'm probably missing a few though",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1mmyl3y/how_much_of_eecs_203_is_used_in_eecs_281/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Michigan has hosted this course over the summer for the last three summers. But if you must take it elsewhere -- I heard that Michigan will stop accepting CC math courses in 2026 that are fully online. It can be async but the exams must be in person. Can't find the link to verify this, so just doubl",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1qx9brf/taking_eecs_203_during_summer/"
+        },
+        {
+          "text": "The two together is a pretty common combo, just start stuff early and don\u2019t overwhelm yourself since you\u2019ll be using the stuff from there for the rest of your college career",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1p1lgvk/eecs_203_280/"
+        },
+        {
+          "text": "When do people take EECS 281? Hi everyone, I\u2019m an incoming CS-Eng major and I\u2019m a bit worried I\u2019m on track to take EECS 281 late. Since I made the mistake of registering for ENGR 100 in first semester, I\u2019d do something like: ENGR 100 -&gt; 101 -&gt; EECS 203 + 280 -&gt; EECS 281, so I\u2019d take 281 in ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1ldwb77/when_do_people_take_eecs_281/"
+        }
+      ],
+      "alignment_score": 22.3,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, needs modernization AND this course has only 22.3% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 280",
+      "total_reviews": 326,
+      "positive": 11,
+      "negative": 13,
+      "neutral": 302,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 3.5,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "needs modernization",
+          2
+        ],
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Did you not have a partner the entire semester? I def struggled with EECS 280 and tried to do the first projects by myself before finding a partner on piazza in time for euchre. While long office hours queues are a valid concern, I think the biggest advice for 280, 281, and most EECS classes is just",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        },
+        {
+          "text": "1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw. 2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail pr",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/s8yawo/how_hard_is_it_to_get_an_a_in_eecs_280/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS 280 is super difficult to pass. It was a shit show, for me. It might have been easy for you, good on you, it wasn't for me. I didn't take 203 and don't come at me about 281. Like, I received good, reasonable advice to not rely on partners. Good fine fair advice to prepare for 281. However, beca",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "Well tests are extremely valuable in the real world because you don\u2019t want to push broken code to production so it is important that they teach this early on, just food for thought.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/kh5qve/eecs_280_is_super_difficult_to_pass/"
+        },
+        {
+          "text": "In ten years youre gonna realize that this is nothing in the overall grand scheme of life. Shit happens. Accepting the reality of outcomes and moving on with a gained experience is much more of a valuable lesson. You are also gonna realize that alot of professors are psychopaths and don't give a dam",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1khbfzp/i_missed_the_cut_off_for_eecs_280_by_05_points_on/"
+        }
+      ],
+      "alignment_score": 26.1,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, needs modernization AND this course has only 26.1% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 370",
+      "total_reviews": 214,
+      "positive": 10,
+      "negative": 14,
+      "neutral": 190,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 5.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          4
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          3
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "EECS 370 + 485, MATH 217 I am taking these three classes + a gen ed that is supposedly one of the easiest classes ever. I want to know people thoughts on workload. Obviously it is going to be hard but I hope not impossible. My goals are to maintain above 3.5 GPA for this sem and hopefully work on on",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1puim3c/eecs_370_485_math_217/"
+        },
+        {
+          "text": "376 is 203 but on steroids as someone else has mentioned. I'm doing it as well right now and it's a hard class. suggetion is to just do all the homeworks and understand them. Then just pass the exams and you automatically pass the class. Getting an A is extremely hard and if that's your daughter's g",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "EECS 370 Honor Code Violation Argument/Process (multiple) Okay, so I don't know where else to put this, and am really hoping some people can help my anxiety with this. I have now received two honor code violation emails from 370 staff, for two separate projects, but I have never even worked on my co",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        },
+        {
+          "text": "hey! i had a similar situation with my code in 280\u2013it turns out i accidentally had a public repo that people were able to access, so i would suggest seeing if you have something similar. would highly recommend emailing the honor council for any questions\u2014they were all super nice and helpful to me to",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hj1iao/eecs_370_honor_code_violation_argumentprocess/"
+        },
+        {
+          "text": "So 370 is hard just because it\u2019s the first time CS students encounter circuits and lower level programming such as assembly. My biggest recommendation is talk to professors talk to IAs go to office hours when you can and most importantly, get a group of people to help each other. I know how dumb thi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hz5exz/eecs_370_376/"
+        }
+      ],
+      "alignment_score": 19.0,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, poor teaching AND this course has only 19.0% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 485",
+      "total_reviews": 36,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 32,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 22.0,
+      "risk_level": "moderate",
+      "reason": "Only 22.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 482",
+      "total_reviews": 17,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 13,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 24.8,
+      "risk_level": "moderate",
+      "reason": "Only 24.8% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 484",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 26.6,
+      "risk_level": "moderate",
+      "reason": "Only 26.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "alignment_score": 45.9,
+      "risk_level": "moderate",
+      "reason": "Only 45.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 376",
+      "total_reviews": 200,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 193,
+      "avg_sentiment": 0.01,
+      "satisfaction_pct": 2.7,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ],
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Grant Schoenebeck \u2022 3y First-year EECS He is so boring and a poor teacher. Wastes time going over concepts not on the exams. Refuses to: allow students to use laptops, post lecture slides, record lectures, or generally improve classes for students. Mark Brehob \u2022 3y Graduate EECS I cannot und",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/376/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Definitely go to office hours. I would recommend doing your HW only in there, and with ChatGPT, not that many people went. Find an IA that you can easily understand for discussion. Go for someone who actually structures their discussion by going through the questions, not just a free-for-all. I woul",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"
+        },
+        {
+          "text": "Camp out office hours. Find people to do homework with so you can compare answers. AI is your choice, but don\u2019t use it to do your work for you. Use it to help explain concepts to you and teach you. The homework is actually helpful and applicable to the exams in my experience. I never went to lecture",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqz6b7/how_to_not_die_in_eecs_376/"
+        }
+      ],
+      "alignment_score": 24.0,
+      "risk_level": "moderate",
+      "reason": "Only 24.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 281",
+      "total_reviews": 283,
+      "positive": 15,
+      "negative": 8,
+      "neutral": 260,
+      "avg_sentiment": 0.02,
+      "satisfaction_pct": 5.2,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "career relevant",
+          3
+        ],
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Obviously take this with a grain of salt since I had to retake it, but it was a lot for me. I spent up to 7 hours coding for days and camp during office hours to help with debugging. Dont even get me started on the exam, it was pretty brutal.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1q9d894/eecs_281_workload_questions/"
+        },
+        {
+          "text": "Imagine flexing about EECS 281 \ud83d\udc80 I saw some poor soul bragging about finishing the Letterman project early, like it was the second coming of Knuth. Cute. Really cute. Meanwhile, I wrapped that project up DAYS ago without even darkening the doorway of office hours. Office hours? Please. I don\u2019t need ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1nehlyd/imagine_flexing_about_eecs_281/"
+        },
+        {
+          "text": "I felt the same way you did in college. I retook statics 3 times in college because I failed it twice\u2013brutal. I was an executive in the pharma/med device world before I was 40. This is one moment in time, don\u2019t sweat it. Doesn\u2019t matter how many times you fall down\u2026just get up and make it happen. Bes",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "Watch the project videos. He practically tells you how to layout all your data. If you don\u2019t watch em, you\u2019re going to have a lot of trouble",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1qd9rud/eecs_281_advice_for_a_washed_fella/"
+        },
+        {
+          "text": "Surely this guy used something like Stackoverflow. He will do well in career because many professionals use the internet to develop code",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1nebngl/another_day_another_easy_eecs_281_project/"
+        },
+        {
+          "text": "I retook 281 got a C+ in it, and went onto have a great career in software after graduation. Don\u2019t sweat it but focus on actually learning the concepts. Just set aside time to work and projects and study everyday for the class. You got it.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1i4f33m/feel_humiliated_that_im_retaking_eecs_281/"
+        }
+      ],
+      "alignment_score": 31.3,
+      "risk_level": "moderate",
+      "reason": "Only 31.3% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 388",
+      "total_reviews": 86,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 79,
+      "avg_sentiment": 0.03,
+      "satisfaction_pct": 6.5,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          2
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "I took the class fall 2021. The exam is purposely made extremely hard. The average on my final was low 40s/50s. They will curve it A LOT. Don\u2019t worry.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/11agnyp/eecs_388_exam/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "i dont know about 489 but i took 388 last semester and i loved it so much!! the projects were fun and the topics are super useful if you are interested in cybersecurity",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1f2xc6l/eecs_388_or_489/"
+        },
+        {
+          "text": "I loved 388 so much - favorite class I\u2019ve taken here. I was like a little kid in a candy store doing the rop chain and forensics projects",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/uc0wbn/some_eecs_388_comics_and_491/"
+        }
+      ],
+      "alignment_score": 21.4,
+      "risk_level": "moderate",
+      "reason": "Only 21.4% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 445",
+      "total_reviews": 46,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 39,
+      "avg_sentiment": 0.11,
+      "satisfaction_pct": 11.1,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "CS Minor \u2013 EECS 445 vs 492 vs 485 ? i am doing a cs minor, in 281 currently, and will be taking an upper level elective next semester. i've read a lot of threads on the \"best\" upper levels to take, but these three (445, 492, 485) are my only options because they're the only ones that will count for ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1i5ys4d/cs_minor_eecs_445_vs_492_vs_485/"
+        },
+        {
+          "text": "Rating 66 Description Introduction to Machine Learning --- Theory and implementation of state of the art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernal methods, neural networks, and regularization) and unsup",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/445/"
+        }
+      ],
+      "alignment_score": 31.9,
+      "risk_level": "moderate",
+      "reason": "Only 31.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 486",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": 0.33,
+      "satisfaction_pct": 33.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Rada Mihalcea \u2022 3y Senior NERS Great professor and Info Retrieval is fun! Its a moderate workload and her exams are open book and notes and honestly that's how it should be for all EECS classes cause what is the point of memorizing? Rada Mihalcea \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/486/"
+        }
+      ],
+      "alignment_score": 30.6,
+      "risk_level": "moderate",
+      "reason": "Only 30.6% aligned with current job market demands."
+    }
+  ],
+  "major": "cs"
+}

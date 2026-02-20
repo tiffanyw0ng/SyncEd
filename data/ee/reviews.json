@@ -1,1 +1,1242 @@
-{"total_reviews":326,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":13,"course_summaries":[{"course_code":"EECS 334","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Stephen Rand • 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/334/"}],"sample_positive":[]},{"course_code":"EECS 463","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["too difficult",1]],"top_praises":[],"sample_negative":[{"text":"EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/463/"}],"sample_positive":[]},{"course_code":"EECS 230","total_reviews":30,"positive":1,"negative":3,"neutral":26,"avg_sentiment":-0.07,"satisfaction_pct":3.3,"top_complaints":[["too difficult",2],["too theoretical",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ","source":"reddit","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"}],"sample_positive":[{"text":"230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"}]},{"course_code":"EECS 216","total_reviews":98,"positive":2,"negative":6,"neutral":90,"avg_sentiment":-0.04,"satisfaction_pct":2.0,"top_complaints":[["too difficult",6],["boring",2]],"top_praises":[["valuable",2],["practical",1],["career relevant",1]],"sample_negative":[{"text":"301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"}],"sample_positive":[{"text":"It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"},{"text":"Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"}]},{"course_code":"EECS 215","total_reviews":73,"positive":1,"negative":2,"neutral":70,"avg_sentiment":-0.01,"satisfaction_pct":1.4,"top_complaints":[["too difficult",1],["poor teaching",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu","source":"reddit","url":"https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"},{"text":"I’ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don’t really know if he’d be the best for technical teaching. I will bet that he’ll be pretty chill though and probably won’t be su","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"}],"sample_positive":[{"text":"AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/215/"}]},{"course_code":"EECS 301","total_reviews":32,"positive":3,"negative":3,"neutral":26,"avg_sentiment":0.0,"satisfaction_pct":9.4,"top_complaints":[["boring",2],["too difficult",1],["bad assignments",1]],"top_praises":[["practical",2],["valuable",1]],"sample_negative":[{"text":"301 isn’t that hard but it’s very boring and the teaching style isn’t good imo","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1it8or4/math_425_vs_stats_412_vs_eecs_301/"},{"text":"EECS 301 - Exam I am in EECS 301 and have the mid term next week. I haven't been paying that much attention since I've already taken EECS 203, Stats 250, and all the required math for CSE. &amp;#x200B; How are the exams? Are they like the homework problems? I have just been figuring out how to solve","source":"reddit","url":"https://reddit.com/r/uofm/comments/q83ggg/eecs_301_exam/"},{"text":"Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"}],"sample_positive":[{"text":"This is “feasible” but not in the good way and looks like it would be EECSxhausting. 370 + 281 is a painful combo due to project deadline overlap. If you ACTUALLY commit to properly starting projects day 1, then this becomes feasible in a way that you’ll earn grades you’re happy with. I’m going to g","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/15emxvr/eecs_270_eecs_281_eecs_301_eecs_370/"},{"text":"STATS 250 VS STATS 412 VS EECS 301 I'm trying to satisfy the stats requirement for CS-Eng, but am not sure which to take. I plan on taking EECS 281, EECS 270, Stats?, and a humanities Fall 2017. I'd prefer a more interesting stats course applicable to engineering, but easiness comes first.","source":"reddit","url":"https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"},{"text":"All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/30b2jy/thoughts_on_eecs_301_vs_stats_412/"}]},{"course_code":"EECS 460","total_reviews":12,"positive":0,"negative":0,"neutral":12,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 414","total_reviews":7,"positive":0,"negative":0,"neutral":7,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 330","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"EECS 320","total_reviews":26,"positive":4,"negative":2,"neutral":20,"avg_sentiment":0.08,"satisfaction_pct":15.4,"top_complaints":[["not practical",2]],"top_praises":[["well taught",3],["valuable",1]],"sample_negative":[{"text":"what is with the deluge of bot posts on x-mas? I’ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"},{"text":"what is with the deluge of bot posts on x-mas? I’ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"}],"sample_positive":[{"text":"EECS 320 - Crisis Hours Complete shot in the dark, has anyone taken EECS 320 with Professor Forrest, our midterm is tuesday and he's given us essentially nothing to study from so I'd like to judge how fucked I am for this exam \\-any help is appreciated","source":"reddit","url":"https://reddit.com/r/uofm/comments/f04fof/eecs_320_crisis_hours/"},{"text":"I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I’m not sure if this policy stays in place for L.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"},{"text":"I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I’m not sure if this policy stays in place for L.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"}]},{"course_code":"EECS 311","total_reviews":12,"positive":1,"negative":0,"neutral":11,"avg_sentiment":0.08,"satisfaction_pct":8.3,"top_complaints":[],"top_praises":[["valuable",1]],"sample_negative":[],"sample_positive":[{"text":"EECS I just took EECS 311 with Professor Flynn for the Fall of 2019. He is a fantastic professor. Flynn does a great job explaining concepts and provides plenty of examples during lecture. Sometimes he moves slowly during lecture but only because he really wants his students to understand the materi","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/311/"}]},{"course_code":"EECS 498","total_reviews":20,"positive":5,"negative":3,"neutral":12,"avg_sentiment":0.1,"satisfaction_pct":25.0,"top_complaints":[["boring",3]],"top_praises":[["valuable",5]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"I can personally vouch for all of Austin's courses! They're some of the most fun I've had in college. Highly recommend!","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"},{"text":"Highly recommend Game Engine architecture, greatest class I’ve ever taken in my life!","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}]},{"course_code":"EECS 465","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"}]}],"flagged_courses":[{"course_code":"EECS 334","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Stephen Rand • 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/334/"}],"sample_positive":[]},{"course_code":"EECS 463","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["too difficult",1]],"top_praises":[],"sample_negative":[{"text":"EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/463/"}],"sample_positive":[]},{"course_code":"EECS 230","total_reviews":30,"positive":1,"negative":3,"neutral":26,"avg_sentiment":-0.07,"satisfaction_pct":3.3,"top_complaints":[["too difficult",2],["too theoretical",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ","source":"reddit","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"}],"sample_positive":[{"text":"230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"}]},{"course_code":"EECS 216","total_reviews":98,"positive":2,"negative":6,"neutral":90,"avg_sentiment":-0.04,"satisfaction_pct":2.0,"top_complaints":[["too difficult",6],["boring",2]],"top_praises":[["valuable",2],["practical",1],["career relevant",1]],"sample_negative":[{"text":"301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"}],"sample_positive":[{"text":"It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"},{"text":"Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"}]},{"course_code":"EECS 215","total_reviews":73,"positive":1,"negative":2,"neutral":70,"avg_sentiment":-0.01,"satisfaction_pct":1.4,"top_complaints":[["too difficult",1],["poor teaching",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu","source":"reddit","url":"https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"},{"text":"I’ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don’t really know if he’d be the best for technical teaching. I will bet that he’ll be pretty chill though and probably won’t be su","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"}],"sample_positive":[{"text":"AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/215/"}]}],"overall_themes":[{"theme":"valuable","count":12,"type":"positive"},{"theme":"too difficult","count":11,"type":"negative"},{"theme":"boring","count":7,"type":"negative"},{"theme":"practical","count":3,"type":"positive"},{"theme":"well taught","count":3,"type":"positive"},{"theme":"poor teaching","count":2,"type":"negative"},{"theme":"not practical","count":2,"type":"negative"},{"theme":"career relevant","count":2,"type":"positive"},{"theme":"too theoretical","count":1,"type":"negative"},{"theme":"bad assignments","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"EECS 334","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Stephen Rand • 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/334/"}],"sample_positive":[],"alignment_score":35.7,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 35.7% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 463","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["too difficult",1]],"top_praises":[],"sample_negative":[{"text":"EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/463/"}],"sample_positive":[],"alignment_score":26.5,"risk_level":"critical","reason":"Students report too difficult AND this course has only 26.5% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 230","total_reviews":30,"positive":1,"negative":3,"neutral":26,"avg_sentiment":-0.07,"satisfaction_pct":3.3,"top_complaints":[["too difficult",2],["too theoretical",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ","source":"reddit","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"},{"text":"Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"}],"sample_positive":[{"text":"230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"}],"alignment_score":23.3,"risk_level":"critical","reason":"Students report too difficult, too theoretical AND this course has only 23.3% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 216","total_reviews":98,"positive":2,"negative":6,"neutral":90,"avg_sentiment":-0.04,"satisfaction_pct":2.0,"top_complaints":[["too difficult",6],["boring",2]],"top_praises":[["valuable",2],["practical",1],["career relevant",1]],"sample_negative":[{"text":"301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"},{"text":"From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"}],"sample_positive":[{"text":"It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"},{"text":"Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"}],"alignment_score":26.0,"risk_level":"critical","reason":"Students report too difficult, boring AND this course has only 26.0% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 215","total_reviews":73,"positive":1,"negative":2,"neutral":70,"avg_sentiment":-0.01,"satisfaction_pct":1.4,"top_complaints":[["too difficult",1],["poor teaching",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu","source":"reddit","url":"https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"},{"text":"I’ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don’t really know if he’d be the best for technical teaching. I will bet that he’ll be pretty chill though and probably won’t be su","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"}],"sample_positive":[{"text":"AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/215/"}],"alignment_score":23.6,"risk_level":"critical","reason":"Students report too difficult, poor teaching AND this course has only 23.6% market alignment. Urgent overhaul recommended."},{"course_code":"EECS 301","total_reviews":32,"positive":3,"negative":3,"neutral":26,"avg_sentiment":0.0,"satisfaction_pct":9.4,"top_complaints":[["boring",2],["too difficult",1],["bad assignments",1]],"top_praises":[["practical",2],["valuable",1]],"sample_negative":[{"text":"301 isn’t that hard but it’s very boring and the teaching style isn’t good imo","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1it8or4/math_425_vs_stats_412_vs_eecs_301/"},{"text":"EECS 301 - Exam I am in EECS 301 and have the mid term next week. I haven't been paying that much attention since I've already taken EECS 203, Stats 250, and all the required math for CSE. &amp;#x200B; How are the exams? Are they like the homework problems? I have just been figuring out how to solve","source":"reddit","url":"https://reddit.com/r/uofm/comments/q83ggg/eecs_301_exam/"},{"text":"Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"}],"sample_positive":[{"text":"This is “feasible” but not in the good way and looks like it would be EECSxhausting. 370 + 281 is a painful combo due to project deadline overlap. If you ACTUALLY commit to properly starting projects day 1, then this becomes feasible in a way that you’ll earn grades you’re happy with. I’m going to g","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/15emxvr/eecs_270_eecs_281_eecs_301_eecs_370/"},{"text":"STATS 250 VS STATS 412 VS EECS 301 I'm trying to satisfy the stats requirement for CS-Eng, but am not sure which to take. I plan on taking EECS 281, EECS 270, Stats?, and a humanities Fall 2017. I'd prefer a more interesting stats course applicable to engineering, but easiness comes first.","source":"reddit","url":"https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"},{"text":"All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/30b2jy/thoughts_on_eecs_301_vs_stats_412/"}],"alignment_score":32.2,"risk_level":"moderate","reason":"Only 32.2% aligned with current job market demands."},{"course_code":"EECS 460","total_reviews":12,"positive":0,"negative":0,"neutral":12,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":28.2,"risk_level":"moderate","reason":"Only 28.2% aligned with current job market demands."},{"course_code":"EECS 414","total_reviews":7,"positive":0,"negative":0,"neutral":7,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":41.6,"risk_level":"moderate","reason":"Only 41.6% aligned with current job market demands."},{"course_code":"EECS 330","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":30.9,"risk_level":"moderate","reason":"Only 30.9% aligned with current job market demands."},{"course_code":"EECS 320","total_reviews":26,"positive":4,"negative":2,"neutral":20,"avg_sentiment":0.08,"satisfaction_pct":15.4,"top_complaints":[["not practical",2]],"top_praises":[["well taught",3],["valuable",1]],"sample_negative":[{"text":"what is with the deluge of bot posts on x-mas? I’ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"},{"text":"what is with the deluge of bot posts on x-mas? I’ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"}],"sample_positive":[{"text":"EECS 320 - Crisis Hours Complete shot in the dark, has anyone taken EECS 320 with Professor Forrest, our midterm is tuesday and he's given us essentially nothing to study from so I'd like to judge how fucked I am for this exam \\-any help is appreciated","source":"reddit","url":"https://reddit.com/r/uofm/comments/f04fof/eecs_320_crisis_hours/"},{"text":"I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I’m not sure if this policy stays in place for L.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"},{"text":"I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I’m not sure if this policy stays in place for L.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"}],"alignment_score":24.5,"risk_level":"moderate","reason":"Only 24.5% aligned with current job market demands."},{"course_code":"EECS 311","total_reviews":12,"positive":1,"negative":0,"neutral":11,"avg_sentiment":0.08,"satisfaction_pct":8.3,"top_complaints":[],"top_praises":[["valuable",1]],"sample_negative":[],"sample_positive":[{"text":"EECS I just took EECS 311 with Professor Flynn for the Fall of 2019. He is a fantastic professor. Flynn does a great job explaining concepts and provides plenty of examples during lecture. Sometimes he moves slowly during lecture but only because he really wants his students to understand the materi","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/311/"}],"alignment_score":20.7,"risk_level":"moderate","reason":"Only 20.7% aligned with current job market demands."},{"course_code":"EECS 498","total_reviews":20,"positive":5,"negative":3,"neutral":12,"avg_sentiment":0.1,"satisfaction_pct":25.0,"top_complaints":[["boring",3]],"top_praises":[["valuable",5]],"sample_negative":[{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"},{"text":"Reviews Vijay Subramanian • 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"sample_positive":[{"text":"I can personally vouch for all of Austin's courses! They're some of the most fun I've had in college. Highly recommend!","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"},{"text":"Highly recommend Game Engine architecture, greatest class I’ve ever taken in my life!","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"},{"text":"EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/EECS/498/"}],"alignment_score":41.4,"risk_level":"moderate","reason":"Only 41.4% aligned with current job market demands."},{"course_code":"EECS 465","total_reviews":4,"positive":1,"negative":0,"neutral":3,"avg_sentiment":0.25,"satisfaction_pct":25.0,"top_complaints":[],"top_praises":[["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"}],"alignment_score":18.5,"risk_level":"moderate","reason":"Only 18.5% aligned with current job market demands."}],"major":"ee"}
+{
+  "total_reviews": 881,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 20,
+  "course_summaries": [
+    {
+      "course_code": "EECS 334",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Stephen Rand \u2022 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/334/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 463",
+      "total_reviews": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/463/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 230",
+      "total_reviews": 78,
+      "positive": 2,
+      "negative": 7,
+      "neutral": 69,
+      "avg_sentiment": -0.07,
+      "satisfaction_pct": 3.3,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 216",
+      "total_reviews": 264,
+      "positive": 4,
+      "negative": 15,
+      "neutral": 245,
+      "avg_sentiment": -0.04,
+      "satisfaction_pct": 2.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          6
+        ],
+        [
+          "boring",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          2
+        ],
+        [
+          "practical",
+          1
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"
+        },
+        {
+          "text": "Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 215",
+      "total_reviews": 193,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 186,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 1.4,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"
+        },
+        {
+          "text": "I\u2019ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don\u2019t really know if he\u2019d be the best for technical teaching. I will bet that he\u2019ll be pretty chill though and probably won\u2019t be su",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/215/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 301",
+      "total_reviews": 92,
+      "positive": 7,
+      "negative": 7,
+      "neutral": 78,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 9.4,
+      "top_complaints": [
+        [
+          "boring",
+          2
+        ],
+        [
+          "too difficult",
+          1
+        ],
+        [
+          "bad assignments",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "301 isn\u2019t that hard but it\u2019s very boring and the teaching style isn\u2019t good imo",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1it8or4/math_425_vs_stats_412_vs_eecs_301/"
+        },
+        {
+          "text": "EECS 301 - Exam I am in EECS 301 and have the mid term next week. I haven't been paying that much attention since I've already taken EECS 203, Stats 250, and all the required math for CSE. &amp;#x200B; How are the exams? Are they like the homework problems? I have just been figuring out how to solve",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/q83ggg/eecs_301_exam/"
+        },
+        {
+          "text": "Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "This is \u201cfeasible\u201d but not in the good way and looks like it would be EECSxhausting. 370 + 281 is a painful combo due to project deadline overlap. If you ACTUALLY commit to properly starting projects day 1, then this becomes feasible in a way that you\u2019ll earn grades you\u2019re happy with. I\u2019m going to g",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/15emxvr/eecs_270_eecs_281_eecs_301_eecs_370/"
+        },
+        {
+          "text": "STATS 250 VS STATS 412 VS EECS 301 I'm trying to satisfy the stats requirement for CS-Eng, but am not sure which to take. I plan on taking EECS 281, EECS 270, Stats?, and a humanities Fall 2017. I'd prefer a more interesting stats course applicable to engineering, but easiness comes first.",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"
+        },
+        {
+          "text": "All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/30b2jy/thoughts_on_eecs_301_vs_stats_412/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 460",
+      "total_reviews": 37,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 33,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 414",
+      "total_reviews": 19,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 15,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 330",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 320",
+      "total_reviews": 73,
+      "positive": 10,
+      "negative": 5,
+      "neutral": 58,
+      "avg_sentiment": 0.08,
+      "satisfaction_pct": 15.4,
+      "top_complaints": [
+        [
+          "not practical",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "well taught",
+          3
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "what is with the deluge of bot posts on x-mas? I\u2019ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"
+        },
+        {
+          "text": "what is with the deluge of bot posts on x-mas? I\u2019ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS 320 - Crisis Hours Complete shot in the dark, has anyone taken EECS 320 with Professor Forrest, our midterm is tuesday and he's given us essentially nothing to study from so I'd like to judge how fucked I am for this exam \\-any help is appreciated",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/f04fof/eecs_320_crisis_hours/"
+        },
+        {
+          "text": "I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I\u2019m not sure if this policy stays in place for L.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"
+        },
+        {
+          "text": "I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I\u2019m not sure if this policy stays in place for L.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 311",
+      "total_reviews": 29,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 25,
+      "avg_sentiment": 0.08,
+      "satisfaction_pct": 8.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "EECS I just took EECS 311 with Professor Flynn for the Fall of 2019. He is a fantastic professor. Flynn does a great job explaining concepts and provides plenty of examples during lecture. Sometimes he moves slowly during lecture but only because he really wants his students to understand the materi",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/311/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 54,
+      "positive": 13,
+      "negative": 8,
+      "neutral": 33,
+      "avg_sentiment": 0.1,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          3
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          5
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "I can personally vouch for all of Austin's courses! They're some of the most fun I've had in college. Highly recommend!",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"
+        },
+        {
+          "text": "Highly recommend Game Engine architecture, greatest class I\u2019ve ever taken in my life!",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 465",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "EECS 334",
+      "total_reviews": 9,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 5,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Stephen Rand \u2022 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/334/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 463",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/463/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "EECS 230",
+      "total_reviews": 85,
+      "positive": 2,
+      "negative": 8,
+      "neutral": 75,
+      "avg_sentiment": -0.07,
+      "satisfaction_pct": 3.3,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 216",
+      "total_reviews": 252,
+      "positive": 4,
+      "negative": 15,
+      "neutral": 233,
+      "avg_sentiment": -0.04,
+      "satisfaction_pct": 2.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          6
+        ],
+        [
+          "boring",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          2
+        ],
+        [
+          "practical",
+          1
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"
+        },
+        {
+          "text": "Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"
+        }
+      ]
+    },
+    {
+      "course_code": "EECS 215",
+      "total_reviews": 216,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 210,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 1.4,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"
+        },
+        {
+          "text": "I\u2019ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don\u2019t really know if he\u2019d be the best for technical teaching. I will bet that he\u2019ll be pretty chill though and probably won\u2019t be su",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/215/"
+        }
+      ]
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "valuable",
+      "count": 12,
+      "type": "positive"
+    },
+    {
+      "theme": "too difficult",
+      "count": 11,
+      "type": "negative"
+    },
+    {
+      "theme": "boring",
+      "count": 7,
+      "type": "negative"
+    },
+    {
+      "theme": "practical",
+      "count": 3,
+      "type": "positive"
+    },
+    {
+      "theme": "well taught",
+      "count": 3,
+      "type": "positive"
+    },
+    {
+      "theme": "poor teaching",
+      "count": 2,
+      "type": "negative"
+    },
+    {
+      "theme": "not practical",
+      "count": 2,
+      "type": "negative"
+    },
+    {
+      "theme": "career relevant",
+      "count": 2,
+      "type": "positive"
+    },
+    {
+      "theme": "too theoretical",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "bad assignments",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "EECS 334",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Stephen Rand \u2022 3y Junior STATS Unhelpful. Some days he would just play videos of his past teaching because he is lazy. The fact that there are demos doesn't justify hitting play and then sitting in the back of the room for the rest of the class period. The videos were all posted online too, ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/334/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 35.7,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 35.7% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 463",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "EECS Professor Mathieu may seem nice, but under that heavy shell that she carries, she's quite bitter in office hours and extremely harsh during her exams. Her short answer questions are impossible. I regret my decision in taking her course.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/463/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 26.5,
+      "risk_level": "critical",
+      "reason": "Students report too difficult AND this course has only 26.5% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 230",
+      "total_reviews": 91,
+      "positive": 2,
+      "negative": 7,
+      "neutral": 82,
+      "avg_sentiment": -0.07,
+      "satisfaction_pct": 3.3,
+      "top_complaints": [
+        [
+          "too difficult",
+          2
+        ],
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "eecs 230 Physics 240 was the class i struggled with and this is just hell 2.0 for me.. i got a 45 on the 1st midterm and a 40 on this second one. I dont know what to do, how much do yall study for this class? Any ex-eecs 230 students have any tips for me? Kushner is a good lecturer but his teaching ",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        },
+        {
+          "text": "Hey! I did a pretty similar schedule. 300 honestly isn't too much work - the labs are sometimes annoying to get through but the project itself isn't too bad. I've heard 414 varies based on your professor - but I found the content, at least for the first half of the class, relatively interesting and ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jdlik5/eecs_schedule/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be v",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/trs1qe/eecs_230/"
+        }
+      ],
+      "alignment_score": 23.3,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, too theoretical AND this course has only 23.3% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 216",
+      "total_reviews": 275,
+      "positive": 5,
+      "negative": 17,
+      "neutral": 253,
+      "avg_sentiment": -0.04,
+      "satisfaction_pct": 2.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          6
+        ],
+        [
+          "boring",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          2
+        ],
+        [
+          "practical",
+          1
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "301 with Maha is dry but I guess it could be worse. I found the first exam to be insanely easy such that it lulled me and my friends into a false sense of security and were pretty lost by the final.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pqrz89/anyone_taken_eecs_301_w_ali_maha_or_eecs_216_w/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        },
+        {
+          "text": "From what I recall, 230 labs were restructured not long ago. When I took 230 last semester, we only met for lab about 6-7 times throughout the entirety of the semester. I would say it's a slightly tougher schedule, but definitely not impossible.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1jff1pb/would_a_semester_with_eecs_216_eecs_200_and_eecs/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "It really depends on what you like: if you want an introduction to how the logic behind CPU processors/chips are designed, then take 270, if you want an introduction to the math-based engineering and analysis of signals and systems (how radio works, etc), then take 216. 216 is magnitudes above 270 i",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hjsp15/eecs_216_or_eecs_270/"
+        },
+        {
+          "text": "Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took, MATH 215 (comparable to 203) EECS 215 (supposedly heavi",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/3gefgv/looking_for_advice/"
+        }
+      ],
+      "alignment_score": 26.0,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, boring AND this course has only 26.0% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 215",
+      "total_reviews": 204,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 197,
+      "avg_sentiment": -0.01,
+      "satisfaction_pct": 1.4,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ],
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Was EECS 215 Curved So the final grades have been posted for that class, and after the final (which, in my opinion, was unnecessarily brutal due to the heavy algebra) my grade dropped by a half letter. But when I checked the official grades today, it had gone up by a half letter. So was the class cu",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1pqdqj2/was_eecs_215_curved/"
+        },
+        {
+          "text": "I\u2019ve had Pei for a couple graduate level courses and he was a very chill guy, very knowledgeable and makes the course enjoyable. However, he was a bit disorganized so I don\u2019t really know if he\u2019d be the best for technical teaching. I will bet that he\u2019ll be pretty chill though and probably won\u2019t be su",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1pj7j3l/eecs_215_instructors/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "AEROSP Professor Wentzloff is very smart, and very talented as a teacher. I looked forward to his lectures because he made things easy to understand. He's funny and talks about football and stuff sometimes, so was very relatable. I would highly recommend Wentzloff for EECS 215, you will like him a l",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/215/"
+        }
+      ],
+      "alignment_score": 23.6,
+      "risk_level": "critical",
+      "reason": "Students report too difficult, poor teaching AND this course has only 23.6% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "EECS 301",
+      "total_reviews": 87,
+      "positive": 8,
+      "negative": 8,
+      "neutral": 71,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 9.4,
+      "top_complaints": [
+        [
+          "boring",
+          2
+        ],
+        [
+          "too difficult",
+          1
+        ],
+        [
+          "bad assignments",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "301 isn\u2019t that hard but it\u2019s very boring and the teaching style isn\u2019t good imo",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1it8or4/math_425_vs_stats_412_vs_eecs_301/"
+        },
+        {
+          "text": "EECS 301 - Exam I am in EECS 301 and have the mid term next week. I haven't been paying that much attention since I've already taken EECS 203, Stats 250, and all the required math for CSE. &amp;#x200B; How are the exams? Are they like the homework problems? I have just been figuring out how to solve",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/q83ggg/eecs_301_exam/"
+        },
+        {
+          "text": "Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "This is \u201cfeasible\u201d but not in the good way and looks like it would be EECSxhausting. 370 + 281 is a painful combo due to project deadline overlap. If you ACTUALLY commit to properly starting projects day 1, then this becomes feasible in a way that you\u2019ll earn grades you\u2019re happy with. I\u2019m going to g",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/15emxvr/eecs_270_eecs_281_eecs_301_eecs_370/"
+        },
+        {
+          "text": "STATS 250 VS STATS 412 VS EECS 301 I'm trying to satisfy the stats requirement for CS-Eng, but am not sure which to take. I plan on taking EECS 281, EECS 270, Stats?, and a humanities Fall 2017. I'd prefer a more interesting stats course applicable to engineering, but easiness comes first.",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/5z9354/stats_250_vs_stats_412_vs_eecs_301/"
+        },
+        {
+          "text": "All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/30b2jy/thoughts_on_eecs_301_vs_stats_412/"
+        }
+      ],
+      "alignment_score": 32.2,
+      "risk_level": "moderate",
+      "reason": "Only 32.2% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 460",
+      "total_reviews": 34,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 30,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 28.2,
+      "risk_level": "moderate",
+      "reason": "Only 28.2% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 414",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 41.6,
+      "risk_level": "moderate",
+      "reason": "Only 41.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 330",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 30.9,
+      "risk_level": "moderate",
+      "reason": "Only 30.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 320",
+      "total_reviews": 75,
+      "positive": 11,
+      "negative": 5,
+      "neutral": 59,
+      "avg_sentiment": 0.08,
+      "satisfaction_pct": 15.4,
+      "top_complaints": [
+        [
+          "not practical",
+          2
+        ]
+      ],
+      "top_praises": [
+        [
+          "well taught",
+          3
+        ],
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "what is with the deluge of bot posts on x-mas? I\u2019ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"
+        },
+        {
+          "text": "what is with the deluge of bot posts on x-mas? I\u2019ve looked up a dozen users who have maybe two comments in their entire three month tenure on reddit. [How to Identify Bots on Reddit](https://reddit.com/r/LearnUselessTalents/comments/15tzjkb/how_to_identify_bots_on_reddit/)",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1puyw84/eecs_320_and_230_questions/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "EECS 320 - Crisis Hours Complete shot in the dark, has anyone taken EECS 320 with Professor Forrest, our midterm is tuesday and he's given us essentially nothing to study from so I'd like to judge how fucked I am for this exam \\-any help is appreciated",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/f04fof/eecs_320_crisis_hours/"
+        },
+        {
+          "text": "I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I\u2019m not sure if this policy stays in place for L.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"
+        },
+        {
+          "text": "I took all of those classes. It always depends on the professor but here are my experiences. 428 - material was very difficult but I was allowed turn assignments (even exams) in multiple times until I got the grade I wanted with Duncan Steel. However I\u2019m not sure if this policy stays in place for L.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/ugv9m5/has_anyone_taken_these_eecs_classes/"
+        }
+      ],
+      "alignment_score": 24.5,
+      "risk_level": "moderate",
+      "reason": "Only 24.5% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 311",
+      "total_reviews": 30,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 26,
+      "avg_sentiment": 0.08,
+      "satisfaction_pct": 8.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "EECS I just took EECS 311 with Professor Flynn for the Fall of 2019. He is a fantastic professor. Flynn does a great job explaining concepts and provides plenty of examples during lecture. Sometimes he moves slowly during lecture but only because he really wants his students to understand the materi",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/311/"
+        }
+      ],
+      "alignment_score": 20.7,
+      "risk_level": "moderate",
+      "reason": "Only 20.7% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 498",
+      "total_reviews": 55,
+      "positive": 11,
+      "negative": 7,
+      "neutral": 37,
+      "avg_sentiment": 0.1,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [
+        [
+          "boring",
+          3
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          5
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        },
+        {
+          "text": "Reviews Vijay Subramanian \u2022 3y Junior EECS Vijay is super dry in teaching, interactions and is very calculative/political. He cares more about people's aspect like how to sell the work, how people will perceive it & such stuff than really caring about the research itself or the students. He sees stu",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "I can personally vouch for all of Austin's courses! They're some of the most fun I've had in college. Highly recommend!",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"
+        },
+        {
+          "text": "Highly recommend Game Engine architecture, greatest class I\u2019ve ever taken in my life!",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1gqmjyl/course_registration_9_game_development_xr_courses/"
+        },
+        {
+          "text": "EECS Very good, teaches very clearly, learned a lot. Projects are manageable and help emphasize the material.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/EECS/498/"
+        }
+      ],
+      "alignment_score": 41.4,
+      "risk_level": "moderate",
+      "reason": "Only 41.4% aligned with current job market demands."
+    },
+    {
+      "course_code": "EECS 465",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.25,
+      "satisfaction_pct": 25.0,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        }
+      ],
+      "alignment_score": 18.5,
+      "risk_level": "moderate",
+      "reason": "Only 18.5% aligned with current job market demands."
+    }
+  ],
+  "major": "ee"
+}

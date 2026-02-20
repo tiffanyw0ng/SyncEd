@@ -1,1 +1,457 @@
-{"total_reviews":177,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":5,"course_summaries":[{"course_code":"DATASCI 451","total_reviews":10,"positive":0,"negative":2,"neutral":8,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Reviews Yixin Wang • 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"},{"text":"PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"}],"sample_positive":[]},{"course_code":"DATASCI 306","total_reviews":15,"positive":0,"negative":2,"neutral":13,"avg_sentiment":-0.13,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"},{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"}],"sample_positive":[]},{"course_code":"DATASCI 415","total_reviews":14,"positive":1,"negative":1,"neutral":12,"avg_sentiment":0.0,"satisfaction_pct":7.1,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"I took her class last year, she isn’t a terrible professor but I wouldn’t say she is good either. She doesn’t do a great job at explaining things and is incredibly boring, she also never seems prepared for class. I stopped attending lecture around the midterm and took that time to learn on my own an","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"}],"sample_positive":[{"text":"As a former grad student, I don’t think some of the reviews on RateMyProfessor are very fair (they also seem to be from her first 1-2 years of working as a professor). She’s extremely brilliant, and I learned a lot from her. I think she would be a great instructor for an upper-level undergraduate co","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"}]},{"course_code":"DATASCI 101","total_reviews":96,"positive":6,"negative":0,"neutral":90,"avg_sentiment":0.06,"satisfaction_pct":6.2,"top_complaints":[],"top_praises":[["valuable",4],["practical",1],["career relevant",1]],"sample_negative":[],"sample_positive":[{"text":"I haven't taken either but I have looked at the syllabi before. You can do so on [atlas.ai.umich.edu](http://atlas.ai.umich.edu) and searching up the course. FWIW I have taken similar classes at other institutions so I suppose I already know the content of these courses. This is all according to his","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1hbcm55/stats_250_or_datasci_101/"},{"text":"Datasci 101 vs. Stats 250 vs. Stats 280 I'm required to take one of the classes for my major. I got 5 on AP Stats in high school and was originally planning to take Stats 250 but read somewhere that taking this class removes AP Credit (can someone confirm?) which I would like to avoid. I need help c","source":"reddit","url":"https://reddit.com/r/uofm/comments/1h0vvh2/datasci_101_vs_stats_250_vs_stats_280/"},{"text":"Please do not take stats 206. I’m in it right now and the homework always has problems. This morning I went to office hours and the GSI said he agreed with me that the homework didn’t make sense and “for the purposes of this class [lalala]”. I told him you can’t say that because someone who truly un","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1c4t1ya/data_science_prereq_datasci_101_stats_206/"}]},{"course_code":"DATASCI 315","total_reviews":42,"positive":8,"negative":1,"neutral":33,"avg_sentiment":0.17,"satisfaction_pct":19.0,"top_complaints":[["not practical",1]],"top_praises":[["practical",7],["well taught",1]],"sample_negative":[{"text":"Reviews Yixin Wang • 3y Sophomore NEUROSCI Completely useless class. Everything shown in class are theoretical stuff. If you want to be a statistician, come. Otherwise, avoid at all cost. Yixin Wang • 2y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/315/"}],"sample_positive":[{"text":"DATASCI 315 vs 415 for DS-Eng elective? Hey y’all, I’m a junior in DS-Eng at UofM and already took EECS 445. I need to pick an *advanced statistical elective* and I’m stuck between DATASCI 315 and DATASCI 415. What I’m looking for is something that feels more practical/applicable for ML (rather than","source":"reddit","url":"https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"},{"text":"415 overlaps a lot with 445. I think 315 would be more practical.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"},{"text":"STATS/DATASCI 315 Workload? Title. Plan to take w/ Math 217 and EECS 398 (Practical DS) + 16hr/wk part-time work. Doable schedule?","source":"reddit","url":"https://reddit.com/r/uofm/comments/1gz0do0/statsdatasci_315_workload/"}]}],"flagged_courses":[{"course_code":"DATASCI 451","total_reviews":10,"positive":0,"negative":2,"neutral":8,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Reviews Yixin Wang • 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"},{"text":"PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"}],"sample_positive":[]},{"course_code":"DATASCI 306","total_reviews":15,"positive":0,"negative":2,"neutral":13,"avg_sentiment":-0.13,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"},{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"}],"sample_positive":[]}],"overall_themes":[{"theme":"practical","count":8,"type":"positive"},{"theme":"valuable","count":5,"type":"positive"},{"theme":"poor teaching","count":5,"type":"negative"},{"theme":"career relevant","count":1,"type":"positive"},{"theme":"well taught","count":1,"type":"positive"},{"theme":"boring","count":1,"type":"negative"},{"theme":"not practical","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"DATASCI 451","total_reviews":10,"positive":0,"negative":2,"neutral":8,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Reviews Yixin Wang • 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang • 3y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"},{"text":"PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/451/"}],"sample_positive":[],"alignment_score":18.1,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 18.1% market alignment. Urgent overhaul recommended."},{"course_code":"DATASCI 306","total_reviews":15,"positive":0,"negative":2,"neutral":13,"avg_sentiment":-0.13,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",2]],"top_praises":[],"sample_negative":[{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"},{"text":"Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"}],"sample_positive":[],"alignment_score":40.7,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 40.7% market alignment. Urgent overhaul recommended."},{"course_code":"DATASCI 415","total_reviews":14,"positive":1,"negative":1,"neutral":12,"avg_sentiment":0.0,"satisfaction_pct":7.1,"top_complaints":[["poor teaching",1],["boring",1]],"top_praises":[["valuable",1]],"sample_negative":[{"text":"I took her class last year, she isn’t a terrible professor but I wouldn’t say she is good either. She doesn’t do a great job at explaining things and is incredibly boring, she also never seems prepared for class. I stopped attending lecture around the midterm and took that time to learn on my own an","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"}],"sample_positive":[{"text":"As a former grad student, I don’t think some of the reviews on RateMyProfessor are very fair (they also seem to be from her first 1-2 years of working as a professor). She’s extremely brilliant, and I learned a lot from her. I think she would be a great instructor for an upper-level undergraduate co","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"}],"alignment_score":46.0,"risk_level":"moderate","reason":"Only 46.0% aligned with current job market demands."},{"course_code":"DATASCI 315","total_reviews":42,"positive":8,"negative":1,"neutral":33,"avg_sentiment":0.17,"satisfaction_pct":19.0,"top_complaints":[["not practical",1]],"top_praises":[["practical",7],["well taught",1]],"sample_negative":[{"text":"Reviews Yixin Wang • 3y Sophomore NEUROSCI Completely useless class. Everything shown in class are theoretical stuff. If you want to be a statistician, come. Otherwise, avoid at all cost. Yixin Wang • 2y","source":"coursicle","url":"https://www.coursicle.com/umich/courses/DATASCI/315/"}],"sample_positive":[{"text":"DATASCI 315 vs 415 for DS-Eng elective? Hey y’all, I’m a junior in DS-Eng at UofM and already took EECS 445. I need to pick an *advanced statistical elective* and I’m stuck between DATASCI 315 and DATASCI 415. What I’m looking for is something that feels more practical/applicable for ML (rather than","source":"reddit","url":"https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"},{"text":"415 overlaps a lot with 445. I think 315 would be more practical.","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"},{"text":"STATS/DATASCI 315 Workload? Title. Plan to take w/ Math 217 and EECS 398 (Practical DS) + 16hr/wk part-time work. Doable schedule?","source":"reddit","url":"https://reddit.com/r/uofm/comments/1gz0do0/statsdatasci_315_workload/"}],"alignment_score":34.2,"risk_level":"moderate","reason":"Only 34.2% aligned with current job market demands."}],"major":"ds"}
+{
+  "total_reviews": 497,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 12,
+  "course_summaries": [
+    {
+      "course_code": "DATASCI 451",
+      "total_reviews": 27,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 20,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Yixin Wang \u2022 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        },
+        {
+          "text": "PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "DATASCI 306",
+      "total_reviews": 43,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 37,
+      "avg_sentiment": -0.13,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        },
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "DATASCI 415",
+      "total_reviews": 37,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 33,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 7.1,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "I took her class last year, she isn\u2019t a terrible professor but I wouldn\u2019t say she is good either. She doesn\u2019t do a great job at explaining things and is incredibly boring, she also never seems prepared for class. I stopped attending lecture around the midterm and took that time to learn on my own an",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "As a former grad student, I don\u2019t think some of the reviews on RateMyProfessor are very fair (they also seem to be from her first 1-2 years of working as a professor). She\u2019s extremely brilliant, and I learned a lot from her. I think she would be a great instructor for an upper-level undergraduate co",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"
+        }
+      ]
+    },
+    {
+      "course_code": "DATASCI 101",
+      "total_reviews": 270,
+      "positive": 15,
+      "negative": 2,
+      "neutral": 253,
+      "avg_sentiment": 0.06,
+      "satisfaction_pct": 6.2,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "valuable",
+          4
+        ],
+        [
+          "practical",
+          1
+        ],
+        [
+          "career relevant",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "I haven't taken either but I have looked at the syllabi before. You can do so on [atlas.ai.umich.edu](http://atlas.ai.umich.edu) and searching up the course. FWIW I have taken similar classes at other institutions so I suppose I already know the content of these courses. This is all according to his",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1hbcm55/stats_250_or_datasci_101/"
+        },
+        {
+          "text": "Datasci 101 vs. Stats 250 vs. Stats 280 I'm required to take one of the classes for my major. I got 5 on AP Stats in high school and was originally planning to take Stats 250 but read somewhere that taking this class removes AP Credit (can someone confirm?) which I would like to avoid. I need help c",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1h0vvh2/datasci_101_vs_stats_250_vs_stats_280/"
+        },
+        {
+          "text": "Please do not take stats 206. I\u2019m in it right now and the homework always has problems. This morning I went to office hours and the GSI said he agreed with me that the homework didn\u2019t make sense and \u201cfor the purposes of this class [lalala]\u201d. I told him you can\u2019t say that because someone who truly un",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1c4t1ya/data_science_prereq_datasci_101_stats_206/"
+        }
+      ]
+    },
+    {
+      "course_code": "DATASCI 315",
+      "total_reviews": 120,
+      "positive": 20,
+      "negative": 2,
+      "neutral": 98,
+      "avg_sentiment": 0.17,
+      "satisfaction_pct": 19.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          7
+        ],
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Yixin Wang \u2022 3y Sophomore NEUROSCI Completely useless class. Everything shown in class are theoretical stuff. If you want to be a statistician, come. Otherwise, avoid at all cost. Yixin Wang \u2022 2y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/315/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "DATASCI 315 vs 415 for DS-Eng elective? Hey y\u2019all, I\u2019m a junior in DS-Eng at UofM and already took EECS 445. I need to pick an *advanced statistical elective* and I\u2019m stuck between DATASCI 315 and DATASCI 415. What I\u2019m looking for is something that feels more practical/applicable for ML (rather than",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"
+        },
+        {
+          "text": "415 overlaps a lot with 445. I think 315 would be more practical.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"
+        },
+        {
+          "text": "STATS/DATASCI 315 Workload? Title. Plan to take w/ Math 217 and EECS 398 (Practical DS) + 16hr/wk part-time work. Doable schedule?",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1gz0do0/statsdatasci_315_workload/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "DATASCI 451",
+      "total_reviews": 25,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 18,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Yixin Wang \u2022 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        },
+        {
+          "text": "PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "DATASCI 306",
+      "total_reviews": 38,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 31,
+      "avg_sentiment": -0.13,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        },
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "practical",
+      "count": 8,
+      "type": "positive"
+    },
+    {
+      "theme": "valuable",
+      "count": 5,
+      "type": "positive"
+    },
+    {
+      "theme": "poor teaching",
+      "count": 5,
+      "type": "negative"
+    },
+    {
+      "theme": "career relevant",
+      "count": 1,
+      "type": "positive"
+    },
+    {
+      "theme": "well taught",
+      "count": 1,
+      "type": "positive"
+    },
+    {
+      "theme": "boring",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "not practical",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "DATASCI 451",
+      "total_reviews": 27,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 20,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Yixin Wang \u2022 3y Senior PUBHLTH Easy grading but I learned close to nothing as the lectures are unclear and theoretical. Super easy homework. Can feel her enthusiasm but don't know how to teach. Yixin Wang \u2022 3y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        },
+        {
+          "text": "PUBHLTH This class's prerequisite does not prepare me well to take it. I don't understand most of the stuff she was talking about and even the textbooks assume you already know a lot. The class is disorganized and quiz questions are not covered in lectures. You can definitely tell she is enthusiasti",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/451/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 18.1,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 18.1% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "DATASCI 306",
+      "total_reviews": 38,
+      "positive": 2,
+      "negative": 5,
+      "neutral": 31,
+      "avg_sentiment": -0.13,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          2
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        },
+        {
+          "text": "Took DATASCI 306 this semester. Syllabus of course subject to change in the future but for us it was weekly homeworks, weekly 10 min lab quizzes (pretty easy), 2 group projects, no tests. 50% of your grade is HW, rest is those quizzes and projects. Everything is learning R Markdown. Idk how you felt",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1kax9hj/workload_for_datasci_306_vs_stats_250/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 40.7,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 40.7% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "DATASCI 415",
+      "total_reviews": 37,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 33,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 7.1,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ],
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "I took her class last year, she isn\u2019t a terrible professor but I wouldn\u2019t say she is good either. She doesn\u2019t do a great job at explaining things and is incredibly boring, she also never seems prepared for class. I stopped attending lecture around the midterm and took that time to learn on my own an",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "As a former grad student, I don\u2019t think some of the reviews on RateMyProfessor are very fair (they also seem to be from her first 1-2 years of working as a professor). She\u2019s extremely brilliant, and I learned a lot from her. I think she would be a great instructor for an upper-level undergraduate co",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1ho21ec/datascistats_415_with_dr_snigdha_panigrahi/"
+        }
+      ],
+      "alignment_score": 46.0,
+      "risk_level": "moderate",
+      "reason": "Only 46.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "DATASCI 315",
+      "total_reviews": 132,
+      "positive": 21,
+      "negative": 2,
+      "neutral": 109,
+      "avg_sentiment": 0.17,
+      "satisfaction_pct": 19.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          7
+        ],
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Reviews Yixin Wang \u2022 3y Sophomore NEUROSCI Completely useless class. Everything shown in class are theoretical stuff. If you want to be a statistician, come. Otherwise, avoid at all cost. Yixin Wang \u2022 2y",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/DATASCI/315/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "DATASCI 315 vs 415 for DS-Eng elective? Hey y\u2019all, I\u2019m a junior in DS-Eng at UofM and already took EECS 445. I need to pick an *advanced statistical elective* and I\u2019m stuck between DATASCI 315 and DATASCI 415. What I\u2019m looking for is something that feels more practical/applicable for ML (rather than",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"
+        },
+        {
+          "text": "415 overlaps a lot with 445. I think 315 would be more practical.",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1nhz9jk/datasci_315_vs_415_for_dseng_elective/"
+        },
+        {
+          "text": "STATS/DATASCI 315 Workload? Title. Plan to take w/ Math 217 and EECS 398 (Practical DS) + 16hr/wk part-time work. Doable schedule?",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1gz0do0/statsdatasci_315_workload/"
+        }
+      ],
+      "alignment_score": 34.2,
+      "risk_level": "moderate",
+      "reason": "Only 34.2% aligned with current job market demands."
+    }
+  ],
+  "major": "ds"
+}

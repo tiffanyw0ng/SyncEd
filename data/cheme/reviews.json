@@ -1,1 +1,457 @@
-{"total_reviews":35,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":9,"course_summaries":[{"course_code":"CHE 487","total_reviews":2,"positive":0,"negative":1,"neutral":1,"avg_sentiment":-0.5,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/487/"}],"sample_positive":[]},{"course_code":"CHE 344","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Heather Mayes • 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/344/"}],"sample_positive":[]},{"course_code":"CHE 230","total_reviews":10,"positive":1,"negative":1,"neutral":8,"avg_sentiment":0.0,"satisfaction_pct":10.0,"top_complaints":[["too difficult",1]],"top_praises":[["well taught",1]],"sample_negative":[{"text":"Yah that’s pretty crazy in my opinion but you are a sophomore so you should know your limits. I’d honestly save organic chemistry maybe for another semester. Math 215 + chemistry 230 seem like a decently hard combo. Add with some electives. Those two chemistry classes are brutal on top of calculus I","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1mhe5kc/worried_about_my_schedule/"}],"sample_positive":[{"text":"CHE Professor Min is a great person. She's not a great professor. When solving problems steps are often stated without justification and you're better off just reading the textbook. No important points are emphasized and it's up to you to guess what major things will show up on the exam. Go to your ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/230/"}]},{"course_code":"CHE 330","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"CHE 341","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"CHE 342","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"CHE 460","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"CHE 496","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"CHE 360","total_reviews":3,"positive":1,"negative":0,"neutral":2,"avg_sentiment":0.33,"satisfaction_pct":33.3,"top_complaints":[],"top_praises":[["well taught",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Ralph Yang • 3y Junior CHE Great Professor GO BLUE","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/360/"}]}],"flagged_courses":[{"course_code":"CHE 487","total_reviews":2,"positive":0,"negative":1,"neutral":1,"avg_sentiment":-0.5,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/487/"}],"sample_positive":[]},{"course_code":"CHE 344","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Heather Mayes • 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/344/"}],"sample_positive":[]}],"overall_themes":[{"theme":"well taught","count":2,"type":"positive"},{"theme":"too difficult","count":1,"type":"negative"},{"theme":"not practical","count":1,"type":"negative"},{"theme":"boring","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"CHE 487","total_reviews":2,"positive":0,"negative":1,"neutral":1,"avg_sentiment":-0.5,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/487/"}],"sample_positive":[],"alignment_score":12.9,"risk_level":"critical","reason":"Students report boring AND this course has only 12.9% market alignment. Urgent overhaul recommended."},{"course_code":"CHE 344","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Heather Mayes • 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/344/"}],"sample_positive":[],"alignment_score":16.8,"risk_level":"critical","reason":"Students report not practical AND this course has only 16.8% market alignment. Urgent overhaul recommended."},{"course_code":"CHE 230","total_reviews":10,"positive":1,"negative":1,"neutral":8,"avg_sentiment":0.0,"satisfaction_pct":10.0,"top_complaints":[["too difficult",1]],"top_praises":[["well taught",1]],"sample_negative":[{"text":"Yah that’s pretty crazy in my opinion but you are a sophomore so you should know your limits. I’d honestly save organic chemistry maybe for another semester. Math 215 + chemistry 230 seem like a decently hard combo. Add with some electives. Those two chemistry classes are brutal on top of calculus I","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1mhe5kc/worried_about_my_schedule/"}],"sample_positive":[{"text":"CHE Professor Min is a great person. She's not a great professor. When solving problems steps are often stated without justification and you're better off just reading the textbook. No important points are emphasized and it's up to you to guess what major things will show up on the exam. Go to your ","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/230/"}],"alignment_score":9.3,"risk_level":"moderate","reason":"Only 9.3% aligned with current job market demands."},{"course_code":"CHE 330","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":28.9,"risk_level":"moderate","reason":"Only 28.9% aligned with current job market demands."},{"course_code":"CHE 341","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":12.7,"risk_level":"moderate","reason":"Only 12.7% aligned with current job market demands."},{"course_code":"CHE 342","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":5.4,"risk_level":"moderate","reason":"Only 5.4% aligned with current job market demands."},{"course_code":"CHE 460","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":18.9,"risk_level":"moderate","reason":"Only 18.9% aligned with current job market demands."},{"course_code":"CHE 496","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":32.9,"risk_level":"moderate","reason":"Only 32.9% aligned with current job market demands."},{"course_code":"CHE 360","total_reviews":3,"positive":1,"negative":0,"neutral":2,"avg_sentiment":0.33,"satisfaction_pct":33.3,"top_complaints":[],"top_praises":[["well taught",1]],"sample_negative":[],"sample_positive":[{"text":"Reviews Ralph Yang • 3y Junior CHE Great Professor GO BLUE","source":"coursicle","url":"https://www.coursicle.com/umich/courses/CHE/360/"}],"alignment_score":44.3,"risk_level":"moderate","reason":"Only 44.3% aligned with current job market demands."}],"major":"cheme"}
+{
+  "total_reviews": 91,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 15,
+  "course_summaries": [
+    {
+      "course_code": "CHE 487",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": -0.5,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/487/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 344",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Heather Mayes \u2022 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/344/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 230",
+      "total_reviews": 26,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 22,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 10.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Yah that\u2019s pretty crazy in my opinion but you are a sophomore so you should know your limits. I\u2019d honestly save organic chemistry maybe for another semester. Math 215 + chemistry 230 seem like a decently hard combo. Add with some electives. Those two chemistry classes are brutal on top of calculus I",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1mhe5kc/worried_about_my_schedule/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "CHE Professor Min is a great person. She's not a great professor. When solving problems steps are often stated without justification and you're better off just reading the textbook. No important points are emphasized and it's up to you to guess what major things will show up on the exam. Go to your ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/230/"
+        }
+      ]
+    },
+    {
+      "course_code": "CHE 330",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 341",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 342",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 460",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 496",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 360",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.33,
+      "satisfaction_pct": 33.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Ralph Yang \u2022 3y Junior CHE Great Professor GO BLUE",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/360/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "CHE 487",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": -0.5,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/487/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "CHE 344",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Heather Mayes \u2022 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/344/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "well taught",
+      "count": 2,
+      "type": "positive"
+    },
+    {
+      "theme": "too difficult",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "not practical",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "boring",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "CHE 487",
+      "total_reviews": 4,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": -0.5,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "s Andrew Tadd , Kody Whisnant , Ikenna Ozofor , Henry Wang , Scott Johnson , Abdulla Alqubati , Andrew Carruthers , Elaine Grimble",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/487/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 12.9,
+      "risk_level": "critical",
+      "reason": "Students report boring AND this course has only 12.9% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "CHE 344",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Heather Mayes \u2022 3y Junior CHE Rarely showed up to class prepared - all of her lecture slides were constantly riddled with mistakes and errors even on the simplest of examples. Homeworks were a giant waste of time and did not help teach the material. Exams were terribly worded and formatted i",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/344/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 16.8,
+      "risk_level": "critical",
+      "reason": "Students report not practical AND this course has only 16.8% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "CHE 230",
+      "total_reviews": 28,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 24,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 10.0,
+      "top_complaints": [
+        [
+          "too difficult",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "Yah that\u2019s pretty crazy in my opinion but you are a sophomore so you should know your limits. I\u2019d honestly save organic chemistry maybe for another semester. Math 215 + chemistry 230 seem like a decently hard combo. Add with some electives. Those two chemistry classes are brutal on top of calculus I",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1mhe5kc/worried_about_my_schedule/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "CHE Professor Min is a great person. She's not a great professor. When solving problems steps are often stated without justification and you're better off just reading the textbook. No important points are emphasized and it's up to you to guess what major things will show up on the exam. Go to your ",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/230/"
+        }
+      ],
+      "alignment_score": 9.3,
+      "risk_level": "moderate",
+      "reason": "Only 9.3% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 330",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 28.9,
+      "risk_level": "moderate",
+      "reason": "Only 28.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 341",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 12.7,
+      "risk_level": "moderate",
+      "reason": "Only 12.7% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 342",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 5.4,
+      "risk_level": "moderate",
+      "reason": "Only 5.4% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 460",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 18.9,
+      "risk_level": "moderate",
+      "reason": "Only 18.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 496",
+      "total_reviews": 4,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 32.9,
+      "risk_level": "moderate",
+      "reason": "Only 32.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "CHE 360",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 5,
+      "avg_sentiment": 0.33,
+      "satisfaction_pct": 33.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Reviews Ralph Yang \u2022 3y Junior CHE Great Professor GO BLUE",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/CHE/360/"
+        }
+      ],
+      "alignment_score": 44.3,
+      "risk_level": "moderate",
+      "reason": "Only 44.3% aligned with current job market demands."
+    }
+  ],
+  "major": "cheme"
+}

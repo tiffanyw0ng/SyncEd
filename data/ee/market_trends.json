@@ -1,1 +1,174 @@
-{"top_skills":[["python",318],["rust",132],["uart",49],["ai agents",35],["computer vision",27],["robotics",19],["firmware",18],["asic",17],["rag",17],["edge ai",17],["sustainability",14],["agentic ai",14],["langchain",9],["c++",8],["dynamics",7],["solar",6],["arm",6],["embedded systems",5],["control systems",5],["fpga",4],["blockchain",4],["5g",3],["radar",3],["quantum computing",3],["path planning",3],["perception",3],["multi-agent systems",3],["matlab",2],["signal processing",2],["pcb design",2]],"category_demand":{"languages":1379,"ai_ml":421,"data":376,"cloud_infra":691,"web":720,"security":31,"hardware_embedded":118,"electrical_power":23,"mechanical_manufacturing":58,"biomedical":55,"civil_environmental":59,"chemical_process":22,"aerospace_defense":71,"robotics_controls":76,"operations_analytics":188,"emerging_2026":258},"total_postings":1327,"sources":{"hackernews":1186,"remoteok":28,"arbeitnow":83,"google_jobs":30},"emerging_2026":{"agentic ai":14,"ai agents":35,"multi-agent systems":3,"vector database":1,"vector search":1,"rag":17,"rust":132,"memory-safe programming":0,"llm orchestration":2,"langchain":9,"llamaindex":1,"crewai":0,"edge ai":17,"on-device ml":0,"federated learning":0,"quantum computing":3,"post-quantum cryptography":0,"web3":1,"blockchain":4,"digital twin":2,"autonomous systems":2,"sustainability":14,"green engineering":0}}
+{
+  "top_skills": [
+    [
+      "MATLAB",
+      437
+    ],
+    [
+      "circuit design",
+      400
+    ],
+    [
+      "PCB design",
+      382
+    ],
+    [
+      "embedded systems",
+      364
+    ],
+    [
+      "power systems",
+      347
+    ],
+    [
+      "python",
+      315
+    ],
+    [
+      "verilog",
+      293
+    ],
+    [
+      "FPGA",
+      274
+    ],
+    [
+      "C/C++",
+      250
+    ],
+    [
+      "signal processing",
+      229
+    ],
+    [
+      "PLC",
+      215
+    ],
+    [
+      "AutoCAD",
+      204
+    ],
+    [
+      "analog design",
+      183
+    ],
+    [
+      "Simulink",
+      173
+    ],
+    [
+      "power electronics",
+      159
+    ],
+    [
+      "control systems",
+      152
+    ],
+    [
+      "schematic capture",
+      136
+    ],
+    [
+      "RF design",
+      130
+    ],
+    [
+      "electrical safety",
+      123
+    ],
+    [
+      "oscilloscope",
+      109
+    ],
+    [
+      "renewable energy",
+      107
+    ],
+    [
+      "motor drives",
+      96
+    ],
+    [
+      "EMC/EMI",
+      85
+    ],
+    [
+      "LabVIEW",
+      79
+    ],
+    [
+      "NEC code",
+      74
+    ],
+    [
+      "SPICE",
+      71
+    ],
+    [
+      "machine learning",
+      60
+    ],
+    [
+      "solar design",
+      55
+    ],
+    [
+      "transformer design",
+      51
+    ],
+    [
+      "protection relays",
+      44
+    ]
+  ],
+  "category_demand": {
+    "languages": 2555,
+    "ai_ml": 786,
+    "data": 757,
+    "cloud_infra": 1461,
+    "web": 1560,
+    "security": 67,
+    "hardware_embedded": 214,
+    "electrical_power": 48,
+    "mechanical_manufacturing": 113,
+    "biomedical": 103,
+    "civil_environmental": 118,
+    "chemical_process": 45,
+    "aerospace_defense": 144,
+    "robotics_controls": 150,
+    "operations_analytics": 342,
+    "emerging_2026": 563
+  },
+  "total_postings": 1705,
+  "sources": {
+    "hackernews": 2492,
+    "remoteok": 52,
+    "arbeitnow": 160,
+    "google_jobs": 66
+  },
+  "emerging_2026": {
+    "agentic ai": 26,
+    "ai agents": 70,
+    "multi-agent systems": 6,
+    "vector database": 1,
+    "vector search": 2,
+    "rag": 36,
+    "rust": 273,
+    "memory-safe programming": 2,
+    "llm orchestration": 3,
+    "langchain": 17,
+    "llamaindex": 2,
+    "crewai": 1,
+    "edge ai": 31,
+    "on-device ml": 1,
+    "federated learning": 1,
+    "quantum computing": 6,
+    "post-quantum cryptography": 1,
+    "web3": 1,
+    "blockchain": 7,
+    "digital twin": 4,
+    "autonomous systems": 4,
+    "sustainability": 28,
+    "green engineering": 2
+  }
+}

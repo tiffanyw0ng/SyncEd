@@ -1,1 +1,174 @@
-{"top_skills":[["python",318],["rust",132],["ai agents",35],["manufacturing",27],["computer vision",27],["robotics",19],["cad",18],["rag",17],["edge ai",17],["sustainability",14],["agentic ai",14],["langchain",9],["c++",8],["dynamics",7],["control systems",5],["solidworks",4],["blockchain",4],["plc",3],["quantum computing",3],["path planning",3],["perception",3],["multi-agent systems",3],["matlab",2],["hvac",2],["slam",2],["digital twin",2],["ros",2],["autonomous systems",2],["llm orchestration",2],["actuators",2]],"category_demand":{"languages":1379,"ai_ml":421,"data":376,"cloud_infra":691,"web":720,"security":31,"hardware_embedded":118,"electrical_power":23,"mechanical_manufacturing":58,"biomedical":55,"civil_environmental":59,"chemical_process":22,"aerospace_defense":71,"robotics_controls":76,"operations_analytics":188,"emerging_2026":258},"total_postings":1327,"sources":{"hackernews":1186,"remoteok":28,"arbeitnow":83,"google_jobs":30},"emerging_2026":{"agentic ai":14,"ai agents":35,"multi-agent systems":3,"vector database":1,"vector search":1,"rag":17,"rust":132,"memory-safe programming":0,"llm orchestration":2,"langchain":9,"llamaindex":1,"crewai":0,"edge ai":17,"on-device ml":0,"federated learning":0,"quantum computing":3,"post-quantum cryptography":0,"web3":1,"blockchain":4,"digital twin":2,"autonomous systems":2,"sustainability":14,"green engineering":0}}
+{
+  "top_skills": [
+    [
+      "SolidWorks",
+      466
+    ],
+    [
+      "CAD",
+      425
+    ],
+    [
+      "MATLAB",
+      389
+    ],
+    [
+      "FEA",
+      365
+    ],
+    [
+      "GD&T",
+      334
+    ],
+    [
+      "manufacturing",
+      315
+    ],
+    [
+      "CFD",
+      272
+    ],
+    [
+      "3D printing",
+      267
+    ],
+    [
+      "python",
+      240
+    ],
+    [
+      "ANSYS",
+      223
+    ],
+    [
+      "thermodynamics",
+      201
+    ],
+    [
+      "CNC machining",
+      193
+    ],
+    [
+      "project management",
+      174
+    ],
+    [
+      "AutoCAD",
+      156
+    ],
+    [
+      "lean manufacturing",
+      147
+    ],
+    [
+      "six sigma",
+      142
+    ],
+    [
+      "design for manufacturing",
+      133
+    ],
+    [
+      "Creo",
+      118
+    ],
+    [
+      "Simulink",
+      109
+    ],
+    [
+      "materials science",
+      101
+    ],
+    [
+      "robotics",
+      93
+    ],
+    [
+      "HVAC",
+      86
+    ],
+    [
+      "R",
+      81
+    ],
+    [
+      "machine learning",
+      70
+    ],
+    [
+      "quality control",
+      64
+    ],
+    [
+      "hydraulics",
+      60
+    ],
+    [
+      "structural analysis",
+      54
+    ],
+    [
+      "vibration analysis",
+      51
+    ],
+    [
+      "injection molding",
+      44
+    ],
+    [
+      "supply chain",
+      41
+    ]
+  ],
+  "category_demand": {
+    "languages": 2951,
+    "ai_ml": 773,
+    "data": 773,
+    "cloud_infra": 1391,
+    "web": 1379,
+    "security": 62,
+    "hardware_embedded": 248,
+    "electrical_power": 44,
+    "mechanical_manufacturing": 103,
+    "biomedical": 105,
+    "civil_environmental": 122,
+    "chemical_process": 41,
+    "aerospace_defense": 148,
+    "robotics_controls": 136,
+    "operations_analytics": 393,
+    "emerging_2026": 572
+  },
+  "total_postings": 1831,
+  "sources": {
+    "hackernews": 2560,
+    "remoteok": 59,
+    "arbeitnow": 177,
+    "google_jobs": 57
+  },
+  "emerging_2026": {
+    "agentic ai": 28,
+    "ai agents": 77,
+    "multi-agent systems": 6,
+    "vector database": 1,
+    "vector search": 1,
+    "rag": 35,
+    "rust": 246,
+    "memory-safe programming": 2,
+    "llm orchestration": 4,
+    "langchain": 16,
+    "llamaindex": 2,
+    "crewai": 2,
+    "edge ai": 35,
+    "on-device ml": 1,
+    "federated learning": 1,
+    "quantum computing": 5,
+    "post-quantum cryptography": 1,
+    "web3": 1,
+    "blockchain": 8,
+    "digital twin": 4,
+    "autonomous systems": 3,
+    "sustainability": 27,
+    "green engineering": 2
+  }
+}

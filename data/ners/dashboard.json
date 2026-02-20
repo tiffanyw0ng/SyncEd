@@ -1,1 +1,211 @@
-{"major_id":"ners","major_name":"Nuclear Engineering & Radiological Sciences","overall_alignment_score":47.2,"total_courses_analyzed":9,"total_job_postings":1327,"scraping_sources":{"hackernews":1186,"remoteok":28,"arbeitnow":83,"google_jobs":30},"top_gaps":[{"course_code":"NERS 344","course_title":"Nuclear Reactor Theory","alignment_score":37.6,"covered_skills":[],"missing_skills":["react","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","Why a physics degree is so valuable in today’s uncertain job market","CSU Pueblo physics programs taking hiatus in fall 2026. What happened?","A Kansas nuclear engineering program is back and students are quickly signing up","coding partner to help spread the load and allow more ambitious scope"]},{"course_code":"NERS 211","course_title":"Introduction to Nuclear Engineering and Radiological Sciences","alignment_score":43.8,"covered_skills":[],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["A Kansas nuclear engineering program is back and students are quickly signing up","Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","Texas becomes leading test ground for small nuclear reactors","Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"]},{"course_code":"NERS 312","course_title":"Nuclear Measurements Laboratory","alignment_score":44.4,"covered_skills":[],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech","A Kansas nuclear engineering program is back and students are quickly signing up","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","ADPH Careers: Radiation Physicists","Texas becomes leading test ground for small nuclear reactors"]},{"course_code":"NERS 442","course_title":"Nuclear Power Engineering","alignment_score":45.0,"covered_skills":[],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["A Kansas nuclear engineering program is back and students are quickly signing up","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","The Trump administration has secretly rewritten nuclear safety rules","The Trump administration has secretly rewritten nuclear safety rules","Texas becomes leading test ground for small nuclear reactors"]},{"course_code":"NERS 521","course_title":"Computational Methods in Nuclear Engineering","alignment_score":46.8,"covered_skills":["machine learning","simulation"],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["A Kansas nuclear engineering program is back and students are quickly signing up","across a number of roles in the areas of machine learning","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","Texas becomes leading test ground for small nuclear reactors","Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"]}],"top_aligned":[{"course_code":"NERS 425","course_title":"Nuclear Materials","alignment_score":57.6,"covered_skills":[],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech","Nuclear Fusion Startup Claims Major Advance in New Zealand Trial","A Kansas nuclear engineering program is back and students are quickly signing up","ADPH Careers: Radiation Physicists"]},{"course_code":"NERS 462","course_title":"Radiological Health Engineering","alignment_score":51.6,"covered_skills":[],"missing_skills":["imaging","react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Clinical Study Demonstrates Effectiveness of Team-Wide Radiation Protection System","ADPH Careers: Radiation Physicists","Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech","Stony Brook, Redshred Awarded Contract for AI-Powered Radiation Safety Technology","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time"]},{"course_code":"NERS 471","course_title":"Nuclear Plasma Engineering","alignment_score":50.7,"covered_skills":[],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Nuclear Fusion Startup Claims Major Advance in New Zealand Trial","Software Engineer - Frontend","A Kansas nuclear engineering program is back and students are quickly signing up","Why a physics degree is so valuable in today’s uncertain job market","CSU Pueblo physics programs taking hiatus in fall 2026. What happened?"]},{"course_code":"NERS 250","course_title":"Nuclear Reactor Design and Analysis","alignment_score":47.1,"covered_skills":[],"missing_skills":["altium","pcb design","react","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","A Kansas nuclear engineering program is back and students are quickly signing up","https://radiantnuclear.com/","Texas becomes leading test ground for small nuclear reactors","coding partner to help spread the load and allow more ambitious scope"]},{"course_code":"NERS 521","course_title":"Computational Methods in Nuclear Engineering","alignment_score":46.8,"covered_skills":["machine learning","simulation"],"missing_skills":["react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["A Kansas nuclear engineering program is back and students are quickly signing up","across a number of roles in the areas of machine learning","Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time","Texas becomes leading test ground for small nuclear reactors","Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"]}],"new_course_recommendations":[],"analysis_timestamp":"2026-02-20T10:43:51.699547","data_source":"oracle_db"}
+{
+  "major_id": "ners",
+  "major_name": "Nuclear Engineering & Radiological Sciences",
+  "overall_alignment_score": 47.2,
+  "total_courses_analyzed": 23,
+  "total_job_postings": 1626,
+  "scraping_sources": {
+    "hackernews": 2582,
+    "remoteok": 54,
+    "arbeitnow": 165,
+    "google_jobs": 57
+  },
+  "top_gaps": [
+    {
+      "course_code": "NERS 344",
+      "course_title": "Nuclear Reactor Theory",
+      "alignment_score": 37.6,
+      "covered_skills": [],
+      "missing_skills": [
+        "react",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "Why a physics degree is so valuable in today\u2019s uncertain job market",
+        "CSU Pueblo physics programs taking hiatus in fall 2026. What happened?",
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "coding partner to help spread the load and allow more ambitious scope"
+      ]
+    },
+    {
+      "course_code": "NERS 211",
+      "course_title": "Introduction to Nuclear Engineering and Radiological Sciences",
+      "alignment_score": 43.8,
+      "covered_skills": [],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "Texas becomes leading test ground for small nuclear reactors",
+        "Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"
+      ]
+    },
+    {
+      "course_code": "NERS 312",
+      "course_title": "Nuclear Measurements Laboratory",
+      "alignment_score": 44.4,
+      "covered_skills": [],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech",
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "ADPH Careers: Radiation Physicists",
+        "Texas becomes leading test ground for small nuclear reactors"
+      ]
+    },
+    {
+      "course_code": "NERS 442",
+      "course_title": "Nuclear Power Engineering",
+      "alignment_score": 45.0,
+      "covered_skills": [],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "The Trump administration has secretly rewritten nuclear safety rules",
+        "The Trump administration has secretly rewritten nuclear safety rules",
+        "Texas becomes leading test ground for small nuclear reactors"
+      ]
+    },
+    {
+      "course_code": "NERS 521",
+      "course_title": "Computational Methods in Nuclear Engineering",
+      "alignment_score": 46.8,
+      "covered_skills": [
+        "machine learning",
+        "simulation"
+      ],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "across a number of roles in the areas of machine learning",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "Texas becomes leading test ground for small nuclear reactors",
+        "Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "NERS 425",
+      "course_title": "Nuclear Materials",
+      "alignment_score": 57.6,
+      "covered_skills": [],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech",
+        "Nuclear Fusion Startup Claims Major Advance in New Zealand Trial",
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "ADPH Careers: Radiation Physicists"
+      ]
+    },
+    {
+      "course_code": "NERS 462",
+      "course_title": "Radiological Health Engineering",
+      "alignment_score": 51.6,
+      "covered_skills": [],
+      "missing_skills": [
+        "imaging",
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Clinical Study Demonstrates Effectiveness of Team-Wide Radiation Protection System",
+        "ADPH Careers: Radiation Physicists",
+        "Purdue nuclear engineer creates, validates inexpensive gamma radiation monitoring tech",
+        "Stony Brook, Redshred Awarded Contract for AI-Powered Radiation Safety Technology",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time"
+      ]
+    },
+    {
+      "course_code": "NERS 471",
+      "course_title": "Nuclear Plasma Engineering",
+      "alignment_score": 50.7,
+      "covered_skills": [],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Nuclear Fusion Startup Claims Major Advance in New Zealand Trial",
+        "Software Engineer - Frontend",
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "Why a physics degree is so valuable in today\u2019s uncertain job market",
+        "CSU Pueblo physics programs taking hiatus in fall 2026. What happened?"
+      ]
+    },
+    {
+      "course_code": "NERS 250",
+      "course_title": "Nuclear Reactor Design and Analysis",
+      "alignment_score": 47.1,
+      "covered_skills": [],
+      "missing_skills": [
+        "altium",
+        "pcb design",
+        "react",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "https://radiantnuclear.com/",
+        "Texas becomes leading test ground for small nuclear reactors",
+        "coding partner to help spread the load and allow more ambitious scope"
+      ]
+    },
+    {
+      "course_code": "NERS 521",
+      "course_title": "Computational Methods in Nuclear Engineering",
+      "alignment_score": 46.8,
+      "covered_skills": [
+        "machine learning",
+        "simulation"
+      ],
+      "missing_skills": [
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "A Kansas nuclear engineering program is back and students are quickly signing up",
+        "across a number of roles in the areas of machine learning",
+        "Engineers watch radiation-damaged nuclear reactor materials fix themselves in real time",
+        "Texas becomes leading test ground for small nuclear reactors",
+        "Scotland losing out on thousands of nuclear jobs due to block on new reactors, industry claims"
+      ]
+    }
+  ],
+  "new_course_recommendations": [],
+  "analysis_timestamp": "2026-02-20T10:43:51.699547",
+  "data_source": "oracle_db"
+}

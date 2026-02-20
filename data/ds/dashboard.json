@@ -1,1 +1,322 @@
-{"major_id":"ds","major_name":"Data Science","overall_alignment_score":40.7,"total_courses_analyzed":10,"total_job_postings":1327,"scraping_sources":{"hackernews":2726,"remoteok":59,"arbeitnow":237,"google_jobs":45},"top_gaps":[{"course_code":"DATASCI 451","course_title":"Causal Inference","alignment_score":18.1,"covered_skills":["python"],"missing_skills":["fastapi","lean","llm","machine learning","optimization","rag","react","redis","rust","serverless","swift","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Early Career Opportunities for Students | Internships and Co-Ops","for 2 roles to help us scale: Senior fullstack software engineer - work across o","Global Remote","founding ML and product engineers (ideally senior and entrepreneurial and excite","Software Engineer"]},{"course_code":"DATASCI 315","course_title":"Data Mining","alignment_score":34.2,"covered_skills":["machine learning","nlp","python"],"missing_skills":["aws","biomechanics","biotechnology","forecasting","matlab","optimization","scala","sql"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","biotech, machine learning","across a number of roles","Staff Machine Learning Engineer for Autobidder","Data Scientist"]},{"course_code":"DATASCI 206","course_title":"Data Science Programming","alignment_score":37.1,"covered_skills":["python"],"missing_skills":["aws","data engineering","kotlin","lean","react"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Data Science in 2026: Is It Still Worth It?","How to Build a Successful Data Science Career in 2026","Data Science & Software Engineering","two experienced Python developers","London (Farringdon)"]},{"course_code":"DATASCI 461","course_title":"Big Data Analytics","alignment_score":40.0,"covered_skills":["machine learning","python","sql"],"missing_skills":["apache kafka","apache spark","aws","data engineering","data pipeline","gcp","kubernetes","oracle","postgresql","scala","serverless","terraform"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Mid-Level and a Senior System Development Engineer to join the Amazon EMR/Athena","an independent innovator who complements our global team's skillset","Software Engineer","talented engineers to join our Engineering orginization who are passionate about","new opportunities in the dynamic world of data engineering? We at Klarrio are lo"]},{"course_code":"DATASCI 306","course_title":"Statistical Learning","alignment_score":40.7,"covered_skills":["machine learning"],"missing_skills":["deep learning","lean","optimization","quality control","statistical analysis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","various Full-time roles: - Founding Machine Learning Engineer - Backend Software","Hybrid (NY, Chicago, or Bay Area) and REMOTE","Hybrid (NY, Chicago, or Bay Area) and REMOTE","various Full-time roles: - Machine Learning Engineer (New York) - Senior Machine"]}],"top_aligned":[{"course_code":"DATASCI 101","course_title":"Introduction to Data Science","alignment_score":52.3,"covered_skills":["machine learning","python"],"missing_skills":["deep learning","optimization","power bi","quality control","r","sql","statistical analysis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Data Science in 2026: Is It Still Worth It?","How to Build a Successful Data Science Career in 2026","Onsite To view the complete job description and apply, please visit: https://jcu","Software Engineer","remote work opportunities"]},{"course_code":"DATASCI 478","course_title":"Natural Language Processing","alignment_score":48.1,"covered_skills":["deep learning","machine learning","nlp","python"],"missing_skills":["agentic ai","aws","computer vision","django","docker","edge ai","kubernetes","large language model","llm","logistics","manufacturing","optimization","perception","postgresql","react","redis","reinforcement learning","robotics","terraform","transformer","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["people who extensive experience training very large language models and/or reinf","Artificial Intelligence and Machine Learning Job Trends in 2026","Ping Data Intelligence","AI Engineer (m/w/d)","Full Stack & Data Scientist"]},{"course_code":"DATASCI 401","course_title":"Applied Machine Learning","alignment_score":48.0,"covered_skills":["deep learning","machine learning","optimization","python"],"missing_skills":["data engineering","etl","guidance","lean","quality control","scala","statistical analysis","transformer"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","Machine Learning Engineer to join our team","Machine Learning Engineer who is passionate about using their skills to make imp","talented deep learning engineer or scientist to lead the development of this mod","machine learning engineer to help develop applied ML models and own end-to-end p"]},{"course_code":"DATASCI 415","course_title":"Deep Learning","alignment_score":46.0,"covered_skills":["computer vision","deep learning","machine learning","nlp","python"],"missing_skills":["agentic ai","docker","edge ai","go","kubernetes","large language model","llm","logistics","manufacturing","perception","r","react","robotics","ruby","scala","transformer","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","AI Engineer (m/w/d)","ML Engineers to build","Machine Learning Engineer to join our team","few engineering roles to fill"]},{"course_code":"DATASCI 498","course_title":"Data Science Capstone","alignment_score":42.3,"covered_skills":["machine learning"],"missing_skills":["optimization","scala"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Data Science in 2026: Is It Still Worth It?","Onsite To view the complete job description and apply, please visit: https://jcu","How to Build a Successful Data Science Career in 2026","passionate","If You Want to Become a Data Scientist in 2026, Do This"]}],"new_course_recommendations":[],"analysis_timestamp":"2026-02-20T10:01:02.780665","data_source":"oracle_db"}
+{
+  "major_id": "ds",
+  "major_name": "Data Science",
+  "overall_alignment_score": 40.7,
+  "total_courses_analyzed": 24,
+  "total_job_postings": 12942,
+  "scraping_sources": {
+    "hackernews": 2207,
+    "remoteok": 53,
+    "arbeitnow": 159,
+    "google_jobs": 57
+  },
+  "top_gaps": [
+    {
+      "course_code": "DATASCI 451",
+      "course_title": "Causal Inference",
+      "alignment_score": 18.1,
+      "covered_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "fastapi",
+        "lean",
+        "llm",
+        "machine learning",
+        "optimization",
+        "rag",
+        "react",
+        "redis",
+        "rust",
+        "serverless",
+        "swift",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "for 2 roles to help us scale: Senior fullstack software engineer - work across o",
+        "Global Remote",
+        "founding ML and product engineers (ideally senior and entrepreneurial and excite",
+        "Software Engineer"
+      ]
+    },
+    {
+      "course_code": "DATASCI 315",
+      "course_title": "Data Mining",
+      "alignment_score": 34.2,
+      "covered_skills": [
+        "machine learning",
+        "nlp",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "biomechanics",
+        "biotechnology",
+        "forecasting",
+        "matlab",
+        "optimization",
+        "scala",
+        "sql"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "biotech, machine learning",
+        "across a number of roles",
+        "Staff Machine Learning Engineer for Autobidder",
+        "Data Scientist"
+      ]
+    },
+    {
+      "course_code": "DATASCI 206",
+      "course_title": "Data Science Programming",
+      "alignment_score": 37.1,
+      "covered_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "data engineering",
+        "kotlin",
+        "lean",
+        "react"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Data Science in 2026: Is It Still Worth It?",
+        "How to Build a Successful Data Science Career in 2026",
+        "Data Science & Software Engineering",
+        "two experienced Python developers",
+        "London (Farringdon)"
+      ]
+    },
+    {
+      "course_code": "DATASCI 461",
+      "course_title": "Big Data Analytics",
+      "alignment_score": 40.0,
+      "covered_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "missing_skills": [
+        "apache kafka",
+        "apache spark",
+        "aws",
+        "data engineering",
+        "data pipeline",
+        "gcp",
+        "kubernetes",
+        "oracle",
+        "postgresql",
+        "scala",
+        "serverless",
+        "terraform"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Mid-Level and a Senior System Development Engineer to join the Amazon EMR/Athena",
+        "an independent innovator who complements our global team's skillset",
+        "Software Engineer",
+        "talented engineers to join our Engineering orginization who are passionate about",
+        "new opportunities in the dynamic world of data engineering? We at Klarrio are lo"
+      ]
+    },
+    {
+      "course_code": "DATASCI 306",
+      "course_title": "Statistical Learning",
+      "alignment_score": 40.7,
+      "covered_skills": [
+        "machine learning"
+      ],
+      "missing_skills": [
+        "deep learning",
+        "lean",
+        "optimization",
+        "quality control",
+        "statistical analysis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "various Full-time roles: - Founding Machine Learning Engineer - Backend Software",
+        "Hybrid (NY, Chicago, or Bay Area) and REMOTE",
+        "Hybrid (NY, Chicago, or Bay Area) and REMOTE",
+        "various Full-time roles: - Machine Learning Engineer (New York) - Senior Machine"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "DATASCI 101",
+      "course_title": "Introduction to Data Science",
+      "alignment_score": 52.3,
+      "covered_skills": [
+        "machine learning",
+        "python"
+      ],
+      "missing_skills": [
+        "deep learning",
+        "optimization",
+        "power bi",
+        "quality control",
+        "r",
+        "sql",
+        "statistical analysis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Data Science in 2026: Is It Still Worth It?",
+        "How to Build a Successful Data Science Career in 2026",
+        "Onsite To view the complete job description and apply, please visit: https://jcu",
+        "Software Engineer",
+        "remote work opportunities"
+      ]
+    },
+    {
+      "course_code": "DATASCI 478",
+      "course_title": "Natural Language Processing",
+      "alignment_score": 48.1,
+      "covered_skills": [
+        "deep learning",
+        "machine learning",
+        "nlp",
+        "python"
+      ],
+      "missing_skills": [
+        "agentic ai",
+        "aws",
+        "computer vision",
+        "django",
+        "docker",
+        "edge ai",
+        "kubernetes",
+        "large language model",
+        "llm",
+        "logistics",
+        "manufacturing",
+        "optimization",
+        "perception",
+        "postgresql",
+        "react",
+        "redis",
+        "reinforcement learning",
+        "robotics",
+        "terraform",
+        "transformer",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "people who extensive experience training very large language models and/or reinf",
+        "Artificial Intelligence and Machine Learning Job Trends in 2026",
+        "Ping Data Intelligence",
+        "AI Engineer (m/w/d)",
+        "Full Stack & Data Scientist"
+      ]
+    },
+    {
+      "course_code": "DATASCI 401",
+      "course_title": "Applied Machine Learning",
+      "alignment_score": 48.0,
+      "covered_skills": [
+        "deep learning",
+        "machine learning",
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "data engineering",
+        "etl",
+        "guidance",
+        "lean",
+        "quality control",
+        "scala",
+        "statistical analysis",
+        "transformer"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "Machine Learning Engineer to join our team",
+        "Machine Learning Engineer who is passionate about using their skills to make imp",
+        "talented deep learning engineer or scientist to lead the development of this mod",
+        "machine learning engineer to help develop applied ML models and own end-to-end p"
+      ]
+    },
+    {
+      "course_code": "DATASCI 415",
+      "course_title": "Deep Learning",
+      "alignment_score": 46.0,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "nlp",
+        "python"
+      ],
+      "missing_skills": [
+        "agentic ai",
+        "docker",
+        "edge ai",
+        "go",
+        "kubernetes",
+        "large language model",
+        "llm",
+        "logistics",
+        "manufacturing",
+        "perception",
+        "r",
+        "react",
+        "robotics",
+        "ruby",
+        "scala",
+        "transformer",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "AI Engineer (m/w/d)",
+        "ML Engineers to build",
+        "Machine Learning Engineer to join our team",
+        "few engineering roles to fill"
+      ]
+    },
+    {
+      "course_code": "DATASCI 498",
+      "course_title": "Data Science Capstone",
+      "alignment_score": 42.3,
+      "covered_skills": [
+        "machine learning"
+      ],
+      "missing_skills": [
+        "optimization",
+        "scala"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Data Science in 2026: Is It Still Worth It?",
+        "Onsite To view the complete job description and apply, please visit: https://jcu",
+        "How to Build a Successful Data Science Career in 2026",
+        "passionate",
+        "If You Want to Become a Data Scientist in 2026, Do This"
+      ]
+    }
+  ],
+  "new_course_recommendations": [],
+  "analysis_timestamp": "2026-02-20T10:01:02.780665",
+  "data_source": "oracle_db"
+}

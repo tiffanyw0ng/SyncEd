@@ -1,1 +1,331 @@
-{"major_id":"cheme","major_name":"Chemical Engineering","overall_alignment_score":20.2,"total_courses_analyzed":9,"total_job_postings":1327,"scraping_sources":{"hackernews":128,"remoteok":5,"arbeitnow":13,"google_jobs":32},"top_gaps":[{"course_code":"CHE 342","course_title":"Heat and Mass Transfer","alignment_score":5.4,"covered_skills":["optimization","simulation"],"missing_skills":["ai agents","asic","ci/cd","diffusion model","go","kubernetes","lean","llm","python","sustainability"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Internship / Working Student - Brand, Marketing, UI & GTM Strategy","Early Career Opportunities for Students | Internships and Co-Ops","problem solver","Forward Deployed AI Engineer","for this position: - Sr"]},{"course_code":"CHE 230","course_title":"Material and Energy Balances","alignment_score":9.3,"covered_skills":[],"missing_skills":["catalysis","gmp","inverter","lean","manufacturing","pharmaceutical","power electronics","react","scala","simulink","solar","supply chain","sustainability","transportation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","Process Chemist","Marketing Student","engineers experienced with power electronics","Early Career Opportunities for Students | Internships and Co-Ops"]},{"course_code":"CHE 341","course_title":"Fluid Mechanics","alignment_score":12.7,"covered_skills":[],"missing_skills":["catalysis","dynamics","gmp","imaging","manufacturing","mri","pharmaceutical","react","scala","sustainability"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["variety of roles including full stack engineers","Full Time","BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","Process Chemist","Early Career Opportunities for Students | Internships and Co-Ops"]},{"course_code":"CHE 487","course_title":"Polymer Science and Engineering","alignment_score":12.9,"covered_skills":["manufacturing"],"missing_skills":["cad","ci/cd","diffusion model","environmental","go","julia","kubernetes","llm","logistics","machine learning","mechanical design","polymer","process engineering","python","r","rust","scala","simulation","supply chain"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["experienced cross-disciplinary engineers and fabricators who enjoy solving diffi","https://machinephase.systems/","Product-oriented Software Engineer that will: - Build ergonomic interfaces for d","quantitative-research-type folks interested in working in a high-performance sci","problem solver"]},{"course_code":"CHE 344","course_title":"Chemical Reaction Engineering","alignment_score":16.8,"covered_skills":[],"missing_skills":["catalysis","dynamics","gmp","imaging","manufacturing","mri","pharmaceutical","react","scala","sustainability"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","Full Time","Process Chemist","Early Career Opportunities for Students | Internships and Co-Ops","variety of roles including full stack engineers"]}],"top_aligned":[{"course_code":"CHE 360","course_title":"Chemical Engineering Laboratory","alignment_score":44.3,"covered_skills":[],"missing_skills":["asic","aws","azure","data pipeline","dynamics","environmental","kotlin","manufacturing","medical device","postgresql","project management","python","r","regulatory affairs","rust","scala","sql","swift","typescript","web3"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","Software Engineer","talented","Project Manager R&D NPI Medical Devices","Early Career Opportunities for Students | Internships and Co-Ops"]},{"course_code":"CHE 496","course_title":"Data Science for Chemical Engineers","alignment_score":32.9,"covered_skills":["machine learning","optimization","python"],"missing_skills":["aws","docker","environmental","etl","fastapi","julia","manufacturing","pharmaceutical","postgresql","react","scala","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","quantitative-research-type folks interested in working in a high-performance sci","Fractional Engineer","Computational drug design","passionate Software Engineers comfortable working across our stack (Python"]},{"course_code":"CHE 330","course_title":"Chemical Engineering Thermodynamics","alignment_score":28.9,"covered_skills":["optimization"],"missing_skills":["ai agents","cad","mechanical design","python","rust","scala","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","https://machinephase.systems/","variety of roles including full stack engineers","Forward Deployed AI Engineer","Early Career Opportunities for Students | Internships and Co-Ops"]},{"course_code":"CHE 460","course_title":"Process Design and Optimization","alignment_score":18.9,"covered_skills":["optimization","simulation","sustainability"],"missing_skills":["catalysis","environmental","gmp","go","logistics","manufacturing","pharmaceutical","polymer","process engineering","r","react","scala","supply chain","vue"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for this position: - Sr","Process Chemist","experienced cross-disciplinary engineers and fabricators who enjoy solving diffi","truly great front-end engineer to design and implement intuitive interfaces for ","BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?"]},{"course_code":"CHE 344","course_title":"Chemical Reaction Engineering","alignment_score":16.8,"covered_skills":[],"missing_skills":["catalysis","dynamics","gmp","imaging","manufacturing","mri","pharmaceutical","react","scala","sustainability"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?","Full Time","Process Chemist","Early Career Opportunities for Students | Internships and Co-Ops","variety of roles including full stack engineers"]}],"new_course_recommendations":[],"analysis_timestamp":"2026-02-20T09:47:48.753076","data_source":"oracle_db"}
+{
+  "major_id": "cheme",
+  "major_name": "Chemical Engineering",
+  "overall_alignment_score": 20.2,
+  "total_courses_analyzed": 23,
+  "total_job_postings": 1530,
+  "scraping_sources": {
+    "hackernews": 2226,
+    "remoteok": 54,
+    "arbeitnow": 166,
+    "google_jobs": 57
+  },
+  "top_gaps": [
+    {
+      "course_code": "CHE 342",
+      "course_title": "Heat and Mass Transfer",
+      "alignment_score": 5.4,
+      "covered_skills": [
+        "optimization",
+        "simulation"
+      ],
+      "missing_skills": [
+        "ai agents",
+        "asic",
+        "ci/cd",
+        "diffusion model",
+        "go",
+        "kubernetes",
+        "lean",
+        "llm",
+        "python",
+        "sustainability"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Internship / Working Student - Brand, Marketing, UI & GTM Strategy",
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "problem solver",
+        "Forward Deployed AI Engineer",
+        "for this position: - Sr"
+      ]
+    },
+    {
+      "course_code": "CHE 230",
+      "course_title": "Material and Energy Balances",
+      "alignment_score": 9.3,
+      "covered_skills": [],
+      "missing_skills": [
+        "catalysis",
+        "gmp",
+        "inverter",
+        "lean",
+        "manufacturing",
+        "pharmaceutical",
+        "power electronics",
+        "react",
+        "scala",
+        "simulink",
+        "solar",
+        "supply chain",
+        "sustainability",
+        "transportation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "Process Chemist",
+        "Marketing Student",
+        "engineers experienced with power electronics",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    },
+    {
+      "course_code": "CHE 341",
+      "course_title": "Fluid Mechanics",
+      "alignment_score": 12.7,
+      "covered_skills": [],
+      "missing_skills": [
+        "catalysis",
+        "dynamics",
+        "gmp",
+        "imaging",
+        "manufacturing",
+        "mri",
+        "pharmaceutical",
+        "react",
+        "scala",
+        "sustainability"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "variety of roles including full stack engineers",
+        "Full Time",
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "Process Chemist",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    },
+    {
+      "course_code": "CHE 487",
+      "course_title": "Polymer Science and Engineering",
+      "alignment_score": 12.9,
+      "covered_skills": [
+        "manufacturing"
+      ],
+      "missing_skills": [
+        "cad",
+        "ci/cd",
+        "diffusion model",
+        "environmental",
+        "go",
+        "julia",
+        "kubernetes",
+        "llm",
+        "logistics",
+        "machine learning",
+        "mechanical design",
+        "polymer",
+        "process engineering",
+        "python",
+        "r",
+        "rust",
+        "scala",
+        "simulation",
+        "supply chain"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "experienced cross-disciplinary engineers and fabricators who enjoy solving diffi",
+        "https://machinephase.systems/",
+        "Product-oriented Software Engineer that will: - Build ergonomic interfaces for d",
+        "quantitative-research-type folks interested in working in a high-performance sci",
+        "problem solver"
+      ]
+    },
+    {
+      "course_code": "CHE 344",
+      "course_title": "Chemical Reaction Engineering",
+      "alignment_score": 16.8,
+      "covered_skills": [],
+      "missing_skills": [
+        "catalysis",
+        "dynamics",
+        "gmp",
+        "imaging",
+        "manufacturing",
+        "mri",
+        "pharmaceutical",
+        "react",
+        "scala",
+        "sustainability"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "Full Time",
+        "Process Chemist",
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "variety of roles including full stack engineers"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "CHE 360",
+      "course_title": "Chemical Engineering Laboratory",
+      "alignment_score": 44.3,
+      "covered_skills": [],
+      "missing_skills": [
+        "asic",
+        "aws",
+        "azure",
+        "data pipeline",
+        "dynamics",
+        "environmental",
+        "kotlin",
+        "manufacturing",
+        "medical device",
+        "postgresql",
+        "project management",
+        "python",
+        "r",
+        "regulatory affairs",
+        "rust",
+        "scala",
+        "sql",
+        "swift",
+        "typescript",
+        "web3"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "Software Engineer",
+        "talented",
+        "Project Manager R&D NPI Medical Devices",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    },
+    {
+      "course_code": "CHE 496",
+      "course_title": "Data Science for Chemical Engineers",
+      "alignment_score": 32.9,
+      "covered_skills": [
+        "machine learning",
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "docker",
+        "environmental",
+        "etl",
+        "fastapi",
+        "julia",
+        "manufacturing",
+        "pharmaceutical",
+        "postgresql",
+        "react",
+        "scala",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "quantitative-research-type folks interested in working in a high-performance sci",
+        "Fractional Engineer",
+        "Computational drug design",
+        "passionate Software Engineers comfortable working across our stack (Python"
+      ]
+    },
+    {
+      "course_code": "CHE 330",
+      "course_title": "Chemical Engineering Thermodynamics",
+      "alignment_score": 28.9,
+      "covered_skills": [
+        "optimization"
+      ],
+      "missing_skills": [
+        "ai agents",
+        "cad",
+        "mechanical design",
+        "python",
+        "rust",
+        "scala",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "https://machinephase.systems/",
+        "variety of roles including full stack engineers",
+        "Forward Deployed AI Engineer",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    },
+    {
+      "course_code": "CHE 460",
+      "course_title": "Process Design and Optimization",
+      "alignment_score": 18.9,
+      "covered_skills": [
+        "optimization",
+        "simulation",
+        "sustainability"
+      ],
+      "missing_skills": [
+        "catalysis",
+        "environmental",
+        "gmp",
+        "go",
+        "logistics",
+        "manufacturing",
+        "pharmaceutical",
+        "polymer",
+        "process engineering",
+        "r",
+        "react",
+        "scala",
+        "supply chain",
+        "vue"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for this position: - Sr",
+        "Process Chemist",
+        "experienced cross-disciplinary engineers and fabricators who enjoy solving diffi",
+        "truly great front-end engineer to design and implement intuitive interfaces for ",
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?"
+      ]
+    },
+    {
+      "course_code": "CHE 344",
+      "course_title": "Chemical Reaction Engineering",
+      "alignment_score": 16.8,
+      "covered_skills": [],
+      "missing_skills": [
+        "catalysis",
+        "dynamics",
+        "gmp",
+        "imaging",
+        "manufacturing",
+        "mri",
+        "pharmaceutical",
+        "react",
+        "scala",
+        "sustainability"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "BTech in Chemical Engineering vs Chemical and Biochemical Engineering: Career prospects, opportunities, what should you choose?",
+        "Full Time",
+        "Process Chemist",
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "variety of roles including full stack engineers"
+      ]
+    }
+  ],
+  "new_course_recommendations": [],
+  "analysis_timestamp": "2026-02-20T09:47:48.753076",
+  "data_source": "oracle_db"
+}

@@ -1,1 +1,347 @@
-{"major_id":"ee","major_name":"Electrical Engineering","overall_alignment_score":30.6,"total_courses_analyzed":15,"total_job_postings":1327,"scraping_sources":{"hackernews":5198,"remoteok":28,"arbeitnow":278,"google_jobs":19},"top_gaps":[{"course_code":"EECS 465","course_title":"Radio Frequency and Microwave Circuit Design","alignment_score":18.5,"covered_skills":[],"missing_skills":["ansys","blockchain","go","java","javascript","lean","python","scala"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Full Stack Developer, Course Design & Back-End Developer, Course Design","Back end Developer, Course Design & Full stack Developer Course Design","systems-oriented engineer who will design and build out key components to suppor","HYBRID (COVENTRY, UK)","Senior Software Engineer"]},{"course_code":"EECS 311","course_title":"Electronic Circuits II","alignment_score":20.7,"covered_skills":["signal processing"],"missing_skills":["5g","6g","data engineering","data pipeline","firmware","fpga","machine learning","python","radar","react","scala","telecommunications","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["across many projects and many areas of expertise","for: 1","senior reverse engineers & vulnerability researchers to perform in-depth reverse","senior reverse engineers & vulnerability researchers to perform in-depth reverse","Multiple Roles"]},{"course_code":"EECS 230","course_title":"Electromagnetic Fields and Waves","alignment_score":23.3,"covered_skills":[],"missing_skills":["edge ai","java","python","web3"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["new engineering manager! Please feel free to ask me questions on work","senior engineer to help us catalog the world's legal data","an experienced Full-Stack Engineer to join our team and help evolve our customer","Software Engineering Manager to lead a team of six engineers across a range of p","https://columntax.com"]},{"course_code":"EECS 215","course_title":"Introduction to Electronic Circuits","alignment_score":23.6,"covered_skills":["signal processing"],"missing_skills":["5g","6g","data engineering","data pipeline","firmware","fpga","machine learning","python","radar","react","scala","telecommunications","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["across many projects and many areas of expertise","Multiple Roles","senior reverse engineers & vulnerability researchers to perform in-depth reverse","senior reverse engineers & vulnerability researchers to perform in-depth reverse","for: 1"]},{"course_code":"EECS 320","course_title":"Electromagnetic Fields and Waves II","alignment_score":24.5,"covered_skills":["semiconductor"],"missing_skills":["embedded systems","java","javascript","power systems","python","quantum computing","r","react","scala","solar"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["In-person in San Francisco","both senior engineering and management to help build out our compiler stack for ","highly motivated software engineers who want to be at the forefront of quantum c","full time Frontend Developer who is keen to mentor/coach people and take the lea","both senior engineering and management to help build out our compiler stack for "]}],"top_aligned":[{"course_code":"EECS 498","course_title":"Photonics and Optical Systems","alignment_score":45.7,"covered_skills":["computer vision","deep learning","reinforcement learning"],"missing_skills":["3d printing","aws","cad","cnc","docker","edge ai","federated learning","java","kubernetes","machine learning","manufacturing","matlab","python","r","react","redis","robotics","simulation","sql"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","top engineers - both junior and senior - who are excited about solving hard prob","top engineers - both junior and senior - who are excited about solving hard prob","full time opportunities starting in May 2024","Founding Engineers"]},{"course_code":"EECS 414","course_title":"Introduction to Machine Learning","alignment_score":41.6,"covered_skills":["machine learning","python","signal processing"],"missing_skills":["data engineering","data pipeline","kubernetes","react","reinforcement learning","rust","scala","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for: 1","software engineers for a few projects","for both smart generalists and PL/ML experts who are interested in collaborating","for both smart generalists and PL/ML experts who are interested in collaborating","for both smart generalists and PL/ML experts who are interested in collaborating"]},{"course_code":"EECS 498","course_title":"Power Systems Analysis","alignment_score":41.4,"covered_skills":["computer vision","deep learning","reinforcement learning","simulation"],"missing_skills":["3d printing","aws","cad","cnc","docker","edge ai","federated learning","java","kubernetes","machine learning","manufacturing","matlab","python","r","react","redis","robotics","sql"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","top engineers - both junior and senior - who are excited about solving hard prob","Founding Engineers","top engineers - both junior and senior - who are excited about solving hard prob","full time opportunities starting in May 2024"]},{"course_code":"EECS 498","course_title":"Digital Signal Processing","alignment_score":39.7,"covered_skills":["computer vision","deep learning","matlab","signal processing"],"missing_skills":["aws","data engineering","data pipeline","defense","docker","edge ai","federated learning","java","kubernetes","machine learning","manufacturing","python","r","react","redis","scala","sql","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","for: 1","full time opportunities starting in May 2024","top engineers - both junior and senior - who are excited about solving hard prob","jack-of-all-trades who can: prototype computer vision algorithms"]},{"course_code":"EECS 334","course_title":"Semiconductor Devices","alignment_score":35.7,"covered_skills":["optics"],"missing_skills":["ci/cd","embedded systems","fpga","kubernetes","machine learning","manufacturing","python","semiconductor","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["In-person in San Francisco","in pretty much every IT field as we modernize systems","Python Software Development","junior engineer for work on software related to Electronic Design Automation and","Python Software Development"]}],"new_course_recommendations":[{"suggested_code":"EECS 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":11.1,"related_existing_courses":[]}],"analysis_timestamp":"2026-02-20T10:32:08.222553","data_source":"oracle_db"}
+{
+  "major_id": "ee",
+  "major_name": "Electrical Engineering",
+  "overall_alignment_score": 30.6,
+  "total_courses_analyzed": 29,
+  "total_job_postings": 1705,
+  "scraping_sources": {
+    "hackernews": 2492,
+    "remoteok": 52,
+    "arbeitnow": 160,
+    "google_jobs": 66
+  },
+  "top_gaps": [
+    {
+      "course_code": "EECS 465",
+      "course_title": "Radio Frequency and Microwave Circuit Design",
+      "alignment_score": 18.5,
+      "covered_skills": [],
+      "missing_skills": [
+        "ansys",
+        "blockchain",
+        "go",
+        "java",
+        "javascript",
+        "lean",
+        "python",
+        "scala"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Full Stack Developer, Course Design & Back-End Developer, Course Design",
+        "Back end Developer, Course Design & Full stack Developer Course Design",
+        "systems-oriented engineer who will design and build out key components to suppor",
+        "HYBRID (COVENTRY, UK)",
+        "Senior Software Engineer"
+      ]
+    },
+    {
+      "course_code": "EECS 311",
+      "course_title": "Electronic Circuits II",
+      "alignment_score": 20.7,
+      "covered_skills": [
+        "signal processing"
+      ],
+      "missing_skills": [
+        "5g",
+        "6g",
+        "data engineering",
+        "data pipeline",
+        "firmware",
+        "fpga",
+        "machine learning",
+        "python",
+        "radar",
+        "react",
+        "scala",
+        "telecommunications",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "across many projects and many areas of expertise",
+        "for: 1",
+        "senior reverse engineers & vulnerability researchers to perform in-depth reverse",
+        "senior reverse engineers & vulnerability researchers to perform in-depth reverse",
+        "Multiple Roles"
+      ]
+    },
+    {
+      "course_code": "EECS 230",
+      "course_title": "Electromagnetic Fields and Waves",
+      "alignment_score": 23.3,
+      "covered_skills": [],
+      "missing_skills": [
+        "edge ai",
+        "java",
+        "python",
+        "web3"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "new engineering manager! Please feel free to ask me questions on work",
+        "senior engineer to help us catalog the world's legal data",
+        "an experienced Full-Stack Engineer to join our team and help evolve our customer",
+        "Software Engineering Manager to lead a team of six engineers across a range of p",
+        "https://columntax.com"
+      ]
+    },
+    {
+      "course_code": "EECS 215",
+      "course_title": "Introduction to Electronic Circuits",
+      "alignment_score": 23.6,
+      "covered_skills": [
+        "signal processing"
+      ],
+      "missing_skills": [
+        "5g",
+        "6g",
+        "data engineering",
+        "data pipeline",
+        "firmware",
+        "fpga",
+        "machine learning",
+        "python",
+        "radar",
+        "react",
+        "scala",
+        "telecommunications",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "across many projects and many areas of expertise",
+        "Multiple Roles",
+        "senior reverse engineers & vulnerability researchers to perform in-depth reverse",
+        "senior reverse engineers & vulnerability researchers to perform in-depth reverse",
+        "for: 1"
+      ]
+    },
+    {
+      "course_code": "EECS 320",
+      "course_title": "Electromagnetic Fields and Waves II",
+      "alignment_score": 24.5,
+      "covered_skills": [
+        "semiconductor"
+      ],
+      "missing_skills": [
+        "embedded systems",
+        "java",
+        "javascript",
+        "power systems",
+        "python",
+        "quantum computing",
+        "r",
+        "react",
+        "scala",
+        "solar"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "In-person in San Francisco",
+        "both senior engineering and management to help build out our compiler stack for ",
+        "highly motivated software engineers who want to be at the forefront of quantum c",
+        "full time Frontend Developer who is keen to mentor/coach people and take the lea",
+        "both senior engineering and management to help build out our compiler stack for "
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "EECS 498",
+      "course_title": "Photonics and Optical Systems",
+      "alignment_score": 45.7,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "reinforcement learning"
+      ],
+      "missing_skills": [
+        "3d printing",
+        "aws",
+        "cad",
+        "cnc",
+        "docker",
+        "edge ai",
+        "federated learning",
+        "java",
+        "kubernetes",
+        "machine learning",
+        "manufacturing",
+        "matlab",
+        "python",
+        "r",
+        "react",
+        "redis",
+        "robotics",
+        "simulation",
+        "sql"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "full time opportunities starting in May 2024",
+        "Founding Engineers"
+      ]
+    },
+    {
+      "course_code": "EECS 414",
+      "course_title": "Introduction to Machine Learning",
+      "alignment_score": 41.6,
+      "covered_skills": [
+        "machine learning",
+        "python",
+        "signal processing"
+      ],
+      "missing_skills": [
+        "data engineering",
+        "data pipeline",
+        "kubernetes",
+        "react",
+        "reinforcement learning",
+        "rust",
+        "scala",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for: 1",
+        "software engineers for a few projects",
+        "for both smart generalists and PL/ML experts who are interested in collaborating",
+        "for both smart generalists and PL/ML experts who are interested in collaborating",
+        "for both smart generalists and PL/ML experts who are interested in collaborating"
+      ]
+    },
+    {
+      "course_code": "EECS 498",
+      "course_title": "Power Systems Analysis",
+      "alignment_score": 41.4,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "reinforcement learning",
+        "simulation"
+      ],
+      "missing_skills": [
+        "3d printing",
+        "aws",
+        "cad",
+        "cnc",
+        "docker",
+        "edge ai",
+        "federated learning",
+        "java",
+        "kubernetes",
+        "machine learning",
+        "manufacturing",
+        "matlab",
+        "python",
+        "r",
+        "react",
+        "redis",
+        "robotics",
+        "sql"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "Founding Engineers",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "full time opportunities starting in May 2024"
+      ]
+    },
+    {
+      "course_code": "EECS 498",
+      "course_title": "Digital Signal Processing",
+      "alignment_score": 39.7,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "matlab",
+        "signal processing"
+      ],
+      "missing_skills": [
+        "aws",
+        "data engineering",
+        "data pipeline",
+        "defense",
+        "docker",
+        "edge ai",
+        "federated learning",
+        "java",
+        "kubernetes",
+        "machine learning",
+        "manufacturing",
+        "python",
+        "r",
+        "react",
+        "redis",
+        "scala",
+        "sql",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "for: 1",
+        "full time opportunities starting in May 2024",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "jack-of-all-trades who can: prototype computer vision algorithms"
+      ]
+    },
+    {
+      "course_code": "EECS 334",
+      "course_title": "Semiconductor Devices",
+      "alignment_score": 35.7,
+      "covered_skills": [
+        "optics"
+      ],
+      "missing_skills": [
+        "ci/cd",
+        "embedded systems",
+        "fpga",
+        "kubernetes",
+        "machine learning",
+        "manufacturing",
+        "python",
+        "semiconductor",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "In-person in San Francisco",
+        "in pretty much every IT field as we modernize systems",
+        "Python Software Development",
+        "junior engineer for work on software related to Electronic Design Automation and",
+        "Python Software Development"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "EECS 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 11.1,
+      "related_existing_courses": []
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T10:32:08.222553",
+  "data_source": "oracle_db"
+}

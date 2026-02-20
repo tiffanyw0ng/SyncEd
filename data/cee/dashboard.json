@@ -1,1 +1,384 @@
-{"major_id":"cee","major_name":"Civil & Environmental Engineering","overall_alignment_score":27.4,"total_courses_analyzed":10,"total_job_postings":1327,"scraping_sources":{"hackernews":345,"remoteok":20,"arbeitnow":39,"google_jobs":32},"top_gaps":[{"course_code":"CEE 345","course_title":"Geotechnical Engineering","alignment_score":15.7,"covered_skills":["geotechnical"],"missing_skills":["aws","django","java","javascript","python","react","satellite","scala","transportation","vue"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["mid level engineers to help on our web app","both mid-level and senior engineers to help grow and maintain our scientific sof","process because we respect your time","process because we respect your time","process because we respect your time"]},{"course_code":"CEE 211","course_title":"Statics and Dynamics","alignment_score":16.2,"covered_skills":["dynamics"],"missing_skills":["actuators","ansys","asic","bioinformatics","cad","ci/cd","control systems","environmental","fea","kinematics","lean","lidar","logistics","manufacturing","motion planning","navigation","power systems","project management","python","reinforcement learning","robotics","ros","sensor fusion","simulation","solidworks","spi","uart"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Space Mechanisms Engineer","City Director","Software & Controls Engineer for Humanoid Robotics","Multiple Roles","Early Career Opportunities for Students | Internships and Co-Ops"]},{"course_code":"CEE 366","course_title":"Structural Analysis","alignment_score":17.1,"covered_skills":["simulation"],"missing_skills":["actuators","ansys","asic","bioinformatics","cad","control systems","dynamics","fea","julia","kotlin","large language model","lean","machine learning","manufacturing","python","r","rust","solidworks","statistical analysis","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Multiple Roles","full-time Senior Software Engineer in the area of computational social science f","Space Mechanisms Engineer","for - Business Analysts: business analysis","PARTNER"]},{"course_code":"CEE 325","course_title":"Fluid Mechanics","alignment_score":18.7,"covered_skills":[],"missing_skills":["azure","environmental","finite element","java","javascript","lean","manufacturing","medical device","project management","r","react","regulatory affairs","rust","scala","surveying","transportation","typescript","water resources"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["2026 Co-op Partnership Information: Civil Engineering Technologies Department","(Remote, APAC preferred)","How to Become a Civil Engineer: Your Career Roadmap","Regional Lead Civil Engineer Bridge & Structures","Project Manager R&D NPI Medical Devices"]},{"course_code":"CEE 212","course_title":"Solid and Structural Mechanics","alignment_score":19.8,"covered_skills":[],"missing_skills":["actuators","ansys","asic","aws","bioinformatics","cad","control systems","dynamics","fea","large language model","machine learning","manufacturing","python","r","serverless","simulation","solidworks","statistical analysis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Multiple Roles","Unity Visualization Engineer (C#","full-time Senior Software Engineer in the area of computational social science f","sharp and thoughtful engineers excited to help us design therapeutics to treat u","Space Mechanisms Engineer"]}],"top_aligned":[{"course_code":"CEE 432","course_title":"Water Resources Engineering","alignment_score":60.4,"covered_skills":[],"missing_skills":["environmental","finite element","large language model","machine learning","project management","python","r","statistical analysis","surveying","transportation","water resources"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Water resources engineer joins Minot firm","Regional Lead Civil Engineer Bridge & Structures","Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.","Dry winter so far raises early questions about water supplies in the Mountain West","full-time Senior Software Engineer in the area of computational social science f"]},{"course_code":"CEE 515","course_title":"Computational Methods in CEE","alignment_score":37.7,"covered_skills":["machine learning","optimization","python"],"missing_skills":["large language model","lean","r","statistical analysis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["2026 Co-op Partnership Information: Civil Engineering Technologies Department","full-time Senior Software Engineer in the area of computational social science f","various Full-time roles: - Founding Machine Learning Engineer - Backend Software","various Full-time roles: - Machine Learning Engineer (New York) - Senior Machine","Hybrid (NY, Chicago, or Bay Area) and REMOTE"]},{"course_code":"CEE 450","course_title":"Introduction to Transportation Engineering","alignment_score":31.7,"covered_skills":["optimization","simulation","transportation"],"missing_skills":["actuators","ci/cd","data engineering","dynamics","environmental","gis","kinematics","lean","lidar","motion planning","navigation","power systems","python","react","reinforcement learning","robotics","ros","sensor fusion","spi","supply chain","uart"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Air Traffic Controller Hiring","WRDA 2026","2026 tech job market statistics and outlook","Software & Controls Engineer for Humanoid Robotics","full-stack engineers"]},{"course_code":"CEE 375","course_title":"Sensors, Circuits and Data Science for CEE","alignment_score":31.6,"covered_skills":["machine learning","python"],"missing_skills":["aws","computer vision","data engineering","dbt","environmental","federated learning","java","julia","large language model","lean","matlab","r","react","sql","statistical analysis","transportation","uart"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["an IoT engineer (Electrical/Mechanical) and will have a few more jobs up soon fo","quantitative-research-type folks interested in working in a high-performance sci","full time opportunities starting in May 2024","Software Development Engineer for our team at Amazon: Economic Decision Science ","full-time Senior Software Engineer in the area of computational social science f"]},{"course_code":"CEE 265","course_title":"Sustainability and the Environment","alignment_score":25.1,"covered_skills":["sustainability"],"missing_skills":["catalysis","data engineering","environmental","gmp","java","javascript","manufacturing","microservices","node.js","nosql","pharmaceutical","project management","react","rust","scala","sql","typescript","vue"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["folks to help us solve hard data problems in the world of manufacturing sustaina","an experienced Frontend Developer to join our Digital Solutions team","strong front end engineering lead to work with our front end team on supporting ","Process Chemist","Senior Backend Engineer"]}],"new_course_recommendations":[{"suggested_code":"CEE 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":10.1,"related_existing_courses":[]}],"analysis_timestamp":"2026-02-20T09:46:02.776289","data_source":"oracle_db"}
+{
+  "major_id": "cee",
+  "major_name": "Civil & Environmental Engineering",
+  "overall_alignment_score": 27.4,
+  "total_courses_analyzed": 24,
+  "total_job_postings": 1951,
+  "scraping_sources": {
+    "hackernews": 2377,
+    "remoteok": 57,
+    "arbeitnow": 167,
+    "google_jobs": 57
+  },
+  "top_gaps": [
+    {
+      "course_code": "CEE 345",
+      "course_title": "Geotechnical Engineering",
+      "alignment_score": 15.7,
+      "covered_skills": [
+        "geotechnical"
+      ],
+      "missing_skills": [
+        "aws",
+        "django",
+        "java",
+        "javascript",
+        "python",
+        "react",
+        "satellite",
+        "scala",
+        "transportation",
+        "vue"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "mid level engineers to help on our web app",
+        "both mid-level and senior engineers to help grow and maintain our scientific sof",
+        "process because we respect your time",
+        "process because we respect your time",
+        "process because we respect your time"
+      ]
+    },
+    {
+      "course_code": "CEE 211",
+      "course_title": "Statics and Dynamics",
+      "alignment_score": 16.2,
+      "covered_skills": [
+        "dynamics"
+      ],
+      "missing_skills": [
+        "actuators",
+        "ansys",
+        "asic",
+        "bioinformatics",
+        "cad",
+        "ci/cd",
+        "control systems",
+        "environmental",
+        "fea",
+        "kinematics",
+        "lean",
+        "lidar",
+        "logistics",
+        "manufacturing",
+        "motion planning",
+        "navigation",
+        "power systems",
+        "project management",
+        "python",
+        "reinforcement learning",
+        "robotics",
+        "ros",
+        "sensor fusion",
+        "simulation",
+        "solidworks",
+        "spi",
+        "uart"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Space Mechanisms Engineer",
+        "City Director",
+        "Software & Controls Engineer for Humanoid Robotics",
+        "Multiple Roles",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    },
+    {
+      "course_code": "CEE 366",
+      "course_title": "Structural Analysis",
+      "alignment_score": 17.1,
+      "covered_skills": [
+        "simulation"
+      ],
+      "missing_skills": [
+        "actuators",
+        "ansys",
+        "asic",
+        "bioinformatics",
+        "cad",
+        "control systems",
+        "dynamics",
+        "fea",
+        "julia",
+        "kotlin",
+        "large language model",
+        "lean",
+        "machine learning",
+        "manufacturing",
+        "python",
+        "r",
+        "rust",
+        "solidworks",
+        "statistical analysis",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Multiple Roles",
+        "full-time Senior Software Engineer in the area of computational social science f",
+        "Space Mechanisms Engineer",
+        "for - Business Analysts: business analysis",
+        "PARTNER"
+      ]
+    },
+    {
+      "course_code": "CEE 325",
+      "course_title": "Fluid Mechanics",
+      "alignment_score": 18.7,
+      "covered_skills": [],
+      "missing_skills": [
+        "azure",
+        "environmental",
+        "finite element",
+        "java",
+        "javascript",
+        "lean",
+        "manufacturing",
+        "medical device",
+        "project management",
+        "r",
+        "react",
+        "regulatory affairs",
+        "rust",
+        "scala",
+        "surveying",
+        "transportation",
+        "typescript",
+        "water resources"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "2026 Co-op Partnership Information: Civil Engineering Technologies Department",
+        "(Remote, APAC preferred)",
+        "How to Become a Civil Engineer: Your Career Roadmap",
+        "Regional Lead Civil Engineer Bridge & Structures",
+        "Project Manager R&D NPI Medical Devices"
+      ]
+    },
+    {
+      "course_code": "CEE 212",
+      "course_title": "Solid and Structural Mechanics",
+      "alignment_score": 19.8,
+      "covered_skills": [],
+      "missing_skills": [
+        "actuators",
+        "ansys",
+        "asic",
+        "aws",
+        "bioinformatics",
+        "cad",
+        "control systems",
+        "dynamics",
+        "fea",
+        "large language model",
+        "machine learning",
+        "manufacturing",
+        "python",
+        "r",
+        "serverless",
+        "simulation",
+        "solidworks",
+        "statistical analysis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Multiple Roles",
+        "Unity Visualization Engineer (C#",
+        "full-time Senior Software Engineer in the area of computational social science f",
+        "sharp and thoughtful engineers excited to help us design therapeutics to treat u",
+        "Space Mechanisms Engineer"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "CEE 432",
+      "course_title": "Water Resources Engineering",
+      "alignment_score": 60.4,
+      "covered_skills": [],
+      "missing_skills": [
+        "environmental",
+        "finite element",
+        "large language model",
+        "machine learning",
+        "project management",
+        "python",
+        "r",
+        "statistical analysis",
+        "surveying",
+        "transportation",
+        "water resources"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Water resources engineer joins Minot firm",
+        "Regional Lead Civil Engineer Bridge & Structures",
+        "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+        "Dry winter so far raises early questions about water supplies in the Mountain West",
+        "full-time Senior Software Engineer in the area of computational social science f"
+      ]
+    },
+    {
+      "course_code": "CEE 515",
+      "course_title": "Computational Methods in CEE",
+      "alignment_score": 37.7,
+      "covered_skills": [
+        "machine learning",
+        "optimization",
+        "python"
+      ],
+      "missing_skills": [
+        "large language model",
+        "lean",
+        "r",
+        "statistical analysis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "2026 Co-op Partnership Information: Civil Engineering Technologies Department",
+        "full-time Senior Software Engineer in the area of computational social science f",
+        "various Full-time roles: - Founding Machine Learning Engineer - Backend Software",
+        "various Full-time roles: - Machine Learning Engineer (New York) - Senior Machine",
+        "Hybrid (NY, Chicago, or Bay Area) and REMOTE"
+      ]
+    },
+    {
+      "course_code": "CEE 450",
+      "course_title": "Introduction to Transportation Engineering",
+      "alignment_score": 31.7,
+      "covered_skills": [
+        "optimization",
+        "simulation",
+        "transportation"
+      ],
+      "missing_skills": [
+        "actuators",
+        "ci/cd",
+        "data engineering",
+        "dynamics",
+        "environmental",
+        "gis",
+        "kinematics",
+        "lean",
+        "lidar",
+        "motion planning",
+        "navigation",
+        "power systems",
+        "python",
+        "react",
+        "reinforcement learning",
+        "robotics",
+        "ros",
+        "sensor fusion",
+        "spi",
+        "supply chain",
+        "uart"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Air Traffic Controller Hiring",
+        "WRDA 2026",
+        "2026 tech job market statistics and outlook",
+        "Software & Controls Engineer for Humanoid Robotics",
+        "full-stack engineers"
+      ]
+    },
+    {
+      "course_code": "CEE 375",
+      "course_title": "Sensors, Circuits and Data Science for CEE",
+      "alignment_score": 31.6,
+      "covered_skills": [
+        "machine learning",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "computer vision",
+        "data engineering",
+        "dbt",
+        "environmental",
+        "federated learning",
+        "java",
+        "julia",
+        "large language model",
+        "lean",
+        "matlab",
+        "r",
+        "react",
+        "sql",
+        "statistical analysis",
+        "transportation",
+        "uart"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "an IoT engineer (Electrical/Mechanical) and will have a few more jobs up soon fo",
+        "quantitative-research-type folks interested in working in a high-performance sci",
+        "full time opportunities starting in May 2024",
+        "Software Development Engineer for our team at Amazon: Economic Decision Science ",
+        "full-time Senior Software Engineer in the area of computational social science f"
+      ]
+    },
+    {
+      "course_code": "CEE 265",
+      "course_title": "Sustainability and the Environment",
+      "alignment_score": 25.1,
+      "covered_skills": [
+        "sustainability"
+      ],
+      "missing_skills": [
+        "catalysis",
+        "data engineering",
+        "environmental",
+        "gmp",
+        "java",
+        "javascript",
+        "manufacturing",
+        "microservices",
+        "node.js",
+        "nosql",
+        "pharmaceutical",
+        "project management",
+        "react",
+        "rust",
+        "scala",
+        "sql",
+        "typescript",
+        "vue"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "folks to help us solve hard data problems in the world of manufacturing sustaina",
+        "an experienced Frontend Developer to join our Digital Solutions team",
+        "strong front end engineering lead to work with our front end team on supporting ",
+        "Process Chemist",
+        "Senior Backend Engineer"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "CEE 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 10.1,
+      "related_existing_courses": []
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T09:46:02.776289",
+  "data_source": "oracle_db"
+}

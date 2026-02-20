@@ -1,1 +1,299 @@
-{"total_reviews":30,"sources":["coursicle"],"courses_reviewed":8,"course_summaries":[{"course_code":"AEROSP 347","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews James Cutler • 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question","source":"coursicle","url":"https://www.coursicle.com/umich/courses/AEROSP/347/"}],"sample_positive":[]},{"course_code":"AEROSP 201","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 225","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 285","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 305","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 315","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 348","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"AEROSP 495","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]}],"flagged_courses":[{"course_code":"AEROSP 347","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews James Cutler • 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question","source":"coursicle","url":"https://www.coursicle.com/umich/courses/AEROSP/347/"}],"sample_positive":[]}],"overall_themes":[{"theme":"poor teaching","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"AEROSP 347","total_reviews":3,"positive":0,"negative":1,"neutral":2,"avg_sentiment":-0.33,"satisfaction_pct":0.0,"top_complaints":[["poor teaching",1]],"top_praises":[],"sample_negative":[{"text":"Reviews James Cutler • 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question","source":"coursicle","url":"https://www.coursicle.com/umich/courses/AEROSP/347/"}],"sample_positive":[],"alignment_score":18.5,"risk_level":"critical","reason":"Students report poor teaching AND this course has only 18.5% market alignment. Urgent overhaul recommended."},{"course_code":"AEROSP 201","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":42.3,"risk_level":"moderate","reason":"Only 42.3% aligned with current job market demands."},{"course_code":"AEROSP 225","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":13.6,"risk_level":"moderate","reason":"Only 13.6% aligned with current job market demands."},{"course_code":"AEROSP 285","total_reviews":3,"positive":0,"negative":0,"neutral":3,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":13.0,"risk_level":"moderate","reason":"Only 13.0% aligned with current job market demands."},{"course_code":"AEROSP 305","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":6.9,"risk_level":"moderate","reason":"Only 6.9% aligned with current job market demands."},{"course_code":"AEROSP 315","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":23.5,"risk_level":"moderate","reason":"Only 23.5% aligned with current job market demands."},{"course_code":"AEROSP 348","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":29.6,"risk_level":"moderate","reason":"Only 29.6% aligned with current job market demands."},{"course_code":"AEROSP 495","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":20.6,"risk_level":"moderate","reason":"Only 20.6% aligned with current job market demands."}],"major":"aero"}
+{
+  "total_reviews": 79,
+  "sources": [
+    "coursicle"
+  ],
+  "courses_reviewed": 14,
+  "course_summaries": [
+    {
+      "course_code": "AEROSP 347",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews James Cutler \u2022 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/AEROSP/347/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 201",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 225",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 285",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 305",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 315",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 348",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "AEROSP 495",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "AEROSP 347",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews James Cutler \u2022 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/AEROSP/347/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "poor teaching",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "AEROSP 347",
+      "total_reviews": 7,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 3,
+      "avg_sentiment": -0.33,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "poor teaching",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews James Cutler \u2022 3y Sophomore Undecided Cutler is a great guy, but not a great teacher. He is a research professor who teaches because he has to. Often unclear and can't always defend derivations. Tests are very different than the homework, and there are no sample tests. Often answers question",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/AEROSP/347/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 18.5,
+      "risk_level": "critical",
+      "reason": "Students report poor teaching AND this course has only 18.5% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "AEROSP 201",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 42.3,
+      "risk_level": "moderate",
+      "reason": "Only 42.3% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 225",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 13.6,
+      "risk_level": "moderate",
+      "reason": "Only 13.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 285",
+      "total_reviews": 8,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 4,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 13.0,
+      "risk_level": "moderate",
+      "reason": "Only 13.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 305",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 6.9,
+      "risk_level": "moderate",
+      "reason": "Only 6.9% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 315",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 23.5,
+      "risk_level": "moderate",
+      "reason": "Only 23.5% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 348",
+      "total_reviews": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 29.6,
+      "risk_level": "moderate",
+      "reason": "Only 29.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "AEROSP 495",
+      "total_reviews": 4,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 20.6,
+      "risk_level": "moderate",
+      "reason": "Only 20.6% aligned with current job market demands."
+    }
+  ],
+  "major": "aero"
+}

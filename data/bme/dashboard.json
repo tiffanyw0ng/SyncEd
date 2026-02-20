@@ -1,1 +1,334 @@
-{"major_id":"bme","major_name":"Biomedical Engineering","overall_alignment_score":29.2,"total_courses_analyzed":10,"total_job_postings":1327,"scraping_sources":{"hackernews":707,"remoteok":18,"arbeitnow":34,"google_jobs":29},"top_gaps":[{"course_code":"BIOMEDE 479","course_title":"Tissue Engineering","alignment_score":16.5,"covered_skills":[],"missing_skills":["ai agents","computer vision","crewai","generative ai","genomics","go","llm","machine learning","mlops","python","rust","terraform","uart","web3"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["across engineering and computational biology","REMOTE","Magnetic mixer improves 3D bioprinting","Early Career Opportunities for Students | Internships and Co-Ops","AI / Computer vision / 3d reconstruction"]},{"course_code":"BIOMEDE 231","course_title":"Introduction to Biomechanics","alignment_score":19.2,"covered_skills":[],"missing_skills":["bioinformatics","machine learning","postgresql","python","r","react","rust","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for: * Machine Learning Engineers","Canine Language Specialist","for a number of open positions you can learn more about here: https://science","for software engineers","Top 10 Highest Paying Mechanical Engineering Jobs 2026 (Inc Salaries)"]},{"course_code":"BIOMEDE 418","course_title":"Quantitative Cell Biology","alignment_score":20.5,"covered_skills":[],"missing_skills":["clinical trials","data pipeline","deep learning","genomics","go","imaging","machine learning","manufacturing","pharmaceutical","project management","react","rust","scala","supply chain","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Director CMC Program Management","an experienced Infrastructure Engineer to join our new Advanced Systems Infrastr","local people","for a Senior Frontend Engineer: https://careers","talented"]},{"course_code":"BIOMEDE 442","course_title":"Introduction to Biomaterials","alignment_score":21.4,"covered_skills":[],"missing_skills":["ci/cd","django","genomics","human factors","llm","medical device","python","react","simulation","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Engineering Manager Delivery","across engineering and computational biology","Master Human Factors Engineering for Medical Devices","our first engineering hire (full-stack) at ModernVivo ( https://www","Senior Front-End Engineer"]},{"course_code":"BIOMEDE 221","course_title":"Biophysical Chemistry and Thermodynamics","alignment_score":21.5,"covered_skills":[],"missing_skills":["data pipeline","deep learning","genomics","go","machine learning","react","rust","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for: * Machine Learning Engineers","local people","for a Senior Frontend Engineer: https://careers","exceptional engineers with strong CS fundamentals who are a joy to work with","Early Career Opportunities for Students | Internships and Co-Ops"]}],"top_aligned":[{"course_code":"BIOMEDE 332","course_title":"Introduction to Biomedical Imaging","alignment_score":49.5,"covered_skills":["imaging","signal processing"],"missing_skills":["bioinformatics","docker","dynamics","genomics","java","javascript","kubernetes","machine learning","mri","node.js","react","redis","vue"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Full Time","Full Stack Engineer who has good front end and backend experience to help build ","an experienced ML Engineer to lead our ML team","Senior Software Engineer (Front-End)","someone to develop and operationalize our NGS data processing pipelines"]},{"course_code":"BIOMEDE 458","course_title":"Biomedical Data Science","alignment_score":43.1,"covered_skills":["deep learning","machine learning","python"],"missing_skills":["aws","biomedical","etl","java","optimization","pharmaceutical","quality control","react","scala","statistical analysis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Software Engineer","Data Science & Software engineering roles","Fractional Engineer","Machine Learning Engineer","Navigating Biomedical Engineering Careers: A 2026 Guide"]},{"course_code":"BIOMEDE 241","course_title":"Biomedical Instrumentation and Design","alignment_score":38.4,"covered_skills":["signal processing"],"missing_skills":["analog design","biomedical","cadence","embedded systems","human factors","kicad","medical device","pcb design","python","rust","semiconductor","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Breaking Into Medical Devices: Why Biomedical Engineering Graduates Face a 10:1 Job Market Challenge","Navigating Biomedical Engineering Careers: A 2026 Guide","Software Engineer","Biomedical Engineering Salary in 2026","Master Human Factors Engineering for Medical Devices"]},{"course_code":"BIOMEDE 211","course_title":"Circuits, Systems & Signals for Biomedical Engineering","alignment_score":34.9,"covered_skills":["signal processing"],"missing_skills":["analog design","biomedical","cadence","data engineering","data pipeline","embedded systems","kicad","machine learning","pcb design","python","react","rust","scala","semiconductor","simulation","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["an ML/AI Scientist/Engineer to lead our signal and gesture classification effort","Software Engineer","for: 1","Navigating Biomedical Engineering Careers: A 2026 Guide","an experienced ML Engineer to lead our ML team"]},{"course_code":"BIOMEDE 350","course_title":"Introduction to Biotransport","alignment_score":26.9,"covered_skills":["simulation"],"missing_skills":["aws","control systems","dynamics","go","imaging","kubernetes","machine learning","mri","optimization","python","react","scala"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for: * Machine Learning Engineers","Early Career Opportunities for Students | Internships and Co-Ops","Full Time","for 3 roles and looking for builders who want their work to have real-world clim","engineers who are ready to learn"]}],"new_course_recommendations":[{"suggested_code":"BIOMEDE 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":13.2,"related_existing_courses":["BIOMEDE 241"]}],"analysis_timestamp":"2026-02-20T09:41:52.940809","data_source":"oracle_db"}
+{
+  "major_id": "bme",
+  "major_name": "Biomedical Engineering",
+  "overall_alignment_score": 29.2,
+  "total_courses_analyzed": 24,
+  "total_job_postings": 1481,
+  "scraping_sources": {
+    "hackernews": 2354,
+    "remoteok": 49,
+    "arbeitnow": 165,
+    "google_jobs": 58
+  },
+  "top_gaps": [
+    {
+      "course_code": "BIOMEDE 479",
+      "course_title": "Tissue Engineering",
+      "alignment_score": 16.5,
+      "covered_skills": [],
+      "missing_skills": [
+        "ai agents",
+        "computer vision",
+        "crewai",
+        "generative ai",
+        "genomics",
+        "go",
+        "llm",
+        "machine learning",
+        "mlops",
+        "python",
+        "rust",
+        "terraform",
+        "uart",
+        "web3"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "across engineering and computational biology",
+        "REMOTE",
+        "Magnetic mixer improves 3D bioprinting",
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "AI / Computer vision / 3d reconstruction"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 231",
+      "course_title": "Introduction to Biomechanics",
+      "alignment_score": 19.2,
+      "covered_skills": [],
+      "missing_skills": [
+        "bioinformatics",
+        "machine learning",
+        "postgresql",
+        "python",
+        "r",
+        "react",
+        "rust",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for: * Machine Learning Engineers",
+        "Canine Language Specialist",
+        "for a number of open positions you can learn more about here: https://science",
+        "for software engineers",
+        "Top 10 Highest Paying Mechanical Engineering Jobs 2026 (Inc Salaries)"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 418",
+      "course_title": "Quantitative Cell Biology",
+      "alignment_score": 20.5,
+      "covered_skills": [],
+      "missing_skills": [
+        "clinical trials",
+        "data pipeline",
+        "deep learning",
+        "genomics",
+        "go",
+        "imaging",
+        "machine learning",
+        "manufacturing",
+        "pharmaceutical",
+        "project management",
+        "react",
+        "rust",
+        "scala",
+        "supply chain",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Director CMC Program Management",
+        "an experienced Infrastructure Engineer to join our new Advanced Systems Infrastr",
+        "local people",
+        "for a Senior Frontend Engineer: https://careers",
+        "talented"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 442",
+      "course_title": "Introduction to Biomaterials",
+      "alignment_score": 21.4,
+      "covered_skills": [],
+      "missing_skills": [
+        "ci/cd",
+        "django",
+        "genomics",
+        "human factors",
+        "llm",
+        "medical device",
+        "python",
+        "react",
+        "simulation",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Engineering Manager Delivery",
+        "across engineering and computational biology",
+        "Master Human Factors Engineering for Medical Devices",
+        "our first engineering hire (full-stack) at ModernVivo ( https://www",
+        "Senior Front-End Engineer"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 221",
+      "course_title": "Biophysical Chemistry and Thermodynamics",
+      "alignment_score": 21.5,
+      "covered_skills": [],
+      "missing_skills": [
+        "data pipeline",
+        "deep learning",
+        "genomics",
+        "go",
+        "machine learning",
+        "react",
+        "rust",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for: * Machine Learning Engineers",
+        "local people",
+        "for a Senior Frontend Engineer: https://careers",
+        "exceptional engineers with strong CS fundamentals who are a joy to work with",
+        "Early Career Opportunities for Students | Internships and Co-Ops"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "BIOMEDE 332",
+      "course_title": "Introduction to Biomedical Imaging",
+      "alignment_score": 49.5,
+      "covered_skills": [
+        "imaging",
+        "signal processing"
+      ],
+      "missing_skills": [
+        "bioinformatics",
+        "docker",
+        "dynamics",
+        "genomics",
+        "java",
+        "javascript",
+        "kubernetes",
+        "machine learning",
+        "mri",
+        "node.js",
+        "react",
+        "redis",
+        "vue"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Full Time",
+        "Full Stack Engineer who has good front end and backend experience to help build ",
+        "an experienced ML Engineer to lead our ML team",
+        "Senior Software Engineer (Front-End)",
+        "someone to develop and operationalize our NGS data processing pipelines"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 458",
+      "course_title": "Biomedical Data Science",
+      "alignment_score": 43.1,
+      "covered_skills": [
+        "deep learning",
+        "machine learning",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "biomedical",
+        "etl",
+        "java",
+        "optimization",
+        "pharmaceutical",
+        "quality control",
+        "react",
+        "scala",
+        "statistical analysis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Software Engineer",
+        "Data Science & Software engineering roles",
+        "Fractional Engineer",
+        "Machine Learning Engineer",
+        "Navigating Biomedical Engineering Careers: A 2026 Guide"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 241",
+      "course_title": "Biomedical Instrumentation and Design",
+      "alignment_score": 38.4,
+      "covered_skills": [
+        "signal processing"
+      ],
+      "missing_skills": [
+        "analog design",
+        "biomedical",
+        "cadence",
+        "embedded systems",
+        "human factors",
+        "kicad",
+        "medical device",
+        "pcb design",
+        "python",
+        "rust",
+        "semiconductor",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Breaking Into Medical Devices: Why Biomedical Engineering Graduates Face a 10:1 Job Market Challenge",
+        "Navigating Biomedical Engineering Careers: A 2026 Guide",
+        "Software Engineer",
+        "Biomedical Engineering Salary in 2026",
+        "Master Human Factors Engineering for Medical Devices"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 211",
+      "course_title": "Circuits, Systems & Signals for Biomedical Engineering",
+      "alignment_score": 34.9,
+      "covered_skills": [
+        "signal processing"
+      ],
+      "missing_skills": [
+        "analog design",
+        "biomedical",
+        "cadence",
+        "data engineering",
+        "data pipeline",
+        "embedded systems",
+        "kicad",
+        "machine learning",
+        "pcb design",
+        "python",
+        "react",
+        "rust",
+        "scala",
+        "semiconductor",
+        "simulation",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "an ML/AI Scientist/Engineer to lead our signal and gesture classification effort",
+        "Software Engineer",
+        "for: 1",
+        "Navigating Biomedical Engineering Careers: A 2026 Guide",
+        "an experienced ML Engineer to lead our ML team"
+      ]
+    },
+    {
+      "course_code": "BIOMEDE 350",
+      "course_title": "Introduction to Biotransport",
+      "alignment_score": 26.9,
+      "covered_skills": [
+        "simulation"
+      ],
+      "missing_skills": [
+        "aws",
+        "control systems",
+        "dynamics",
+        "go",
+        "imaging",
+        "kubernetes",
+        "machine learning",
+        "mri",
+        "optimization",
+        "python",
+        "react",
+        "scala"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for: * Machine Learning Engineers",
+        "Early Career Opportunities for Students | Internships and Co-Ops",
+        "Full Time",
+        "for 3 roles and looking for builders who want their work to have real-world clim",
+        "engineers who are ready to learn"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "BIOMEDE 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 13.2,
+      "related_existing_courses": [
+        "BIOMEDE 241"
+      ]
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T09:41:52.940809",
+  "data_source": "oracle_db"
+}

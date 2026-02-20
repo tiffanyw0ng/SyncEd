@@ -1,1 +1,492 @@
-{"total_reviews":177,"sources":["reddit","coursicle","reddit_comment"],"courses_reviewed":8,"course_summaries":[{"course_code":"ROB 501","total_reviews":13,"positive":0,"negative":1,"neutral":12,"avg_sentiment":-0.08,"satisfaction_pct":0.0,"top_complaints":[["too theoretical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Jessy Grizzle • 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'","source":"coursicle","url":"https://www.coursicle.com/umich/courses/ROB/501/"}],"sample_positive":[]},{"course_code":"ROB 201","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"ROB 320","total_reviews":13,"positive":0,"negative":0,"neutral":13,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"ROB 340","total_reviews":8,"positive":0,"negative":0,"neutral":8,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"ROB 101","total_reviews":117,"positive":7,"negative":1,"neutral":109,"avg_sentiment":0.03,"satisfaction_pct":6.0,"top_complaints":[["outdated",3],["needs modernization",1]],"top_praises":[["practical",5],["well taught",2]],"sample_negative":[{"text":"ROB 101 is missing some linear algebra fundamentals, which is pretty worrying, but I haven't been burned by it yet","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/17wwhe5/am_i_losing_out_taking_rob_101_over_math_217_cs/"}],"sample_positive":[{"text":"I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"},{"text":"Much easier. Also introduces some coding which imo is more applicable","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/tx55be/math_214_vs_rob_101/"},{"text":"I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"}]},{"course_code":"ROB 535","total_reviews":7,"positive":1,"negative":0,"neutral":6,"avg_sentiment":0.14,"satisfaction_pct":14.3,"top_complaints":[],"top_praises":[["practical",1]],"sample_negative":[],"sample_positive":[{"text":"Rating 69 Description Self Driving Cars: Perception and Control --- Self-driving cars are a transformative technology for society. This course covers the underlying technologies in perception and control. Topics include deep learning, computer vision, sensor fusion, localization, trajectory optimiza","source":"coursicle","url":"https://www.coursicle.com/umich/courses/ROB/535/"}]},{"course_code":"ROB 330","total_reviews":12,"positive":2,"negative":0,"neutral":10,"avg_sentiment":0.17,"satisfaction_pct":16.7,"top_complaints":[],"top_praises":[["practical",2]],"sample_negative":[],"sample_positive":[{"text":"The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with 🍕pizza🍕: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what","source":"reddit","url":"https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"},{"text":"The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with 🍕pizza🍕: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what","source":"reddit","url":"https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"}]},{"course_code":"ROB 422","total_reviews":3,"positive":2,"negative":0,"neutral":1,"avg_sentiment":0.67,"satisfaction_pct":66.7,"top_complaints":[],"top_praises":[["career relevant",2]],"sample_negative":[],"sample_positive":[{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"},{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"}]}],"flagged_courses":[{"course_code":"ROB 501","total_reviews":13,"positive":0,"negative":1,"neutral":12,"avg_sentiment":-0.08,"satisfaction_pct":0.0,"top_complaints":[["too theoretical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Jessy Grizzle • 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'","source":"coursicle","url":"https://www.coursicle.com/umich/courses/ROB/501/"}],"sample_positive":[]}],"overall_themes":[{"theme":"practical","count":8,"type":"positive"},{"theme":"outdated","count":3,"type":"negative"},{"theme":"well taught","count":2,"type":"positive"},{"theme":"career relevant","count":2,"type":"positive"},{"theme":"needs modernization","count":1,"type":"negative"},{"theme":"too theoretical","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"ROB 501","total_reviews":13,"positive":0,"negative":1,"neutral":12,"avg_sentiment":-0.08,"satisfaction_pct":0.0,"top_complaints":[["too theoretical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Jessy Grizzle • 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'","source":"coursicle","url":"https://www.coursicle.com/umich/courses/ROB/501/"}],"sample_positive":[],"alignment_score":21.2,"risk_level":"critical","reason":"Students report too theoretical AND this course has only 21.2% market alignment. Urgent overhaul recommended."},{"course_code":"ROB 201","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":28.6,"risk_level":"moderate","reason":"Only 28.6% aligned with current job market demands."},{"course_code":"ROB 320","total_reviews":13,"positive":0,"negative":0,"neutral":13,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":32.0,"risk_level":"moderate","reason":"Only 32.0% aligned with current job market demands."},{"course_code":"ROB 340","total_reviews":8,"positive":0,"negative":0,"neutral":8,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":33.7,"risk_level":"moderate","reason":"Only 33.7% aligned with current job market demands."},{"course_code":"ROB 101","total_reviews":117,"positive":7,"negative":1,"neutral":109,"avg_sentiment":0.03,"satisfaction_pct":6.0,"top_complaints":[["outdated",3],["needs modernization",1]],"top_praises":[["practical",5],["well taught",2]],"sample_negative":[{"text":"ROB 101 is missing some linear algebra fundamentals, which is pretty worrying, but I haven't been burned by it yet","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/17wwhe5/am_i_losing_out_taking_rob_101_over_math_217_cs/"}],"sample_positive":[{"text":"I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"},{"text":"Much easier. Also introduces some coding which imo is more applicable","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/tx55be/math_214_vs_rob_101/"},{"text":"I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ","source":"reddit_comment","url":"https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"}],"alignment_score":32.0,"risk_level":"moderate","reason":"Only 32.0% aligned with current job market demands."},{"course_code":"ROB 535","total_reviews":7,"positive":1,"negative":0,"neutral":6,"avg_sentiment":0.14,"satisfaction_pct":14.3,"top_complaints":[],"top_praises":[["practical",1]],"sample_negative":[],"sample_positive":[{"text":"Rating 69 Description Self Driving Cars: Perception and Control --- Self-driving cars are a transformative technology for society. This course covers the underlying technologies in perception and control. Topics include deep learning, computer vision, sensor fusion, localization, trajectory optimiza","source":"coursicle","url":"https://www.coursicle.com/umich/courses/ROB/535/"}],"alignment_score":32.4,"risk_level":"moderate","reason":"Only 32.4% aligned with current job market demands."},{"course_code":"ROB 330","total_reviews":12,"positive":2,"negative":0,"neutral":10,"avg_sentiment":0.17,"satisfaction_pct":16.7,"top_complaints":[],"top_praises":[["practical",2]],"sample_negative":[],"sample_positive":[{"text":"The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with 🍕pizza🍕: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what","source":"reddit","url":"https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"},{"text":"The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with 🍕pizza🍕: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what","source":"reddit","url":"https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"}],"alignment_score":24.8,"risk_level":"moderate","reason":"Only 24.8% aligned with current job market demands."},{"course_code":"ROB 422","total_reviews":3,"positive":2,"negative":0,"neutral":1,"avg_sentiment":0.67,"satisfaction_pct":66.7,"top_complaints":[],"top_praises":[["career relevant",2]],"sample_negative":[],"sample_positive":[{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"},{"text":"ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir","source":"reddit","url":"https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"}],"alignment_score":35.8,"risk_level":"moderate","reason":"Only 35.8% aligned with current job market demands."}],"major":"rob"}
+{
+  "total_reviews": 510,
+  "sources": [
+    "reddit",
+    "coursicle",
+    "reddit_comment"
+  ],
+  "courses_reviewed": 13,
+  "course_summaries": [
+    {
+      "course_code": "ROB 501",
+      "total_reviews": 33,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 29,
+      "avg_sentiment": -0.08,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Jessy Grizzle \u2022 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/ROB/501/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "ROB 201",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "ROB 320",
+      "total_reviews": 39,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 35,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "ROB 340",
+      "total_reviews": 22,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 18,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "ROB 101",
+      "total_reviews": 346,
+      "positive": 20,
+      "negative": 2,
+      "neutral": 324,
+      "avg_sentiment": 0.03,
+      "satisfaction_pct": 6.0,
+      "top_complaints": [
+        [
+          "outdated",
+          3
+        ],
+        [
+          "needs modernization",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          5
+        ],
+        [
+          "well taught",
+          2
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "ROB 101 is missing some linear algebra fundamentals, which is pretty worrying, but I haven't been burned by it yet",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/17wwhe5/am_i_losing_out_taking_rob_101_over_math_217_cs/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"
+        },
+        {
+          "text": "Much easier. Also introduces some coding which imo is more applicable",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/tx55be/math_214_vs_rob_101/"
+        },
+        {
+          "text": "I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"
+        }
+      ]
+    },
+    {
+      "course_code": "ROB 535",
+      "total_reviews": 18,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 14,
+      "avg_sentiment": 0.14,
+      "satisfaction_pct": 14.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Rating 69 Description Self Driving Cars: Perception and Control --- Self-driving cars are a transformative technology for society. This course covers the underlying technologies in perception and control. Topics include deep learning, computer vision, sensor fusion, localization, trajectory optimiza",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/ROB/535/"
+        }
+      ]
+    },
+    {
+      "course_code": "ROB 330",
+      "total_reviews": 33,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 26,
+      "avg_sentiment": 0.17,
+      "satisfaction_pct": 16.7,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with \ud83c\udf55pizza\ud83c\udf55: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"
+        },
+        {
+          "text": "The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with \ud83c\udf55pizza\ud83c\udf55: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"
+        }
+      ]
+    },
+    {
+      "course_code": "ROB 422",
+      "total_reviews": 8,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.67,
+      "satisfaction_pct": 66.7,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        },
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        }
+      ]
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "ROB 501",
+      "total_reviews": 36,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 32,
+      "avg_sentiment": -0.08,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Jessy Grizzle \u2022 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/ROB/501/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "practical",
+      "count": 8,
+      "type": "positive"
+    },
+    {
+      "theme": "outdated",
+      "count": 3,
+      "type": "negative"
+    },
+    {
+      "theme": "well taught",
+      "count": 2,
+      "type": "positive"
+    },
+    {
+      "theme": "career relevant",
+      "count": 2,
+      "type": "positive"
+    },
+    {
+      "theme": "needs modernization",
+      "count": 1,
+      "type": "negative"
+    },
+    {
+      "theme": "too theoretical",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "ROB 501",
+      "total_reviews": 36,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 32,
+      "avg_sentiment": -0.08,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "too theoretical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Jessy Grizzle \u2022 3y Graduate ROB Awesome course. Prof Grizzle really cares that everybody learns the material and explains it very well. Homeworks can be quite tricky, and exams (90% of your grade) can be challenging, but overall the course is fair and you do learn a lot, even if proofs aren'",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/ROB/501/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 21.2,
+      "risk_level": "critical",
+      "reason": "Students report too theoretical AND this course has only 21.2% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "ROB 201",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 28.6,
+      "risk_level": "moderate",
+      "reason": "Only 28.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 320",
+      "total_reviews": 35,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 31,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 32.0,
+      "risk_level": "moderate",
+      "reason": "Only 32.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 340",
+      "total_reviews": 21,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 17,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 33.7,
+      "risk_level": "moderate",
+      "reason": "Only 33.7% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 101",
+      "total_reviews": 350,
+      "positive": 19,
+      "negative": 2,
+      "neutral": 329,
+      "avg_sentiment": 0.03,
+      "satisfaction_pct": 6.0,
+      "top_complaints": [
+        [
+          "outdated",
+          3
+        ],
+        [
+          "needs modernization",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "practical",
+          5
+        ],
+        [
+          "well taught",
+          2
+        ]
+      ],
+      "sample_negative": [
+        {
+          "text": "ROB 101 is missing some linear algebra fundamentals, which is pretty worrying, but I haven't been burned by it yet",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/17wwhe5/am_i_losing_out_taking_rob_101_over_math_217_cs/"
+        }
+      ],
+      "sample_positive": [
+        {
+          "text": "I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"
+        },
+        {
+          "text": "Much easier. Also introduces some coding which imo is more applicable",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/tx55be/math_214_vs_rob_101/"
+        },
+        {
+          "text": "I took 245 this semester and really enjoyed it! The prof is great and the course is pretty well organized. I was taking 281 and 270 (and another non-eecs course) and felt the workload and difficulty were pretty manageable. Homeworks and labs were fairly easy, exams were a little harder but that was ",
+          "source": "reddit_comment",
+          "url": "https://reddit.com/r/uofm/comments/1poh9en/eecs_245_or_math_214_or_rob_101/"
+        }
+      ],
+      "alignment_score": 32.0,
+      "risk_level": "moderate",
+      "reason": "Only 32.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 535",
+      "total_reviews": 18,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 14,
+      "avg_sentiment": 0.14,
+      "satisfaction_pct": 14.3,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "Rating 69 Description Self Driving Cars: Perception and Control --- Self-driving cars are a transformative technology for society. This course covers the underlying technologies in perception and control. Topics include deep learning, computer vision, sensor fusion, localization, trajectory optimiza",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/ROB/535/"
+        }
+      ],
+      "alignment_score": 32.4,
+      "risk_level": "moderate",
+      "reason": "Only 32.4% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 330",
+      "total_reviews": 32,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 25,
+      "avg_sentiment": 0.17,
+      "satisfaction_pct": 16.7,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "practical",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with \ud83c\udf55pizza\ud83c\udf55: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"
+        },
+        {
+          "text": "The new undergrad robotics situation Hi from Robotics. A few announcements from us for this semester: * We're having an **Undergrad Community Meeting** next Monday night with \ud83c\udf55pizza\ud83c\udf55: we're covering the basics of what's new in the Robotics Department, an overview of the new degree requirements, what",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/wxkl27/the_new_undergrad_robotics_situation/"
+        }
+      ],
+      "alignment_score": 24.8,
+      "risk_level": "moderate",
+      "reason": "Only 24.8% aligned with current job market demands."
+    },
+    {
+      "course_code": "ROB 422",
+      "total_reviews": 8,
+      "positive": 5,
+      "negative": 1,
+      "neutral": 2,
+      "avg_sentiment": 0.67,
+      "satisfaction_pct": 66.7,
+      "top_complaints": [],
+      "top_praises": [
+        [
+          "career relevant",
+          2
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        },
+        {
+          "text": "ROB 422/EECS 465 The class is now being offered for the Fall term and I was wondering if anyone has taken it and how was it? I'm doing an internship this fall but I'm debating taking this class at the same time and I'm wondering how heavy the workload would be. Also whether they offered it fully vir",
+          "source": "reddit",
+          "url": "https://reddit.com/r/uofm/comments/1e9ez0h/rob_422eecs_465/"
+        }
+      ],
+      "alignment_score": 35.8,
+      "risk_level": "moderate",
+      "reason": "Only 35.8% aligned with current job market demands."
+    }
+  ],
+  "major": "rob"
+}

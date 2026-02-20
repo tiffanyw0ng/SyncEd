@@ -1,1 +1,362 @@
-{"major_id":"cs","major_name":"Computer Science","overall_alignment_score":28.3,"total_courses_analyzed":13,"total_job_postings":7632,"scraping_sources":{"hackernews":5198,"remoteok":28,"arbeitnow":278,"google_jobs":19},"top_gaps":[{"course_code":"EECS 370","course_title":"Introduction to Computer Organization","alignment_score":19.0,"covered_skills":[],"missing_skills":["c++","cad","computer vision","python","rust","slam"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Program Manager","UCLA Neurosurgery","Hybrid around London, UK","Full Stack QA Engineer","Full-time"]},{"course_code":"EECS 388","course_title":"Introduction to Computer Security","alignment_score":21.4,"covered_skills":[],"missing_skills":["aws","blockchain","defense","django","go","llm","optimization","penetration testing","python","react","rust","satellite","scala","sql","tableau","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["to hire a Security Engineer for the ongoing scaling of our growing engineering o","to hire a Security Engineer for the ongoing scaling of our growing engineering o","Backend Engineer","two Developer positions: - Senior Software Engineer: Network layer communication","for a number of positions"]},{"course_code":"EECS 485","course_title":"Web Systems","alignment_score":22.0,"covered_skills":["flask","python","react","rest api","sql"],"missing_skills":["additive manufacturing","angular","aws","azure","cad","generative ai","java","kubernetes","lean","manufacturing","medical device","postgresql","redis","rust","scala","typescript","vue"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["strong generalists to help us create best-in-class functionality for our custome","self-motivated Full Stack Developer to join a small","Senior Fullstack Developer to help us scale these experiences","an experienced Full Stack Web Developer to contribute to the development of inte","first two hires: - Full stack web dev to rebuild prototype (stack flexible but b"]},{"course_code":"EECS 203","course_title":"Discrete Mathematics","alignment_score":22.3,"covered_skills":[],"missing_skills":["c++","computer vision","data engineering","manufacturing","optimization","python","rust","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Junior SWE","senior systems engineers with strong computer science foundations to help us bui","senior systems engineers with strong computer science foundations to help us bui","Hybrid around London, UK","Senior Python Engineer who is skilled in building robust backend systems"]},{"course_code":"EECS 376","course_title":"Foundations of Computer Science","alignment_score":24.0,"covered_skills":[],"missing_skills":["go","manufacturing","optimization","python","rust","simulation"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["founding engineers","senior systems engineers with strong computer science foundations to help us bui","senior systems engineers with strong computer science foundations to help us bui","Junior SWE","https://droit.tech"]}],"top_aligned":[{"course_code":"EECS 498","course_title":"Special Topics","alignment_score":45.9,"covered_skills":["computer vision","deep learning","machine learning"],"missing_skills":["aws","cad","data engineering","defense","docker","edge ai","federated learning","java","kotlin","kubernetes","manufacturing","matlab","python","r","react","redis","sql"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","full time opportunities starting in May 2024","jack-of-all-trades who can: prototype computer vision algorithms","top engineers - both junior and senior - who are excited about solving hard prob","high throughput Engineers that posses both solid theoretical understanding of th"]},{"course_code":"EECS 442","course_title":"Computer Vision","alignment_score":42.3,"covered_skills":["computer vision","deep learning","machine learning","python"],"missing_skills":["aws","defense","docker","edge ai","kubernetes","manufacturing","mlops","postgresql","r","react","redis"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["ML/AI engineer with PyTorch experience to work on deep learning computer vision ","Remote, Europe (or Hybrid Vienna if preferred) contextflow ADVANCE Chest CT prov","top engineers - both junior and senior - who are excited about solving hard prob","jack-of-all-trades who can: prototype computer vision algorithms","top engineers - both junior and senior - who are excited about solving hard prob"]},{"course_code":"EECS 445","course_title":"Introduction to Machine Learning","alignment_score":31.9,"covered_skills":["deep learning","machine learning","python","reinforcement learning"],"missing_skills":["azure","defense","docker","drone","go","kubernetes","postgresql","robotics","rust","satellite","scala","simulation","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Senior Software Engineer & Senior Machine Learning Engineer","Senior Software Engineer to join our team","for both smart generalists and PL/ML experts who are interested in collaborating","for both smart generalists and PL/ML experts who are interested in collaborating","for both smart generalists and PL/ML experts who are interested in collaborating"]},{"course_code":"EECS 281","course_title":"Data Structures and Algorithms","alignment_score":31.3,"covered_skills":[],"missing_skills":["aws","azure","cnc","defense","docker","gcp","go","java","javascript","python","react","rust","scala","typescript"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["for a Senior Backend Engineer (Data Structures) role","for a Backend Engineer (Data Structures) role","https://www.broadn.io","Senior Software Engineer to join our Core Storage team","Senior Software Engineer to join our Core Storage team"]},{"course_code":"EECS 486","course_title":"Information Retrieval","alignment_score":30.6,"covered_skills":["machine learning","nlp","python"],"missing_skills":["azure","data engineering","data pipeline","environmental","etl","fine-tuning","gcp","go","langchain","lean","llamaindex","llm","optimization","power bi","rag","rust","scala","snowflake","sql","statistical analysis","sustainability","tableau","typescript","vector database","vector search"],"obsolete_topics":[],"recommended_additions":[],"most_relevant_jobs":["Senior AI/Data Engineer","Rust developers to join our team of researchers and engineers","number of positions: https://jobs","Data Engineer","SWEs to ship AI-first product experiences and infrastructure"]}],"new_course_recommendations":[{"suggested_code":"EECS 498","suggested_title":"Systems Programming in Rust","justification":"Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.","target_skills":["rust"],"market_demand_score":11.1,"related_existing_courses":["EECS 280","EECS 281","EECS 482"]}],"analysis_timestamp":"2026-02-20T10:25:13.615782","data_source":"oracle_db"}
+{
+  "major_id": "cs",
+  "major_name": "Computer Science",
+  "overall_alignment_score": 28.3,
+  "total_courses_analyzed": 27,
+  "total_job_postings": 15378,
+  "scraping_sources": {
+    "hackernews": 14303,
+    "remoteok": 89,
+    "arbeitnow": 616,
+    "google_jobs": 81
+  },
+  "top_gaps": [
+    {
+      "course_code": "EECS 370",
+      "course_title": "Introduction to Computer Organization",
+      "alignment_score": 19.0,
+      "covered_skills": [],
+      "missing_skills": [
+        "c++",
+        "cad",
+        "computer vision",
+        "python",
+        "rust",
+        "slam"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Program Manager",
+        "UCLA Neurosurgery",
+        "Hybrid around London, UK",
+        "Full Stack QA Engineer",
+        "Full-time"
+      ]
+    },
+    {
+      "course_code": "EECS 388",
+      "course_title": "Introduction to Computer Security",
+      "alignment_score": 21.4,
+      "covered_skills": [],
+      "missing_skills": [
+        "aws",
+        "blockchain",
+        "defense",
+        "django",
+        "go",
+        "llm",
+        "optimization",
+        "penetration testing",
+        "python",
+        "react",
+        "rust",
+        "satellite",
+        "scala",
+        "sql",
+        "tableau",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "to hire a Security Engineer for the ongoing scaling of our growing engineering o",
+        "to hire a Security Engineer for the ongoing scaling of our growing engineering o",
+        "Backend Engineer",
+        "two Developer positions: - Senior Software Engineer: Network layer communication",
+        "for a number of positions"
+      ]
+    },
+    {
+      "course_code": "EECS 485",
+      "course_title": "Web Systems",
+      "alignment_score": 22.0,
+      "covered_skills": [
+        "flask",
+        "python",
+        "react",
+        "rest api",
+        "sql"
+      ],
+      "missing_skills": [
+        "additive manufacturing",
+        "angular",
+        "aws",
+        "azure",
+        "cad",
+        "generative ai",
+        "java",
+        "kubernetes",
+        "lean",
+        "manufacturing",
+        "medical device",
+        "postgresql",
+        "redis",
+        "rust",
+        "scala",
+        "typescript",
+        "vue"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "strong generalists to help us create best-in-class functionality for our custome",
+        "self-motivated Full Stack Developer to join a small",
+        "Senior Fullstack Developer to help us scale these experiences",
+        "an experienced Full Stack Web Developer to contribute to the development of inte",
+        "first two hires: - Full stack web dev to rebuild prototype (stack flexible but b"
+      ]
+    },
+    {
+      "course_code": "EECS 203",
+      "course_title": "Discrete Mathematics",
+      "alignment_score": 22.3,
+      "covered_skills": [],
+      "missing_skills": [
+        "c++",
+        "computer vision",
+        "data engineering",
+        "manufacturing",
+        "optimization",
+        "python",
+        "rust",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Junior SWE",
+        "senior systems engineers with strong computer science foundations to help us bui",
+        "senior systems engineers with strong computer science foundations to help us bui",
+        "Hybrid around London, UK",
+        "Senior Python Engineer who is skilled in building robust backend systems"
+      ]
+    },
+    {
+      "course_code": "EECS 376",
+      "course_title": "Foundations of Computer Science",
+      "alignment_score": 24.0,
+      "covered_skills": [],
+      "missing_skills": [
+        "go",
+        "manufacturing",
+        "optimization",
+        "python",
+        "rust",
+        "simulation"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "founding engineers",
+        "senior systems engineers with strong computer science foundations to help us bui",
+        "senior systems engineers with strong computer science foundations to help us bui",
+        "Junior SWE",
+        "https://droit.tech"
+      ]
+    }
+  ],
+  "top_aligned": [
+    {
+      "course_code": "EECS 498",
+      "course_title": "Special Topics",
+      "alignment_score": 45.9,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "machine learning"
+      ],
+      "missing_skills": [
+        "aws",
+        "cad",
+        "data engineering",
+        "defense",
+        "docker",
+        "edge ai",
+        "federated learning",
+        "java",
+        "kotlin",
+        "kubernetes",
+        "manufacturing",
+        "matlab",
+        "python",
+        "r",
+        "react",
+        "redis",
+        "sql"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "full time opportunities starting in May 2024",
+        "jack-of-all-trades who can: prototype computer vision algorithms",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "high throughput Engineers that posses both solid theoretical understanding of th"
+      ]
+    },
+    {
+      "course_code": "EECS 442",
+      "course_title": "Computer Vision",
+      "alignment_score": 42.3,
+      "covered_skills": [
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "python"
+      ],
+      "missing_skills": [
+        "aws",
+        "defense",
+        "docker",
+        "edge ai",
+        "kubernetes",
+        "manufacturing",
+        "mlops",
+        "postgresql",
+        "r",
+        "react",
+        "redis"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "ML/AI engineer with PyTorch experience to work on deep learning computer vision ",
+        "Remote, Europe (or Hybrid Vienna if preferred) contextflow ADVANCE Chest CT prov",
+        "top engineers - both junior and senior - who are excited about solving hard prob",
+        "jack-of-all-trades who can: prototype computer vision algorithms",
+        "top engineers - both junior and senior - who are excited about solving hard prob"
+      ]
+    },
+    {
+      "course_code": "EECS 445",
+      "course_title": "Introduction to Machine Learning",
+      "alignment_score": 31.9,
+      "covered_skills": [
+        "deep learning",
+        "machine learning",
+        "python",
+        "reinforcement learning"
+      ],
+      "missing_skills": [
+        "azure",
+        "defense",
+        "docker",
+        "drone",
+        "go",
+        "kubernetes",
+        "postgresql",
+        "robotics",
+        "rust",
+        "satellite",
+        "scala",
+        "simulation",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Senior Software Engineer & Senior Machine Learning Engineer",
+        "Senior Software Engineer to join our team",
+        "for both smart generalists and PL/ML experts who are interested in collaborating",
+        "for both smart generalists and PL/ML experts who are interested in collaborating",
+        "for both smart generalists and PL/ML experts who are interested in collaborating"
+      ]
+    },
+    {
+      "course_code": "EECS 281",
+      "course_title": "Data Structures and Algorithms",
+      "alignment_score": 31.3,
+      "covered_skills": [],
+      "missing_skills": [
+        "aws",
+        "azure",
+        "cnc",
+        "defense",
+        "docker",
+        "gcp",
+        "go",
+        "java",
+        "javascript",
+        "python",
+        "react",
+        "rust",
+        "scala",
+        "typescript"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "for a Senior Backend Engineer (Data Structures) role",
+        "for a Backend Engineer (Data Structures) role",
+        "https://www.broadn.io",
+        "Senior Software Engineer to join our Core Storage team",
+        "Senior Software Engineer to join our Core Storage team"
+      ]
+    },
+    {
+      "course_code": "EECS 486",
+      "course_title": "Information Retrieval",
+      "alignment_score": 30.6,
+      "covered_skills": [
+        "machine learning",
+        "nlp",
+        "python"
+      ],
+      "missing_skills": [
+        "azure",
+        "data engineering",
+        "data pipeline",
+        "environmental",
+        "etl",
+        "fine-tuning",
+        "gcp",
+        "go",
+        "langchain",
+        "lean",
+        "llamaindex",
+        "llm",
+        "optimization",
+        "power bi",
+        "rag",
+        "rust",
+        "scala",
+        "snowflake",
+        "sql",
+        "statistical analysis",
+        "sustainability",
+        "tableau",
+        "typescript",
+        "vector database",
+        "vector search"
+      ],
+      "obsolete_topics": [],
+      "recommended_additions": [],
+      "most_relevant_jobs": [
+        "Senior AI/Data Engineer",
+        "Rust developers to join our team of researchers and engineers",
+        "number of positions: https://jobs",
+        "Data Engineer",
+        "SWEs to ship AI-first product experiences and infrastructure"
+      ]
+    }
+  ],
+  "new_course_recommendations": [
+    {
+      "suggested_code": "EECS 498",
+      "suggested_title": "Systems Programming in Rust",
+      "justification": "Industry is rapidly adopting Rust for infrastructure, networking, and safety-critical systems. Memory-safe systems languages are increasingly required.",
+      "target_skills": [
+        "rust"
+      ],
+      "market_demand_score": 11.1,
+      "related_existing_courses": [
+        "EECS 280",
+        "EECS 281",
+        "EECS 482"
+      ]
+    }
+  ],
+  "analysis_timestamp": "2026-02-20T10:25:13.615782",
+  "data_source": "oracle_db"
+}

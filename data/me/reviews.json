@@ -1,1 +1,458 @@
-{"total_reviews":68,"sources":["coursicle"],"courses_reviewed":12,"course_summaries":[{"course_code":"MECHENG 235","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Claus Borgnakke • 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/235/"}],"sample_positive":[]},{"course_code":"MECHENG 360","total_reviews":6,"positive":0,"negative":1,"neutral":5,"avg_sentiment":-0.17,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/360/"}],"sample_positive":[]},{"course_code":"MECHENG 211","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 240","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 320","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[["valuable",1]],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 350","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[["well taught",1]],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 382","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 395","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 450","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 461","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 481","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"MECHENG 552","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]}],"flagged_courses":[{"course_code":"MECHENG 235","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Claus Borgnakke • 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/235/"}],"sample_positive":[]},{"course_code":"MECHENG 360","total_reviews":6,"positive":0,"negative":1,"neutral":5,"avg_sentiment":-0.17,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/360/"}],"sample_positive":[]}],"overall_themes":[{"theme":"not practical","count":2,"type":"negative"},{"theme":"boring","count":2,"type":"negative"},{"theme":"valuable","count":1,"type":"positive"},{"theme":"well taught","count":1,"type":"positive"}],"courses_at_risk":[{"course_code":"MECHENG 235","total_reviews":5,"positive":0,"negative":1,"neutral":4,"avg_sentiment":-0.2,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"Reviews Claus Borgnakke • 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/235/"}],"sample_positive":[],"alignment_score":22.4,"risk_level":"critical","reason":"Students report not practical AND this course has only 22.4% market alignment. Urgent overhaul recommended."},{"course_code":"MECHENG 360","total_reviews":6,"positive":0,"negative":1,"neutral":5,"avg_sentiment":-0.17,"satisfaction_pct":0.0,"top_complaints":[["boring",1]],"top_praises":[],"sample_negative":[{"text":"MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t","source":"coursicle","url":"https://www.coursicle.com/umich/courses/MECHENG/360/"}],"sample_positive":[],"alignment_score":26.5,"risk_level":"critical","reason":"Students report boring AND this course has only 26.5% market alignment. Urgent overhaul recommended."},{"course_code":"MECHENG 211","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":23.3,"risk_level":"moderate","reason":"Only 23.3% aligned with current job market demands."},{"course_code":"MECHENG 240","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":27.6,"risk_level":"moderate","reason":"Only 27.6% aligned with current job market demands."},{"course_code":"MECHENG 320","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[["valuable",1]],"sample_negative":[],"sample_positive":[],"alignment_score":14.2,"risk_level":"moderate","reason":"Only 14.2% aligned with current job market demands."},{"course_code":"MECHENG 382","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":34.1,"risk_level":"moderate","reason":"Only 34.1% aligned with current job market demands."},{"course_code":"MECHENG 395","total_reviews":6,"positive":0,"negative":0,"neutral":6,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":24.5,"risk_level":"moderate","reason":"Only 24.5% aligned with current job market demands."},{"course_code":"MECHENG 461","total_reviews":5,"positive":0,"negative":0,"neutral":5,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":35.6,"risk_level":"moderate","reason":"Only 35.6% aligned with current job market demands."},{"course_code":"MECHENG 552","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":36.5,"risk_level":"moderate","reason":"Only 36.5% aligned with current job market demands."}],"major":"me"}
+{
+  "total_reviews": 179,
+  "sources": [
+    "coursicle"
+  ],
+  "courses_reviewed": 16,
+  "course_summaries": [
+    {
+      "course_code": "MECHENG 235",
+      "total_reviews": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Claus Borgnakke \u2022 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/235/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 360",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": -0.17,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/360/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 211",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 240",
+      "total_reviews": 17,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 14,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 320",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 350",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "well taught",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 382",
+      "total_reviews": 15,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 11,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 395",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 450",
+      "total_reviews": 17,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 13,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 461",
+      "total_reviews": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 481",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 552",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "MECHENG 235",
+      "total_reviews": 13,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 9,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Claus Borgnakke \u2022 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/235/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "MECHENG 360",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": -0.17,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/360/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "not practical",
+      "count": 2,
+      "type": "negative"
+    },
+    {
+      "theme": "boring",
+      "count": 2,
+      "type": "negative"
+    },
+    {
+      "theme": "valuable",
+      "count": 1,
+      "type": "positive"
+    },
+    {
+      "theme": "well taught",
+      "count": 1,
+      "type": "positive"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "MECHENG 235",
+      "total_reviews": 14,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 10,
+      "avg_sentiment": -0.2,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "Reviews Claus Borgnakke \u2022 3y First-year NAVARCH Claus is an oldschool type of professor and a genuinely good guy, however, I had difficulty following his logic and his notes were quite confusing. I (and many students) were lost until about a week before the exam when I read the book and caught up. M",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/235/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 22.4,
+      "risk_level": "critical",
+      "reason": "Students report not practical AND this course has only 22.4% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "MECHENG 360",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": -0.17,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "boring",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "MECHENG One of the worst profs I've had. His lectures were slow and dry and we ended up always being behind schedule. Stein seemed to have no idea what was being asked on the homework so the information given in lecture had nothing to do with homework or exam questions. Pray you have a good GSI to t",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/MECHENG/360/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 26.5,
+      "risk_level": "critical",
+      "reason": "Students report boring AND this course has only 26.5% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "MECHENG 211",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 23.3,
+      "risk_level": "moderate",
+      "reason": "Only 23.3% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 240",
+      "total_reviews": 18,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 14,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 27.6,
+      "risk_level": "moderate",
+      "reason": "Only 27.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 320",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [
+        [
+          "valuable",
+          1
+        ]
+      ],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 14.2,
+      "risk_level": "moderate",
+      "reason": "Only 14.2% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 382",
+      "total_reviews": 15,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 11,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 34.1,
+      "risk_level": "moderate",
+      "reason": "Only 34.1% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 395",
+      "total_reviews": 16,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 12,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 24.5,
+      "risk_level": "moderate",
+      "reason": "Only 24.5% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 461",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 35.6,
+      "risk_level": "moderate",
+      "reason": "Only 35.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "MECHENG 552",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 36.5,
+      "risk_level": "moderate",
+      "reason": "Only 36.5% aligned with current job market demands."
+    }
+  ],
+  "major": "me"
+}

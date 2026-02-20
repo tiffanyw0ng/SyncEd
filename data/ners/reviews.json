@@ -1,1 +1,280 @@
-{"total_reviews":19,"sources":["coursicle"],"courses_reviewed":9,"course_summaries":[{"course_code":"NERS 312","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/NERS/312/"}],"sample_positive":[]},{"course_code":"NERS 211","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 250","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 344","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 425","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 442","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 462","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 471","total_reviews":2,"positive":0,"negative":0,"neutral":2,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]},{"course_code":"NERS 521","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[]}],"flagged_courses":[{"course_code":"NERS 312","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/NERS/312/"}],"sample_positive":[]}],"overall_themes":[{"theme":"not practical","count":1,"type":"negative"}],"courses_at_risk":[{"course_code":"NERS 312","total_reviews":4,"positive":0,"negative":1,"neutral":3,"avg_sentiment":-0.25,"satisfaction_pct":0.0,"top_complaints":[["not practical",1]],"top_praises":[],"sample_negative":[{"text":"NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.","source":"coursicle","url":"https://www.coursicle.com/umich/courses/NERS/312/"}],"sample_positive":[],"alignment_score":44.4,"risk_level":"critical","reason":"Students report not practical AND this course has only 44.4% market alignment. Urgent overhaul recommended."},{"course_code":"NERS 211","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":43.8,"risk_level":"moderate","reason":"Only 43.8% aligned with current job market demands."},{"course_code":"NERS 250","total_reviews":4,"positive":0,"negative":0,"neutral":4,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":47.1,"risk_level":"moderate","reason":"Only 47.1% aligned with current job market demands."},{"course_code":"NERS 344","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":37.6,"risk_level":"moderate","reason":"Only 37.6% aligned with current job market demands."},{"course_code":"NERS 442","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":45.0,"risk_level":"moderate","reason":"Only 45.0% aligned with current job market demands."},{"course_code":"NERS 521","total_reviews":1,"positive":0,"negative":0,"neutral":1,"avg_sentiment":0.0,"satisfaction_pct":0.0,"top_complaints":[],"top_praises":[],"sample_negative":[],"sample_positive":[],"alignment_score":46.8,"risk_level":"moderate","reason":"Only 46.8% aligned with current job market demands."}],"major":"ners"}
+{
+  "total_reviews": 49,
+  "sources": [
+    "coursicle"
+  ],
+  "courses_reviewed": 12,
+  "course_summaries": [
+    {
+      "course_code": "NERS 312",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/NERS/312/"
+        }
+      ],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 211",
+      "total_reviews": 12,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 8,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 250",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 344",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 425",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 442",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 462",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 471",
+      "total_reviews": 5,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    },
+    {
+      "course_code": "NERS 521",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": []
+    }
+  ],
+  "flagged_courses": [
+    {
+      "course_code": "NERS 312",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/NERS/312/"
+        }
+      ],
+      "sample_positive": []
+    }
+  ],
+  "overall_themes": [
+    {
+      "theme": "not practical",
+      "count": 1,
+      "type": "negative"
+    }
+  ],
+  "courses_at_risk": [
+    {
+      "course_code": "NERS 312",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": -0.25,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [
+        [
+          "not practical",
+          1
+        ]
+      ],
+      "top_praises": [],
+      "sample_negative": [
+        {
+          "text": "NERS The course material was presented in an easily digestible way and the homework and exams were challenging but not pointlessly difficult. Also, his accent really isn't that bad. It never was an impediment to my learning.",
+          "source": "coursicle",
+          "url": "https://www.coursicle.com/umich/courses/NERS/312/"
+        }
+      ],
+      "sample_positive": [],
+      "alignment_score": 44.4,
+      "risk_level": "critical",
+      "reason": "Students report not practical AND this course has only 44.4% market alignment. Urgent overhaul recommended."
+    },
+    {
+      "course_code": "NERS 211",
+      "total_reviews": 11,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 7,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 43.8,
+      "risk_level": "moderate",
+      "reason": "Only 43.8% aligned with current job market demands."
+    },
+    {
+      "course_code": "NERS 250",
+      "total_reviews": 10,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 6,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 47.1,
+      "risk_level": "moderate",
+      "reason": "Only 47.1% aligned with current job market demands."
+    },
+    {
+      "course_code": "NERS 344",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 37.6,
+      "risk_level": "moderate",
+      "reason": "Only 37.6% aligned with current job market demands."
+    },
+    {
+      "course_code": "NERS 442",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 45.0,
+      "risk_level": "moderate",
+      "reason": "Only 45.0% aligned with current job market demands."
+    },
+    {
+      "course_code": "NERS 521",
+      "total_reviews": 2,
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0,
+      "avg_sentiment": 0.0,
+      "satisfaction_pct": 0.0,
+      "top_complaints": [],
+      "top_praises": [],
+      "sample_negative": [],
+      "sample_positive": [],
+      "alignment_score": 46.8,
+      "risk_level": "moderate",
+      "reason": "Only 46.8% aligned with current job market demands."
+    }
+  ],
+  "major": "ners"
+}
